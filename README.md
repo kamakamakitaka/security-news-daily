@@ -34,13 +34,15 @@
 
 ---
 
-**Last Updated**: 2026-06-03 21:43:01
+**Last Updated**: 2026-06-03 21:44:15
+
+
 
 
 
 
 ## 📌 最新の解説
 
-**2026年06月03日**: [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Beyond_the_Zero-Day_See_Your_Network_Like_an_Attac.md)
+**2026年06月03日**: [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Unpatched_Windows_Search_URI_Vulnerability_Lets_At.md)
 
-元記事: [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31ok)
+元記事: [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31ow)

@@ -8,6 +8,10 @@ on:
   # 手動実行用
   workflow_dispatch:
 
+permissions:
+  contents: write
+  repository-projects: write
+
 jobs:
   analyze:
     runs-on: ubuntu-latest

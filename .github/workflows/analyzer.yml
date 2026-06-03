@@ -26,10 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Create credentials file
+      - name: Create credentials files
         run: |
           mkdir -p credentials
           echo '${{ secrets.GMAIL_CREDENTIALS_JSON }}' > credentials/credentials.json
+          echo '${{ secrets.GMAIL_TOKEN_PICKLE }}' | base64 -d > credentials/token.pickle
 
       - name: Run analyzer
         env:

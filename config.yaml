@@ -1,0 +1,36 @@
+# Security News Analyzer Configuration
+
+# Gmail設定
+gmail:
+  email: "mstk.allfirst@gmail.com"
+  sender_filter: "news@news.nl00.net"  # The Hacker Newsのメールアドレス
+  search_query: "from:news@news.nl00.net subject:(Hacker OR Security OR Cyber)"
+  
+# GitHub設定
+github:
+  username: "kamakamakitaka"
+  repo_name: "security-news-daily"
+  branch: "main"
+  
+# Anthropic API設定
+anthropic:
+  model: "claude-sonnet-4-20250514"
+  max_tokens: 8000
+  
+# スケジュール設定
+schedule:
+  check_time: "21:30"  # メール到着想定時刻
+  process_time: "21:35"  # 処理開始時刻
+  deadline: "22:00"  # 完成目標時刻
+  
+# 解説設定
+analysis:
+  target_audience: "high_school_level"  # 高校生レベル
+  include_system_diagrams: true
+  reference_past_articles: true
+  max_past_references: 3
+  
+# ログ設定
+logging:
+  level: "INFO"
+  retention_days: 30

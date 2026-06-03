@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-03 14:09:42
+**Last Updated**: 2026-06-03 14:10:58
+
+
 
 
 
@@ -61,6 +63,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月03日**: [Endpoint Detection & Response Is Now Table Stakes — Here's What Comes Next](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Endpoint_Detection__Response_Is_Now_Table_Stakes.md)
+**2026年06月03日**: [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Weedhack_Attacks_Minecraft_Users_CountLoader_Hits.md)
 
-元記事: [Endpoint Detection & Response Is Now Table Stakes — Here's What Comes Next](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31p8)
+元記事: [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31pe)

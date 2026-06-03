@@ -51,6 +51,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull origin main
           git add -A
           git commit -m "Auto: Daily security news analysis $(date '+%Y-%m-%d')" || echo "No changes to commit"
           git push

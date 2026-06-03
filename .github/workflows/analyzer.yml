@@ -46,14 +46,14 @@ jobs:
 
       - name: Commit and push results
         if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Auto: Daily security news analysis $(date '+%Y-%m-%d')" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload logs on failure
         if: failure()

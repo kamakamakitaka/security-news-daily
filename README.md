@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-03 21:45:34
+**Last Updated**: 2026-06-03 21:46:46
+
+
 
 
 
@@ -45,6 +47,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月03日**: [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_New_HTTP2_Bomb_Vulnerability_Allows_Remote_DoS_on.md)
+**2026年06月03日**: [Endpoint Detection & Response Is Now Table Stakes — Here's What Comes Next](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Endpoint_Detection__Response_Is_Now_Table_Stakes.md)
 
-元記事: [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31p2)
+元記事: [Endpoint Detection & Response Is Now Table Stakes — Here's What Comes Next](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31p8)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-03 14:07:19
+**Last Updated**: 2026-06-03 14:08:34
+
+
 
 
 
@@ -57,6 +59,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月03日**: [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Unpatched_Windows_Search_URI_Vulnerability_Lets_At.md)
+**2026年06月03日**: [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_New_HTTP2_Bomb_Vulnerability_Allows_Remote_DoS_on.md)
 
-元記事: [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31ow)
+元記事: [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31p2)

@@ -39,7 +39,7 @@ jobs:
       - name: Run analyzer
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
           GITHUB_ACTOR: ${{ github.actor }}
         run: |
           python src/main.py

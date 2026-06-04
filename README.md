@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-03 14:21:55
+**Last Updated**: 2026-06-04 16:04:31
+
+
 
 
 
@@ -79,6 +81,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月03日**: [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/03_Google_June_2026_Android_Update_Patches_124_Flaws.md)
+**2026年06月04日**: [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_FlutterShell_Backdoor_Spreads_to_macOS_via_Malicio.md)
 
-元記事: [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://inl03.netline.com/ltr6/?_m=3n.009a.3994.sp0ao46r89.31pk)
+元記事: [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31ps)

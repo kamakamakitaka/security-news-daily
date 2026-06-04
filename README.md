@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:07:36
+**Last Updated**: 2026-06-04 16:08:51
+
+
 
 
 
@@ -85,6 +87,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_Hackers_Spied_on_a_Stock_Exchange_Executives_Outlo.md)
+**2026年06月04日**: [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_DoJ_Disrupts_Southeast_Asia_Crypto_Fraud_Networks.md)
 
-元記事: [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qa)
+元記事: [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qg)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:04:31
+**Last Updated**: 2026-06-04 16:05:49
+
+
 
 
 
@@ -81,6 +83,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_FlutterShell_Backdoor_Spreads_to_macOS_via_Malicio.md)
+**2026年06月04日**: [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_Fake_Sites_Mimicking_Open-Source_Tools_Rank_High_o.md)
 
-元記事: [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31ps)
+元記事: [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31py)

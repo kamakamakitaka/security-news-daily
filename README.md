@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:08:51
+**Last Updated**: 2026-06-04 16:09:58
+
+
 
 
 
@@ -87,6 +89,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_DoJ_Disrupts_Southeast_Asia_Crypto_Fraud_Networks.md)
+**2026年06月04日**: [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_WhatsApp_Slack_Notifications_Could_Hijack_Google_G.md)
 
-元記事: [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qg)
+元記事: [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qm)

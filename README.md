@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:11:06
+**Last Updated**: 2026-06-04 16:12:28
+
+
 
 
 
@@ -91,6 +93,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_One-Click_GitHub_Dev_Attack_Lets_Attackers_Steal_F.md)
+**2026年06月04日**: [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_Autonomous_AI_Tool_Finds_2-Year-Old_RCE_Flaw_in_Re.md)
 
-元記事: [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qs)
+元記事: [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qy)

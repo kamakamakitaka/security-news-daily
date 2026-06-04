@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:09:58
+**Last Updated**: 2026-06-04 16:11:06
+
+
 
 
 
@@ -89,6 +91,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_WhatsApp_Slack_Notifications_Could_Hijack_Google_G.md)
+**2026年06月04日**: [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_One-Click_GitHub_Dev_Attack_Lets_Attackers_Steal_F.md)
 
-元記事: [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qm)
+元記事: [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qs)

@@ -34,7 +34,21 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:12:28
+**Last Updated**: 2026-06-05 14:02:08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -93,6 +107,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_Autonomous_AI_Tool_Finds_2-Year-Old_RCE_Flaw_in_Re.md)
+**2026年06月05日**: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Agentic_AI_Is_Transforming_Defense_But_Only_Secure.md)
 
-元記事: [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qy)
+元記事: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31sc)

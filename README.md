@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-05 14:15:36
+**Last Updated**: 2026-06-05 14:16:47
+
+
 
 
 
@@ -119,6 +121,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Claude_Code_GitHub_Action_Flaw_Let_One_Malicious_I.md)
+**2026年06月05日**: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Agentic_AI_Is_Transforming_Defense_But_Only_Secure.md)
 
-元記事: [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31s6)
+元記事: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31sc)

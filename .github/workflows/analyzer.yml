@@ -2,8 +2,11 @@ name: Daily Security News Analyzer
 
 on:
   schedule:
-    # 毎日 12:35 UTC (日本時間 21:35)
+    # 毎日 21:35 JST (日本時間)
+    # 日本時間 21:35 = UTC 12:35
     - cron: '35 12 * * *'
+    # GitHub Actions の時刻ズレ対策: 念のため2回実行
+    - cron: '30 11 * * *'  # UTC 11:30 = JST 20:30 (5分前倒し)
 
   # 手動実行用
   workflow_dispatch:

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-05 14:12:08
+**Last Updated**: 2026-06-05 14:13:15
+
+
 
 
 
@@ -113,6 +115,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_FIFA_World_Cup_2026_Scams_Are_Already_Live_Fake_Si.md)
+**2026年06月05日**: [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_PCPJack_Hijacks_230_AWS_Google_Cloud_and_Azure_Ser.md)
 
-元記事: [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31ro)
+元記事: [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31ru)

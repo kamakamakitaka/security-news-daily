@@ -16,10 +16,10 @@ class SupabaseSaver:
 
         Args:
             url: Supabase Project URL
-            key: Supabase anon public key
+            key: Supabase service_role key
         """
         self.url = url or os.environ.get('SUPABASE_URL')
-        self.key = key or os.environ.get('SUPABASE_KEY')
+        self.key = key or os.environ.get('SUPABASE_SERVICE_KEY')
         self.logger = logging.getLogger(__name__)
 
         if not self.url or not self.key:

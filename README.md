@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-04 16:12:28
+**Last Updated**: 2026-06-05 13:54:47
+
+
 
 
 
@@ -93,6 +95,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月04日**: [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/04_Autonomous_AI_Tool_Finds_2-Year-Old_RCE_Flaw_in_Re.md)
+**2026年06月05日**: [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Only_10_of_SOCs_Say_Theyre_Getting_Excellent_Value.md)
 
-元記事: [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://inl03.netline.com/ltr6/?_m=3n.009a.3995.sp0ao46r89.31qy)
+元記事: [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31r6)

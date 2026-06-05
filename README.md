@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-05 13:54:47
+**Last Updated**: 2026-06-05 13:56:08
+
+
 
 
 
@@ -95,6 +97,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Only_10_of_SOCs_Say_Theyre_Getting_Excellent_Value.md)
+**2026年06月05日**: [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Hackers_Exploit_Critical_Everest_Forms_Pro_WordPre.md)
 
-元記事: [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31r6)
+元記事: [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31rc)

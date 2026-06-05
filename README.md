@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-05 14:10:46
+**Last Updated**: 2026-06-05 14:12:08
+
+
 
 
 
@@ -111,6 +113,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Hackers_Exploit_Critical_Everest_Forms_Pro_WordPre.md)
+**2026年06月05日**: [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_FIFA_World_Cup_2026_Scams_Are_Already_Live_Fake_Si.md)
 
-元記事: [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31rc)
+元記事: [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31ro)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-05 15:42:46
+**Last Updated**: 2026-06-05 15:43:55
+
+
 
 
 
@@ -129,6 +131,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_PCPJack_Hijacks_230_AWS_Google_Cloud_and_Azure_Ser.md)
+**2026年06月05日**: [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Cisco_Patches_CVE-2026-20230_in_Unified_CM_as_Expl.md)
 
-元記事: [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31ru)
+元記事: [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31s0)

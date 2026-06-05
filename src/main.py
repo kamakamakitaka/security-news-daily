@@ -22,6 +22,7 @@ load_dotenv(os.path.join(project_root, '.env'))
 from src.gmail_fetcher import GmailFetcher
 from src.news_analyzer import NewsAnalyzer
 from src.github_saver import GitHubSaver
+from src.supabase_saver import SupabaseSaver
 
 
 def setup_logging(log_dir='logs'):
@@ -84,7 +85,9 @@ def main():
             username=config['github']['username'],
             repo_name=config['github']['repo_name']
         )
-        
+
+        supabase_saver = SupabaseSaver()
+
         logger.info("全モジュールを初期化しました")
         
         # Gmail 認証
@@ -145,14 +148,22 @@ def main():
                 # GitHub に保存
                 logger.info("GitHub に保存中...")
                 github_url = github_saver.save_analysis(article, analysis)
-                
+
                 # README 更新
                 github_saver.update_readme_with_latest(
                     article['title'],
                     article['url'],
                     github_url
                 )
-                
+
+                # Supabase に保存
+                logger.info("Supabase に保存中...")
+                try:
+                    supabase_saver.save_article(article, analysis)
+                    logger.info(f"✅ Supabase 保存完了: {article['title']}")
+                except Exception as e:
+                    logger.warning(f"⚠️ Supabase 保存エラー（GitHub は保存済み）: {e}")
+
                 logger.info(f"✅ 完了: {github_url}")
                 
             except Exception as e:

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-06 14:24:36
+**Last Updated**: 2026-06-06 14:25:51
+
+
 
 
 
@@ -145,6 +147,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月06日**: [Detecting Phishing and Insider Threats Using Wazuh](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_Detecting_Phishing_and_Insider_Threats_Using_Wazuh.md)
+**2026年06月06日**: [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_Cisco_Catalyst_SD-WAN_Manager_CVE-2026-20245_Flaw.md)
 
-元記事: [Detecting Phishing and Insider Threats Using Wazuh](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31te)
+元記事: [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31tk)

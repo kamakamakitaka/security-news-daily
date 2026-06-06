@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-06 14:19:17
+**Last Updated**: 2026-06-06 14:20:18
+
+
 
 
 
@@ -137,6 +139,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月06日**: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_Free_Apps_Are_Quietly_Turning_Smart_TVs_Into_Web-S.md)
+**2026年06月06日**: [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_CISA_Adds_Actively_Exploited_SolarWinds_Serv-U_DoS.md)
 
-元記事: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31sk)
+元記事: [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31sq)

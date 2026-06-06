@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-05 15:46:21
+**Last Updated**: 2026-06-06 14:19:17
+
+
 
 
 
@@ -135,6 +137,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Agentic_AI_Is_Transforming_Defense_But_Only_Secure.md)
+**2026年06月06日**: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_Free_Apps_Are_Quietly_Turning_Smart_TVs_Into_Web-S.md)
 
-元記事: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31sc)
+元記事: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31sk)

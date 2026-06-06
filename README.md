@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-06 14:25:51
+**Last Updated**: 2026-06-06 14:27:07
+
+
 
 
 
@@ -147,6 +149,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月06日**: [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_Cisco_Catalyst_SD-WAN_Manager_CVE-2026-20245_Flaw.md)
+**2026年06月06日**: [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_IronWorm_and_New_Miasma_Worm_Variant_Hit_npm_in_Su.md)
 
-元記事: [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31tk)
+元記事: [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31tq)

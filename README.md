@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-08 16:44:57
+**Last Updated**: 2026-06-08 16:46:06
+
+
 
 
 
@@ -161,6 +163,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月08日**: [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_New_ChatGPT_Lockdown_Mode_Limits_Tools_That_Could.md)
+**2026年06月08日**: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_Free_Apps_Are_Quietly_Turning_Smart_TVs_Into_Web-S.md)
 
-元記事: [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31uy)
+元記事: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31v4)

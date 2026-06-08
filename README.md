@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-08 16:43:57
+**Last Updated**: 2026-06-08 16:44:57
+
+
 
 
 
@@ -159,6 +161,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月08日**: [How Attackers Are Adding AI Voice Cloning to Microsoft Teams Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_How_Attackers_Are_Adding_AI_Voice_Cloning_to_Micro.md)
+**2026年06月08日**: [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_New_ChatGPT_Lockdown_Mode_Limits_Tools_That_Could.md)
 
-元記事: [How Attackers Are Adding AI Voice Cloning to Microsoft Teams Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31us)
+元記事: [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31uy)

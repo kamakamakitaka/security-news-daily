@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-08 16:40:20
+**Last Updated**: 2026-06-08 16:41:48
+
+
 
 
 
@@ -153,6 +155,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月08日**: [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_VerdantBamboo_Deploys_BSD_Variant_of_BRICKSTORM_on.md)
+**2026年06月08日**: [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_UNC3753_Used_Vishing_and_Physical_Intrusions_in_US.md)
 
-元記事: [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31u4)
+元記事: [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31ug)

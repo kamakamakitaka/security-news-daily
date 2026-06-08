@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-06 14:27:07
+**Last Updated**: 2026-06-08 16:39:00
+
+
 
 
 
@@ -149,6 +151,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月06日**: [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/06_IronWorm_and_New_Miasma_Worm_Variant_Hit_npm_in_Su.md)
+**2026年06月08日**: [The Hardest Fork](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_The_Hardest_Fork.md)
 
-元記事: [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.3997.sp0ao46r89.31tq)
+元記事: [The Hardest Fork](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31ty)

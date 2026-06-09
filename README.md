@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 15:18:20
+**Last Updated**: 2026-06-09 15:19:32
+
+
 
 
 
@@ -181,6 +183,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Chrome_V8_Zero-Day_CVE-2026-11645_Exploited_in_the.md)
+**2026年06月09日**: [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_The_Hidden_Security_Risk_in_Modern_Networks_The_Wo.md)
 
-元記事: [Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31vi)
+元記事: [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31vu)

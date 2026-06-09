@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 15:23:15
+**Last Updated**: 2026-06-09 15:24:26
+
+
 
 
 
@@ -189,6 +191,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Hades_PyPI_Attack_19_Packages_Poisoned_to_Auto-Run.md)
+**2026年06月09日**: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_LiteLLM_Flaw_CVE-2026-42271_Exploited_in_the_Wild.md)
 
-元記事: [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31wc)
+元記事: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31wi)

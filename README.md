@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 15:24:26
+**Last Updated**: 2026-06-09 15:35:55
+
+
 
 
 
@@ -191,6 +193,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_LiteLLM_Flaw_CVE-2026-42271_Exploited_in_the_Wild.md)
+**2026年06月09日**: [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Researchers_Build_Self-Replicating_AI_Worm_That_Op.md)
 
-元記事: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31wi)
+元記事: [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31vc)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-08 16:46:06
+**Last Updated**: 2026-06-09 14:46:30
+
+
 
 
 
@@ -163,6 +165,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月08日**: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/08_Free_Apps_Are_Quietly_Turning_Smart_TVs_Into_Web-S.md)
+**2026年06月09日**: [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Researchers_Build_Self-Replicating_AI_Worm_That_Op.md)
 
-元記事: [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://inl03.netline.com/ltr6/?_m=3n.009a.3998.sp0ao46r89.31v4)
+元記事: [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31vc)

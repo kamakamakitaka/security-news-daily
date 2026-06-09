@@ -128,10 +128,10 @@ def main():
             try:
                 # 記事本文を取得
                 article_content = news_analyzer.fetch_article_content(article['url'])
-                
+
                 if not article_content:
-                    logger.warning("記事本文を取得できませんでした。スキップします。")
-                    continue
+                    logger.warning("記事本文を抽出できませんでした。タイトル・URLのみで保存します。")
+                    article_content = f"※ 記事本文を抽出できませんでした。\n詳細は以下のリンクをご確認ください:\n{article['url']}"
                 
                 # 解析・解説
                 logger.info("Claude で解析中...")

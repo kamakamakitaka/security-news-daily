@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 15:39:21
+**Last Updated**: 2026-06-09 15:40:47
+
+
 
 
 
@@ -199,6 +201,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_The_Hidden_Security_Risk_in_Modern_Networks_The_Wo.md)
+**2026年06月09日**: [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_New_FROST_Attack_Lets_Websites_Track_What_Sites_an.md)
 
-元記事: [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31vu)
+元記事: [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31w0)

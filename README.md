@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 14:50:02
+**Last Updated**: 2026-06-09 14:51:16
+
+
 
 
 
@@ -171,6 +173,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_New_FROST_Attack_Lets_Websites_Track_What_Sites_an.md)
+**2026年06月09日**: [Hacking Salesforce Sites With an LLM Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Hacking_Salesforce_Sites_With_an_LLM_Agent.md)
 
-元記事: [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31w0)
+元記事: [Hacking Salesforce Sites With an LLM Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31w6)

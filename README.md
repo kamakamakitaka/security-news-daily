@@ -34,7 +34,77 @@
 
 ---
 
-**Last Updated**: 2026-06-05 14:16:47
+**Last Updated**: 2026-06-09 15:24:26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -121,6 +191,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月05日**: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/05_Agentic_AI_Is_Transforming_Defense_But_Only_Secure.md)
+**2026年06月09日**: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_LiteLLM_Flaw_CVE-2026-42271_Exploited_in_the_Wild.md)
 
-元記事: [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://inl03.netline.com/ltr6/?_m=3n.009a.3996.sp0ao46r89.31sc)
+元記事: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31wi)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 15:49:31
+**Last Updated**: 2026-06-09 15:50:36
+
+
 
 
 
@@ -219,6 +221,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [Hacking Salesforce Sites With an LLM Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Hacking_Salesforce_Sites_With_an_LLM_Agent.md)
+**2026年06月09日**: [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_Hades_PyPI_Attack_19_Packages_Poisoned_to_Auto-Run.md)
 
-元記事: [Hacking Salesforce Sites With an LLM Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31w6)
+元記事: [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31wc)

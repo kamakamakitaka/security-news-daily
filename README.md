@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-10 16:26:29
+**Last Updated**: 2026-06-10 16:27:34
+
+
 
 
 
@@ -227,6 +229,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月10日**: [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Microsoft_Patches_Record_206_Flaws_Including_Three.md)
+**2026年06月10日**: [Registry. Memory. Disk. SANS FOR500 (GCFE) Covers Every Windows Artifact That Matters.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Registry_Memory_Disk_SANS_FOR500_GCFE_Covers_Every.md)
 
-元記事: [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31ww)
+元記事: [Registry. Memory. Disk. SANS FOR500 (GCFE) Covers Every Windows Artifact That Matters.](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31x2)

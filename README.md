@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-10 16:31:08
+**Last Updated**: 2026-06-10 16:32:19
+
+
 
 
 
@@ -235,6 +237,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月10日**: [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Microsoft_Defender_RoguePlanet_Zero-Day_Grants_SYS.md)
+**2026年06月10日**: [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Six_Proto6_Vulnerabilities_in_protobufjs_Expose_No.md)
 
-元記事: [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xk)
+元記事: [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xq)

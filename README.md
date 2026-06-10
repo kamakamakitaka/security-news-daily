@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-09 15:51:42
+**Last Updated**: 2026-06-10 16:25:03
+
+
 
 
 
@@ -223,6 +225,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月09日**: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/09_LiteLLM_Flaw_CVE-2026-42271_Exploited_in_the_Wild.md)
+**2026年06月10日**: [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Your_Automated_Pentest_Looks_Clean_See_What_It_Mis.md)
 
-元記事: [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.3999.sp0ao46r89.31wi)
+元記事: [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31wq)

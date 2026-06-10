@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-10 16:29:46
+**Last Updated**: 2026-06-10 16:31:08
+
+
 
 
 
@@ -233,6 +235,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月10日**: [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_ServiceNow_Flaw_Exploited_to_Gain_Unauthorized_Acc.md)
+**2026年06月10日**: [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Microsoft_Defender_RoguePlanet_Zero-Day_Grants_SYS.md)
 
-元記事: [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xe)
+元記事: [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xk)

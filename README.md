@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-10 16:25:03
+**Last Updated**: 2026-06-10 16:26:29
+
+
 
 
 
@@ -225,6 +227,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月10日**: [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Your_Automated_Pentest_Looks_Clean_See_What_It_Mis.md)
+**2026年06月10日**: [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Microsoft_Patches_Record_206_Flaws_Including_Three.md)
 
-元記事: [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31wq)
+元記事: [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31ww)

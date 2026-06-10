@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-10 16:32:19
+**Last Updated**: 2026-06-10 16:33:28
+
+
 
 
 
@@ -237,6 +239,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月10日**: [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Six_Proto6_Vulnerabilities_in_protobufjs_Expose_No.md)
+**2026年06月10日**: [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Meta_to_Use_Off-Site_Business_Data_for_Feed_and_AI.md)
 
-元記事: [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xq)
+元記事: [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xw)

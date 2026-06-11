@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-11 16:40:06
+**Last Updated**: 2026-06-11 16:41:18
+
+
 
 
 
@@ -241,6 +243,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月11日**: [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_AI_Broke_Vulnerability_Management_Thats_Why_CISOs.md)
+**2026年06月11日**: [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_OceanLotus_Hits_Vietnam_Investors_With_SPECTRALVIP.md)
 
-元記事: [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31y4)
+元記事: [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31ya)

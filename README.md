@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-11 16:45:45
+**Last Updated**: 2026-06-11 16:47:04
+
+
 
 
 
@@ -251,6 +253,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月11日**: [Hacking Salesforce Sites With an LLM Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_Hacking_Salesforce_Sites_With_an_LLM_Agent.md)
+**2026年06月11日**: [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_Ivanti_Fortinet_and_SAP_Release_Patches_for_Multip.md)
 
-元記事: [Hacking Salesforce Sites With an LLM Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31yy)
+元記事: [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31z4)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-11 16:44:40
+**Last Updated**: 2026-06-11 16:45:45
+
+
 
 
 
@@ -249,6 +251,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月11日**: [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_China-Linked_JDY_Botnet_Expands_to_1500_Devices_fo.md)
+**2026年06月11日**: [Hacking Salesforce Sites With an LLM Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_Hacking_Salesforce_Sites_With_an_LLM_Agent.md)
 
-元記事: [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31ys)
+元記事: [Hacking Salesforce Sites With an LLM Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31yy)

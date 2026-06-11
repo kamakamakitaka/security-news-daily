@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-11 16:42:17
+**Last Updated**: 2026-06-11 16:43:28
+
+
 
 
 
@@ -245,6 +247,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月11日**: [AI Attacks Are Accelerating. Make Sure You Are Fixing the Right Things.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_AI_Attacks_Are_Accelerating_Make_Sure_You_Are_Fixi.md)
+**2026年06月11日**: [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_GitHub_to_Disable_npm_Install_Scripts_by_Default_t.md)
 
-元記事: [AI Attacks Are Accelerating. Make Sure You Are Fixing the Right Things.](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31yg)
+元記事: [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31ym)

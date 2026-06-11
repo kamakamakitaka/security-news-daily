@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-11 16:43:28
+**Last Updated**: 2026-06-11 16:44:40
+
+
 
 
 
@@ -247,6 +249,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月11日**: [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_GitHub_to_Disable_npm_Install_Scripts_by_Default_t.md)
+**2026年06月11日**: [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_China-Linked_JDY_Botnet_Expands_to_1500_Devices_fo.md)
 
-元記事: [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31ym)
+元記事: [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31ys)

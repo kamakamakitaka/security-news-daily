@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-10 16:33:28
+**Last Updated**: 2026-06-11 16:40:06
+
+
 
 
 
@@ -239,6 +241,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月10日**: [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/10_Meta_to_Use_Off-Site_Business_Data_for_Feed_and_AI.md)
+**2026年06月11日**: [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/11_AI_Broke_Vulnerability_Management_Thats_Why_CISOs.md)
 
-元記事: [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://inl03.netline.com/ltr6/?_m=3n.009a.4000.sp0ao46r89.31xw)
+元記事: [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://inl03.netline.com/ltr6/?_m=3n.009a.4001.sp0ao46r89.31y4)

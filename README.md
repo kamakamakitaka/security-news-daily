@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-12 15:56:28
+**Last Updated**: 2026-06-12 15:57:43
+
+
 
 
 
@@ -267,6 +269,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月12日**: [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_ShinyHunters_Exploits_Oracle_PeopleSoft_Zero-Day_C.md)
+**2026年06月12日**: [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_New_Attacks_Trick_OpenClaw_AI_Agent_Into_Running_C.md)
 
-元記事: [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.320c)
+元記事: [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.320i)

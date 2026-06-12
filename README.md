@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-12 15:54:04
+**Last Updated**: 2026-06-12 15:55:16
+
+
 
 
 
@@ -263,6 +265,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月12日**: [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_INTERPOL_Operation_Takes_Down_Sniper_Dz_Phishing_P.md)
+**2026年06月12日**: [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_Europol_Disrupts_AudiA6_Crypto_Laundering_Service.md)
 
-元記事: [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.3200)
+元記事: [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.3206)

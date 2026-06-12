@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-12 15:50:51
+**Last Updated**: 2026-06-12 15:51:55
+
+
 
 
 
@@ -257,6 +259,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月12日**: [Rethinking MDR as Attackers and Defenders Embrace AI](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_Rethinking_MDR_as_Attackers_and_Defenders_Embrace.md)
+**2026年06月12日**: [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_LangGraph_Flaw_Chain_Exposes_Self-Hosted_AI_Agents.md)
 
-元記事: [Rethinking MDR as Attackers and Defenders Embrace AI](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.31zi)
+元記事: [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.31zo)

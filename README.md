@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-12 15:58:46
+**Last Updated**: 2026-06-13 14:41:26
+
+
 
 
 
@@ -271,6 +273,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月12日**: [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/12_New_GreatXML_Exploit_Bypasses_Windows_BitLocker_vi.md)
+**2026年06月13日**: [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_US_Orders_Anthropic_to_Suspend_Fable_5_and_Mythos.md)
 
-元記事: [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://inl03.netline.com/ltr6/?_m=3n.009a.4002.sp0ao46r89.320o)
+元記事: [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.320w)

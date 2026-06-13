@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-13 14:45:38
+**Last Updated**: 2026-06-13 14:46:49
+
+
 
 
 
@@ -279,6 +281,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月13日**: [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_China-Linked_Hackers_Backdoored_Linux_Login_Softwa.md)
+**2026年06月13日**: [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_Agentjacking_Attack_Tricks_AI_Coding_Agents_Into_R.md)
 
-元記事: [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.321e)
+元記事: [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.321k)

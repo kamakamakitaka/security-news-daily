@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-13 14:44:10
+**Last Updated**: 2026-06-13 14:45:38
+
+
 
 
 
@@ -277,6 +279,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月13日**: [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_Google_Sues_Chinese_Smishing_Network_Accused_of_Us.md)
+**2026年06月13日**: [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_China-Linked_Hackers_Backdoored_Linux_Login_Softwa.md)
 
-元記事: [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.3218)
+元記事: [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.321e)

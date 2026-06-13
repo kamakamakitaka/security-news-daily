@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-13 14:41:26
+**Last Updated**: 2026-06-13 14:43:01
+
+
 
 
 
@@ -273,6 +275,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月13日**: [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_US_Orders_Anthropic_to_Suspend_Fable_5_and_Mythos.md)
+**2026年06月13日**: [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_Over_400_Arch_Linux_AUR_Packages_Hijacked_to_Deplo.md)
 
-元記事: [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.320w)
+元記事: [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.3212)

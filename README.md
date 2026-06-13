@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-13 14:43:01
+**Last Updated**: 2026-06-13 14:44:10
+
+
 
 
 
@@ -275,6 +277,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月13日**: [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_Over_400_Arch_Linux_AUR_Packages_Hijacked_to_Deplo.md)
+**2026年06月13日**: [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_Google_Sues_Chinese_Smishing_Network_Accused_of_Us.md)
 
-元記事: [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.3212)
+元記事: [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.3218)

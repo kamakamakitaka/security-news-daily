@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-15 17:37:24
+**Last Updated**: 2026-06-15 17:38:40
+
+
 
 
 
@@ -293,6 +295,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月15日**: [SANS SEC540: The DevSecOps Course You Can Use at Work on Monday](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_SANS_SEC540_The_DevSecOps_Course_You_Can_Use_at_Wo.md)
+**2026年06月15日**: [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_Popular_WordPress_Plugin_Scripts_Tampered_to_Plant.md)
 
-元記事: [SANS SEC540: The DevSecOps Course You Can Use at Work on Monday](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322m)
+元記事: [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322s)

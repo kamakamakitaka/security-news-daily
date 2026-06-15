@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-15 17:36:23
+**Last Updated**: 2026-06-15 17:37:24
+
+
 
 
 
@@ -291,6 +293,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月15日**: [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_152_Chrome_Wallpaper_Extensions_with_105K_Installs.md)
+**2026年06月15日**: [SANS SEC540: The DevSecOps Course You Can Use at Work on Monday](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_SANS_SEC540_The_DevSecOps_Course_You_Can_Use_at_Wo.md)
 
-元記事: [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322g)
+元記事: [SANS SEC540: The DevSecOps Course You Can Use at Work on Monday](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322m)

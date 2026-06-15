@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-15 17:35:14
+**Last Updated**: 2026-06-15 17:36:23
+
+
 
 
 
@@ -289,6 +291,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月15日**: [The Onboarding Password Mistake That Creates Unnecessary Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_The_Onboarding_Password_Mistake_That_Creates_Unnec.md)
+**2026年06月15日**: [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_152_Chrome_Wallpaper_Extensions_with_105K_Installs.md)
 
-元記事: [The Onboarding Password Mistake That Creates Unnecessary Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322a)
+元記事: [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322g)

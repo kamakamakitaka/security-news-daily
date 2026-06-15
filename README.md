@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-13 14:49:59
+**Last Updated**: 2026-06-15 17:35:14
+
+
 
 
 
@@ -287,6 +289,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月13日**: [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/13_INTERPOL_Operation_Takes_Down_Sniper_Dz_Phishing_P.md)
+**2026年06月15日**: [The Onboarding Password Mistake That Creates Unnecessary Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_The_Onboarding_Password_Mistake_That_Creates_Unnec.md)
 
-元記事: [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://inl03.netline.com/ltr6/?_m=3n.009a.4003.sp0ao46r89.3222)
+元記事: [The Onboarding Password Mistake That Creates Unnecessary Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322a)

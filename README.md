@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-15 17:38:40
+**Last Updated**: 2026-06-15 17:40:03
+
+
 
 
 
@@ -295,6 +297,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月15日**: [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_Popular_WordPress_Plugin_Scripts_Tampered_to_Plant.md)
+**2026年06月15日**: [Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_Sniper_Dz_Scams_Target_MENA_Users_via_Fake_Faceboo.md)
 
-元記事: [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322s)
+元記事: [Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.322y)

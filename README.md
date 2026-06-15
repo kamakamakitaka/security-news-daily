@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-15 17:42:20
+**Last Updated**: 2026-06-15 17:43:38
+
+
 
 
 
@@ -301,6 +303,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月15日**: [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_Palo_Alto_Warns_of_Active_Exploitation_of_PAN-OS_G.md)
+**2026年06月15日**: [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_Critical_Splunk_Enterprise_Flaw_Lets_Attackers_Run.md)
 
-元記事: [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.323a)
+元記事: [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.323g)

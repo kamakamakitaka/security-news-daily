@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-17 13:39:46
+**Last Updated**: 2026-06-17 13:40:58
+
+
 
 
 
@@ -315,6 +317,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月17日**: [Why Active Directory Vulnerabilities Demand More Than a Patch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/17_Why_Active_Directory_Vulnerabilities_Demand_More_T.md)
+**2026年06月17日**: [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/17_CISA_Warns_of_Actively_Exploited_Joomla_JCE_Flaw_A.md)
 
-元記事: [Why Active Directory Vulnerabilities Demand More Than a Patch](https://inl03.netline.com/ltr6/?_m=3n.009a.4006.sp0ao46r89.325w)
+元記事: [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4006.sp0ao46r89.3262)

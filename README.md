@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-15 17:43:38
+**Last Updated**: 2026-06-17 13:33:50
+
+
 
 
 
@@ -303,6 +305,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月15日**: [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/15_Critical_Splunk_Enterprise_Flaw_Lets_Attackers_Run.md)
+**2026年06月17日**: [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/17_Adversarial_Exposure_Validation_Turns_Security_Vis.md)
 
-元記事: [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://inl03.netline.com/ltr6/?_m=3n.009a.4004.sp0ao46r89.323g)
+元記事: [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://inl03.netline.com/ltr6/?_m=3n.009a.4006.sp0ao46r89.3252)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-17 16:30:55
+**Last Updated**: 2026-06-17 16:32:06
+
+
 
 
 
@@ -327,6 +329,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月17日**: [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/17_Malicious_JetBrains_Plugins_Steal_AI_API_Keys_as_C.md)
+**2026年06月17日**: [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/17_144_Mastra_npm_Packages_Compromised_via_Hijacked_C.md)
 
-元記事: [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://inl03.netline.com/ltr6/?_m=3n.009a.4006.sp0ao46r89.325k)
+元記事: [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://inl03.netline.com/ltr6/?_m=3n.009a.4006.sp0ao46r89.325q)

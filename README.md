@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-18 16:09:21
+**Last Updated**: 2026-06-18 16:10:39
+
+
 
 
 
@@ -347,6 +349,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月18日**: [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Junior_Hacker_Used_Tailscale_and_OpenSSH_to_Keep_A.md)
+**2026年06月18日**: [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Adversarial_Exposure_Validation_Turns_Security_Vis.md)
 
-元記事: [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.327a)
+元記事: [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.327g)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-18 16:05:31
+**Last Updated**: 2026-06-18 16:06:50
+
+
 
 
 
@@ -341,6 +343,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月18日**: [Frank Kim Teaches How to Lead Security Programs That Actually Work](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Frank_Kim_Teaches_How_to_Lead_Security_Programs_Th.md)
+**2026年06月18日**: [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Crypto_Clipper_Campaign_Abuses_Fake_Reviews_AI_Nar.md)
 
-元記事: [Frank Kim Teaches How to Lead Security Programs That Actually Work](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.326s)
+元記事: [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.326y)

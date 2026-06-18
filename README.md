@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-18 16:03:19
+**Last Updated**: 2026-06-18 16:04:30
+
+
 
 
 
@@ -337,6 +339,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月18日**: [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Orphaned_AI_Agents_How_to_Find_Hidden_Access_Risks.md)
+**2026年06月18日**: [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_The_Scripts_on_Your_Checkout_Page_Are_Now_a_PCI_DS.md)
 
-元記事: [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.326g)
+元記事: [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.326m)

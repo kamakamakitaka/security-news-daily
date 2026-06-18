@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-18 16:06:50
+**Last Updated**: 2026-06-18 16:07:52
+
+
 
 
 
@@ -343,6 +345,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月18日**: [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Crypto_Clipper_Campaign_Abuses_Fake_Reviews_AI_Nar.md)
+**2026年06月18日**: [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Microsoft_Confirms_RoguePlanet_Defender_Zero-Day_S.md)
 
-元記事: [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.326y)
+元記事: [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.3274)

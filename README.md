@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 15:52:24
+**Last Updated**: 2026-06-19 15:53:29
+
+
 
 
 
@@ -353,6 +355,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_From_Assistive_to_Agentic_The_AI_Shift_Thats_Redef.md)
+**2026年06月19日**: [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Forget_Data_Leakage_Shadow_AIs_Real_Threat_Is_Acce.md)
 
-元記事: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.327u)
+元記事: [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.3280)

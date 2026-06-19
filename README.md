@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 15:57:57
+**Last Updated**: 2026-06-19 15:58:58
+
+
 
 
 
@@ -363,6 +365,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_F5_Patches_Two_Critical_NGINX_Open_Source_Flaws_En.md)
+**2026年06月19日**: [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Orphaned_AI_Agents_How_to_Find_Hidden_Access_Risks.md)
 
-元記事: [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328o)
+元記事: [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328u)

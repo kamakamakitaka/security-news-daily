@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 15:56:49
+**Last Updated**: 2026-06-19 15:57:57
+
+
 
 
 
@@ -361,6 +363,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Apple_Patches_Beats_Studio_Buds_Flaw_Letting_Nearb.md)
+**2026年06月19日**: [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_F5_Patches_Two_Critical_NGINX_Open_Source_Flaws_En.md)
 
-元記事: [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328i)
+元記事: [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328o)

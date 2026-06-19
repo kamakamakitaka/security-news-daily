@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 15:54:30
+**Last Updated**: 2026-06-19 15:55:40
+
+
 
 
 
@@ -357,6 +359,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [You Can Now Govern Claude the Same Way You Govern Okta and M365](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_You_Can_Now_Govern_Claude_the_Same_Way_You_Govern.md)
+**2026年06月19日**: [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Salesforce_Disables_Klue_App_Integration_After_OAu.md)
 
-元記事: [You Can Now Govern Claude the Same Way You Govern Okta and M365](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.3286)
+元記事: [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328c)

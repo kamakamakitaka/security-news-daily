@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-18 16:11:59
+**Last Updated**: 2026-06-19 15:52:24
+
+
 
 
 
@@ -351,6 +353,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月18日**: [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/18_Malicious_JetBrains_Plugins_Steal_AI_API_Keys_as_C.md)
+**2026年06月19日**: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_From_Assistive_to_Agentic_The_AI_Shift_Thats_Redef.md)
 
-元記事: [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://inl03.netline.com/ltr6/?_m=3n.009a.4007.sp0ao46r89.327m)
+元記事: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.327u)

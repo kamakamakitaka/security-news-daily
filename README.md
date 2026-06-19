@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 15:55:40
+**Last Updated**: 2026-06-19 15:56:49
+
+
 
 
 
@@ -359,6 +361,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Salesforce_Disables_Klue_App_Integration_After_OAu.md)
+**2026年06月19日**: [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Apple_Patches_Beats_Studio_Buds_Flaw_Letting_Nearb.md)
 
-元記事: [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328c)
+元記事: [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328i)

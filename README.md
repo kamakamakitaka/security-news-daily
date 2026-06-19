@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 15:58:58
+**Last Updated**: 2026-06-19 16:00:09
+
+
 
 
 
@@ -365,6 +367,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_Orphaned_AI_Agents_How_to_Find_Hidden_Access_Risks.md)
+**2026年06月19日**: [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_ThreatsDay_Bulletin_Claude_Chat_Abuse_NastyC2_npm.md)
 
-元記事: [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.328u)
+元記事: [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.3290)

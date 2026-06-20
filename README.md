@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-20 15:03:29
+**Last Updated**: 2026-06-20 15:04:43
+
+
 
 
 
@@ -381,6 +383,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月20日**: [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_CISA_Warns_Fortinet_Customers_as_FortiBleed_Hits_8.md)
+**2026年06月20日**: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_From_Assistive_to_Agentic_The_AI_Shift_Thats_Redef.md)
 
-元記事: [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.32a8)
+元記事: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.32ae)

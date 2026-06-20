@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-20 14:55:46
+**Last Updated**: 2026-06-20 14:57:24
+
+
 
 
 
@@ -369,6 +371,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月20日**: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_Hackers_Exploit_Gravity_SMTP_WordPress_Plugin_Bug.md)
+**2026年06月20日**: [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_Unpatchable_usbliter8_Exploit_Breaks_Apple_A12_and.md)
 
-元記事: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.3298)
+元記事: [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.329e)

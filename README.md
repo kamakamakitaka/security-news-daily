@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-20 15:02:19
+**Last Updated**: 2026-06-20 15:03:29
+
+
 
 
 
@@ -379,6 +381,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月20日**: [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_Operation_Endgame_Disrupts_SocGholish_Servers_Clea.md)
+**2026年06月20日**: [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_CISA_Warns_Fortinet_Customers_as_FortiBleed_Hits_8.md)
 
-元記事: [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.32a2)
+元記事: [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.32a8)

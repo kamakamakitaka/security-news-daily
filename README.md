@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-19 16:00:09
+**Last Updated**: 2026-06-20 14:55:46
+
+
 
 
 
@@ -367,6 +369,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月19日**: [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/19_ThreatsDay_Bulletin_Claude_Chat_Abuse_NastyC2_npm.md)
+**2026年06月20日**: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_Hackers_Exploit_Gravity_SMTP_WordPress_Plugin_Bug.md)
 
-元記事: [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://inl03.netline.com/ltr6/?_m=3n.009a.4008.sp0ao46r89.3290)
+元記事: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.3298)

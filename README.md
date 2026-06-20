@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-20 14:58:30
+**Last Updated**: 2026-06-20 14:59:59
+
+
 
 
 
@@ -373,6 +375,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月20日**: [CrowdStrike Falcon: AI-native endpoint + cloud security on AWS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_CrowdStrike_Falcon_AI-native_endpoint__cloud_secur.md)
+**2026年06月20日**: [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_The_Gentlemen_RaaS_Uses_GentleKiller_EDR_Framework.md)
 
-元記事: [CrowdStrike Falcon: AI-native endpoint + cloud security on AWS](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.329k)
+元記事: [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.329q)

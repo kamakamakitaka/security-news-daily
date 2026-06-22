@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-22 17:25:53
+**Last Updated**: 2026-06-22 17:26:57
+
+
 
 
 
@@ -397,6 +399,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月22日**: [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_INTERPOL_Warns_Phishing_Ransomware_and_AI_Scams_Ar.md)
+**2026年06月22日**: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Hackers_Exploit_Gravity_SMTP_WordPress_Plugin_Bug.md)
 
-元記事: [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32bm)
+元記事: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32bs)

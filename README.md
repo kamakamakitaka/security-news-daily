@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-22 17:17:53
+**Last Updated**: 2026-06-22 17:19:15
+
+
 
 
 
@@ -385,6 +387,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月22日**: [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Stop_Your_Legacy_Infrastructure_from_Hijacking_You.md)
+**2026年06月22日**: [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Weekly_Recap_Browser_Bugs_EDR_Killers_TV_Botnet_O.md)
 
-元記事: [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32am)
+元記事: [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32as)

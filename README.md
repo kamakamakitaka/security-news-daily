@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-22 17:22:00
+**Last Updated**: 2026-06-22 17:23:25
+
+
 
 
 
@@ -391,6 +393,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月22日**: [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Canadas_Spy_Agency_Used_First-of-Its-Kind_Warrant.md)
+**2026年06月22日**: [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_AryStinger_Malware_Infects_4300_Legacy_Routers_to.md)
 
-元記事: [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32b4)
+元記事: [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32ba)

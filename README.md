@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-22 17:24:44
+**Last Updated**: 2026-06-22 17:25:53
+
+
 
 
 
@@ -395,6 +397,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月22日**: [Identity Security in 2026: The Brutal Truth Enterprises Still Avoid](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Identity_Security_in_2026_The_Brutal_Truth_Enterpr.md)
+**2026年06月22日**: [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_INTERPOL_Warns_Phishing_Ransomware_and_AI_Scams_Ar.md)
 
-元記事: [Identity Security in 2026: The Brutal Truth Enterprises Still Avoid](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32bg)
+元記事: [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32bm)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-20 15:04:43
+**Last Updated**: 2026-06-22 17:17:53
+
+
 
 
 
@@ -383,6 +385,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月20日**: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/20_From_Assistive_to_Agentic_The_AI_Shift_Thats_Redef.md)
+**2026年06月22日**: [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Stop_Your_Legacy_Infrastructure_from_Hijacking_You.md)
 
-元記事: [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://inl03.netline.com/ltr6/?_m=3n.009a.4009.sp0ao46r89.32ae)
+元記事: [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32am)

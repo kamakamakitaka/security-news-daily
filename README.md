@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-22 17:20:40
+**Last Updated**: 2026-06-22 17:22:00
+
+
 
 
 
@@ -389,6 +391,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月22日**: [CVSS Is Officially Dead: What CISA's BOD 26-04 Means for Everyone](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_CVSS_Is_Officially_Dead_What_CISAs_BOD_26-04_Means.md)
+**2026年06月22日**: [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Canadas_Spy_Agency_Used_First-of-Its-Kind_Warrant.md)
 
-元記事: [CVSS Is Officially Dead: What CISA's BOD 26-04 Means for Everyone](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32ay)
+元記事: [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32b4)

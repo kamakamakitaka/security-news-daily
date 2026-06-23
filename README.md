@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-23 15:45:39
+**Last Updated**: 2026-06-23 15:46:58
+
+
 
 
 
@@ -413,6 +415,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月23日**: [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_ShapedPlugin_WordPress_Pro_Plugins_Backdoored_in_S.md)
+**2026年06月23日**: [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_29-Year-Old_Squid_Proxy_Bug_Squidbleed_Can_Leak_Cl.md)
 
-元記事: [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32d0)
+元記事: [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32d6)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-22 17:26:57
+**Last Updated**: 2026-06-23 15:38:29
+
+
 
 
 
@@ -399,6 +401,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月22日**: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/22_Hackers_Exploit_Gravity_SMTP_WordPress_Plugin_Bug.md)
+**2026年06月23日**: [Agentic AI: The Weapon That No Longer Needs a Warrior](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_Agentic_AI_The_Weapon_That_No_Longer_Needs_a_Warri.md)
 
-元記事: [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://inl03.netline.com/ltr6/?_m=3n.009a.4010.sp0ao46r89.32bs)
+元記事: [Agentic AI: The Weapon That No Longer Needs a Warrior](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32c0)

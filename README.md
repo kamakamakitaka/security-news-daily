@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-23 15:40:50
+**Last Updated**: 2026-06-23 15:41:59
+
+
 
 
 
@@ -405,6 +407,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月23日**: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_5_Steps_to_Secure_Against_Software_Vulnerabilities.md)
+**2026年06月23日**: [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_WhatsApp_VBScript_Campaign_Uses_Fake_Documents_to.md)
 
-元記事: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32cc)
+元記事: [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32ci)

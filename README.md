@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-23 15:44:25
+**Last Updated**: 2026-06-23 15:45:39
+
+
 
 
 
@@ -411,6 +413,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月23日**: [Beyond Blocking: Disrupting the Social Engineering Attack Chain](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_Beyond_Blocking_Disrupting_the_Social_Engineering.md)
+**2026年06月23日**: [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_ShapedPlugin_WordPress_Pro_Plugins_Backdoored_in_S.md)
 
-元記事: [Beyond Blocking: Disrupting the Social Engineering Attack Chain](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32cu)
+元記事: [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32d0)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-27 15:09:14
+**Last Updated**: 2026-06-27 15:10:46
+
+
 
 
 
@@ -423,6 +425,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月27日**: [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_Chinese-Speaking_APT_Deploys_New_TinyRCT_Backdoor.md)
+**2026年06月27日**: [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_New_Linux_pedit_COW_Exploit_Enables_Root_Access_by.md)
 
-元記事: [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32i2)
+元記事: [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32i8)

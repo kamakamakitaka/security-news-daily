@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-23 15:46:58
+**Last Updated**: 2026-06-27 15:05:40
+
+
 
 
 
@@ -415,6 +417,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月23日**: [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/23_29-Year-Old_Squid_Proxy_Bug_Squidbleed_Can_Leak_Cl.md)
+**2026年06月27日**: [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_FBI_Warns_Russian_Intelligence_Hackers_Target_Sign.md)
 
-元記事: [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://inl03.netline.com/ltr6/?_m=3n.009a.4011.sp0ao46r89.32d6)
+元記事: [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32hk)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-27 15:12:01
+**Last Updated**: 2026-06-27 15:13:08
+
+
 
 
 
@@ -427,6 +429,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月27日**: [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_Amazon_Q_Developer_Flaw_Could_Let_Malicious_Repos.md)
+**2026年06月27日**: [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_CISA_Adds_Exploited_PTC_Windchill_RCE_Flaw_to_KEV.md)
 
-元記事: [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32ie)
+元記事: [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32ik)

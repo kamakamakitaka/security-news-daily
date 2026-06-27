@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-27 15:05:40
+**Last Updated**: 2026-06-27 15:06:58
+
+
 
 
 
@@ -417,6 +419,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月27日**: [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_FBI_Warns_Russian_Intelligence_Hackers_Target_Sign.md)
+**2026年06月27日**: [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_New_SharkLoader_Malware_Deploys_Cobalt_Strike_in_S.md)
 
-元記事: [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32hk)
+元記事: [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32hq)

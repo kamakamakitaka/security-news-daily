@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-27 15:06:58
+**Last Updated**: 2026-06-27 15:07:55
+
+
 
 
 
@@ -419,6 +421,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月27日**: [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_New_SharkLoader_Malware_Deploys_Cobalt_Strike_in_S.md)
+**2026年06月27日**: [The missing link between your IT and HR strategy](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_The_missing_link_between_your_IT_and_HR_strategy.md)
 
-元記事: [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32hq)
+元記事: [The missing link between your IT and HR strategy](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32hw)

@@ -24,6 +24,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -34,7 +35,7 @@ jobs:
         run: |
           mkdir -p credentials
           echo '${{ secrets.GMAIL_CREDENTIALS_JSON }}' > credentials/credentials.json
-          echo '${{ secrets.GMAIL_TOKEN_PICKLE }}' | base64 -d > credentials/token.pickle
+          echo '${{ secrets.GMAIL_TOKEN_B64 }}' | base64 -d > credentials/token.pickle
 
       - name: Run analyzer
         env:

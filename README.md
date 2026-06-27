@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-27 15:13:08
+**Last Updated**: 2026-06-27 15:14:23
+
+
 
 
 
@@ -429,6 +431,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月27日**: [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_CISA_Adds_Exploited_PTC_Windchill_RCE_Flaw_to_KEV.md)
+**2026年06月27日**: [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/27_New_DirtyClone_Linux_Kernel_Flaw_Lets_Local_Users.md)
 
-元記事: [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32ik)
+元記事: [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://inl03.netline.com/ltr6/?_m=3n.009a.4015.sp0ao46r89.32iq)

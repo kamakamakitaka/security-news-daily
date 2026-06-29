@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-29 16:31:59
+**Last Updated**: 2026-06-29 16:33:19
+
+
 
 
 
@@ -441,6 +443,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月29日**: [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Microsoft_Removes_119_Edge_Extensions_That_Hid_Mal.md)
+**2026年06月29日**: [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Public_PoC_Released_for_Critical_libssh2_CVE-2026-.md)
 
-元記事: [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32jm)
+元記事: [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32js)

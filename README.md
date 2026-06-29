@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-29 16:30:45
+**Last Updated**: 2026-06-29 16:31:59
+
+
 
 
 
@@ -439,6 +441,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月29日**: [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Gamaredon_Expands_Ukraine_Attacks_with_New_Malware.md)
+**2026年06月29日**: [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Microsoft_Removes_119_Edge_Extensions_That_Hid_Mal.md)
 
-元記事: [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32jg)
+元記事: [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32jm)

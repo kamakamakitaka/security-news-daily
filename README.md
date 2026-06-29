@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-29 16:29:22
+**Last Updated**: 2026-06-29 16:30:45
+
+
 
 
 
@@ -437,6 +439,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月29日**: [Most Systems Weren’t Designed For How Data Moves Today](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Most_Systems_Werent_Designed_For_How_Data_Moves_To.md)
+**2026年06月29日**: [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Gamaredon_Expands_Ukraine_Attacks_with_New_Malware.md)
 
-元記事: [Most Systems Weren’t Designed For How Data Moves Today](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32ja)
+元記事: [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32jg)

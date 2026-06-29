@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-29 16:28:16
+**Last Updated**: 2026-06-29 16:29:22
+
+
 
 
 
@@ -435,6 +437,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月29日**: [Why Post-Quantum Cryptography Starts With Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Why_Post-Quantum_Cryptography_Starts_With_Credenti.md)
+**2026年06月29日**: [Most Systems Weren’t Designed For How Data Moves Today](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Most_Systems_Werent_Designed_For_How_Data_Moves_To.md)
 
-元記事: [Why Post-Quantum Cryptography Starts With Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32j4)
+元記事: [Most Systems Weren’t Designed For How Data Moves Today](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32ja)

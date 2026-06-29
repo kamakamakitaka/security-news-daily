@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-29 16:27:03
+**Last Updated**: 2026-06-29 16:28:16
+
+
 
 
 
@@ -433,6 +435,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月29日**: [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_236000_DCloud_Uni-App_Sites_Used_in_Crypto_Scams_P.md)
+**2026年06月29日**: [Why Post-Quantum Cryptography Starts With Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Why_Post-Quantum_Cryptography_Starts_With_Credenti.md)
 
-元記事: [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32iy)
+元記事: [Why Post-Quantum Cryptography Starts With Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32j4)

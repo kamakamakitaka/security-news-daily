@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:21:09
+**Last Updated**: 2026-06-30 15:22:32
+
+
 
 
 
@@ -457,6 +459,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_New_BioShocking_Attack_Tricks_AI_Browsers_Into_Lea.md)
+**2026年06月30日**: [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_Progress_Kemp_LoadMaster_Flaw_Could_Let_Attackers.md)
 
-元記事: [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32l0)
+元記事: [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32l6)

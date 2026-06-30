@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-29 16:35:42
+**Last Updated**: 2026-06-30 15:16:26
+
+
 
 
 
@@ -447,6 +449,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月29日**: [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/29_Ukraine_Says_Russian_Intelligence_Used_Fake_Suppor.md)
+**2026年06月30日**: [What the Numbers Say About FIFA 2026 Cyber Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_What_the_Numbers_Say_About_FIFA_2026_Cyber_Risk.md)
 
-元記事: [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4016.sp0ao46r89.32k4)
+元記事: [What the Numbers Say About FIFA 2026 Cyber Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32kc)

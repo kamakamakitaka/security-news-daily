@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:18:46
+**Last Updated**: 2026-06-30 15:20:01
+
+
 
 
 
@@ -453,6 +455,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [AI Broke Vulnerability Management. Here’s What CISOs are funding](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_AI_Broke_Vulnerability_Management_Heres_What_CISOs.md)
+**2026年06月30日**: [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_AirDrop_and_Quick_Share_Flaws_Let_Nearby_Attackers.md)
 
-元記事: [AI Broke Vulnerability Management. Here’s What CISOs are funding](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32ko)
+元記事: [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32ku)

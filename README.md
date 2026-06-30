@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:20:01
+**Last Updated**: 2026-06-30 15:21:09
+
+
 
 
 
@@ -455,6 +457,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_AirDrop_and_Quick_Share_Flaws_Let_Nearby_Attackers.md)
+**2026年06月30日**: [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_New_BioShocking_Attack_Tricks_AI_Browsers_Into_Lea.md)
 
-元記事: [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32ku)
+元記事: [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32l0)

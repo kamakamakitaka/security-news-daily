@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:17:40
+**Last Updated**: 2026-06-30 15:18:46
+
+
 
 
 
@@ -451,6 +453,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_Attackers_Exploit_SimpleHelp_CVE-2026-48558_to_Dep.md)
+**2026年06月30日**: [AI Broke Vulnerability Management. Here’s What CISOs are funding](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_AI_Broke_Vulnerability_Management_Heres_What_CISOs.md)
 
-元記事: [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32ki)
+元記事: [AI Broke Vulnerability Management. Here’s What CISOs are funding](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32ko)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:16:26
+**Last Updated**: 2026-06-30 15:17:40
+
+
 
 
 
@@ -449,6 +451,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [What the Numbers Say About FIFA 2026 Cyber Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_What_the_Numbers_Say_About_FIFA_2026_Cyber_Risk.md)
+**2026年06月30日**: [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_Attackers_Exploit_SimpleHelp_CVE-2026-48558_to_Dep.md)
 
-元記事: [What the Numbers Say About FIFA 2026 Cyber Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32kc)
+元記事: [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32ki)

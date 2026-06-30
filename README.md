@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:23:39
+**Last Updated**: 2026-06-30 15:24:42
+
+
 
 
 
@@ -461,6 +463,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_Oracle_E-Business_Suite_Flaw_CVE-2026-46817_Active.md)
+**2026年06月30日**: [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_WhatsApp_is_Finally_Getting_Usernames_to_Help_Keep.md)
 
-元記事: [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32lc)
+元記事: [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32li)

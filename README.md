@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:22:32
+**Last Updated**: 2026-06-30 15:23:39
+
+
 
 
 
@@ -459,6 +461,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_Progress_Kemp_LoadMaster_Flaw_Could_Let_Attackers.md)
+**2026年06月30日**: [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_Oracle_E-Business_Suite_Flaw_CVE-2026-46817_Active.md)
 
-元記事: [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32l6)
+元記事: [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32lc)

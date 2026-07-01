@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-01 15:25:37
+**Last Updated**: 2026-07-01 15:26:50
+
+
 
 
 
@@ -469,6 +471,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月01日**: [SANS LDR514: Turn Security Strategy Into a Plan Leaders Fund](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_SANS_LDR514_Turn_Security_Strategy_Into_a_Plan_Lea.md)
+**2026年07月01日**: [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_Phantom_Squatting_Uses_AI-Hallucinated_Domains_for.md)
 
-元記事: [SANS LDR514: Turn Security Strategy Into a Plan Leaders Fund](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32m2)
+元記事: [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32m8)

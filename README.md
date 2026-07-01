@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-01 15:26:50
+**Last Updated**: 2026-07-01 15:28:07
+
+
 
 
 
@@ -471,6 +473,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月01日**: [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_Phantom_Squatting_Uses_AI-Hallucinated_Domains_for.md)
+**2026年07月01日**: [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_Anthropic_Restores_Claude_Fable_5_After_US_Lifts_J.md)
 
-元記事: [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32m8)
+元記事: [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32me)

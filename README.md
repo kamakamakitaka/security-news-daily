@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-06-30 15:24:42
+**Last Updated**: 2026-07-01 15:23:21
+
+
 
 
 
@@ -463,6 +465,6 @@
 
 ## 📌 最新の解説
 
-**2026年06月30日**: [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/06/30_WhatsApp_is_Finally_Getting_Usernames_to_Help_Keep.md)
+**2026年07月01日**: [2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_2026_Cybersecurity_Assessment_The_Gap_Between_Awar.md)
 
-元記事: [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://inl03.netline.com/ltr6/?_m=3n.009a.4017.sp0ao46r89.32li)
+元記事: [2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32lq)

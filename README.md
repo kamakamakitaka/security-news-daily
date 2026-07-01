@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-01 15:24:38
+**Last Updated**: 2026-07-01 15:25:37
+
+
 
 
 
@@ -467,6 +469,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月01日**: [Microsoft Accelerates Post-Quantum Cryptography Shift to 2029](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_Microsoft_Accelerates_Post-Quantum_Cryptography_Sh.md)
+**2026年07月01日**: [SANS LDR514: Turn Security Strategy Into a Plan Leaders Fund](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_SANS_LDR514_Turn_Security_Strategy_Into_a_Plan_Lea.md)
 
-元記事: [Microsoft Accelerates Post-Quantum Cryptography Shift to 2029](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32lw)
+元記事: [SANS LDR514: Turn Security Strategy Into a Plan Leaders Fund](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32m2)

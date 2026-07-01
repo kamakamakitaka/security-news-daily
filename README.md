@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-01 15:30:36
+**Last Updated**: 2026-07-01 15:32:05
+
+
 
 
 
@@ -477,6 +479,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月01日**: [Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_Researcher_Analyzes_3000_Live_ClickFix_Payloads_Ex.md)
+**2026年07月01日**: [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/01_Citrix_Patches_Six_NetScaler_Flaws_Allowing_File_R.md)
 
-元記事: [Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32mq)
+元記事: [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://inl03.netline.com/ltr6/?_m=3n.009a.4018.sp0ao46r89.32mw)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 15:03:36
+**Last Updated**: 2026-07-02 15:05:05
+
+
 
 
 
@@ -493,6 +495,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_Unpatched_Argo_CD_Repo-Server_Flaw_Could_Let_Attac.md)
+**2026年07月02日**: [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_19-Year-Old_Scattered_Spider_Suspect_Extradited_to.md)
 
-元記事: [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32o4)
+元記事: [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32oa)

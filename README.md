@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 14:55:58
+**Last Updated**: 2026-07-02 14:57:13
+
+
 
 
 
@@ -481,6 +483,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [Identity Lifecycle Management Wasn't Built for AI Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_Identity_Lifecycle_Management_Wasnt_Built_for_AI_A.md)
+**2026年07月02日**: [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_AI_Agent_Exploits_Langflow_RCE_to_Automate_Databas.md)
 
-元記事: [Identity Lifecycle Management Wasn't Built for AI Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32n4)
+元記事: [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32na)

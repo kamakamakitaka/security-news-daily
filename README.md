@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 14:59:38
+**Last Updated**: 2026-07-02 15:01:00
+
+
 
 
 
@@ -487,6 +489,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_FortiBleed_Credential_Theft_Linked_to_INC_and_Lynx.md)
+**2026年07月02日**: [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_New_ChocoPoC_RAT_Targets_Vulnerability_Researchers.md)
 
-元記事: [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32nm)
+元記事: [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32ns)

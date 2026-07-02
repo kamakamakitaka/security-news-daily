@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 14:57:13
+**Last Updated**: 2026-07-02 14:58:18
+
+
 
 
 
@@ -483,6 +485,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_AI_Agent_Exploits_Langflow_RCE_to_Automate_Databas.md)
+**2026年07月02日**: [Vibe Hunting: A New Model for Threat Hunting Beyond SIEM Queries](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_Vibe_Hunting_A_New_Model_for_Threat_Hunting_Beyond.md)
 
-元記事: [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32na)
+元記事: [Vibe Hunting: A New Model for Threat Hunting Beyond SIEM Queries](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32ng)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 14:58:18
+**Last Updated**: 2026-07-02 14:59:38
+
+
 
 
 
@@ -485,6 +487,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [Vibe Hunting: A New Model for Threat Hunting Beyond SIEM Queries](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_Vibe_Hunting_A_New_Model_for_Threat_Hunting_Beyond.md)
+**2026年07月02日**: [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_FortiBleed_Credential_Theft_Linked_to_INC_and_Lynx.md)
 
-元記事: [Vibe Hunting: A New Model for Threat Hunting Beyond SIEM Queries](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32ng)
+元記事: [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32nm)

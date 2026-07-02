@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 15:02:13
+**Last Updated**: 2026-07-02 15:03:36
+
+
 
 
 
@@ -491,6 +493,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_SharePoint_RCE_CVE-2026-45659_Added_to_CISA_KEV_Af.md)
+**2026年07月02日**: [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_Unpatched_Argo_CD_Repo-Server_Flaw_Could_Let_Attac.md)
 
-元記事: [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32ny)
+元記事: [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32o4)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 15:01:00
+**Last Updated**: 2026-07-02 15:02:13
+
+
 
 
 
@@ -489,6 +491,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_New_ChocoPoC_RAT_Targets_Vulnerability_Researchers.md)
+**2026年07月02日**: [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_SharePoint_RCE_CVE-2026-45659_Added_to_CISA_KEV_Af.md)
 
-元記事: [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32ns)
+元記事: [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32ny)

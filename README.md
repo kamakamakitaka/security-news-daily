@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-03 15:04:09
+**Last Updated**: 2026-07-03 15:05:16
+
+
 
 
 
@@ -509,6 +511,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月03日**: [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_ThreatsDay_AI_Compute_Hijacking_Apple_Email_Flaw_B.md)
+**2026年07月03日**: [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_ToddyCat-Linked_Umbrij_Malware_Abuses_OAuth_to_Acc.md)
 
-元記事: [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32pi)
+元記事: [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32po)

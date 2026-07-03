@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-02 15:05:05
+**Last Updated**: 2026-07-03 14:56:19
+
+
 
 
 
@@ -495,6 +497,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月02日**: [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/02_19-Year-Old_Scattered_Spider_Suspect_Extradited_to.md)
+**2026年07月03日**: [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_European_Parliament_Member_Investigating_Spyware_W.md)
 
-元記事: [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://inl03.netline.com/ltr6/?_m=3n.009a.4019.sp0ao46r89.32oa)
+元記事: [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32oi)

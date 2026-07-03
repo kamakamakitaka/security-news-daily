@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-03 15:01:30
+**Last Updated**: 2026-07-03 15:02:32
+
+
 
 
 
@@ -505,6 +507,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月03日**: [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_Ransomware_Groups_Turn_to_Citrix_Bleed_2_BYOVD_and.md)
+**2026年07月03日**: [Stop Attack Paths That Chain Code, CI/CD, and Cloud Weaknesses](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_Stop_Attack_Paths_That_Chain_Code_CICD_and_Cloud_W.md)
 
-元記事: [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32p6)
+元記事: [Stop Attack Paths That Chain Code, CI/CD, and Cloud Weaknesses](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32pc)

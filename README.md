@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-03 14:56:19
+**Last Updated**: 2026-07-03 14:57:43
+
+
 
 
 
@@ -497,6 +499,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月03日**: [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_European_Parliament_Member_Investigating_Spyware_W.md)
+**2026年07月03日**: [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_PamStealer_Uses_Fake_Maccy_Sites_and_PAM_Checks_to.md)
 
-元記事: [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32oi)
+元記事: [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32oo)

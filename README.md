@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-04 14:13:39
+**Last Updated**: 2026-07-04 14:14:46
+
+
 
 
 
@@ -515,6 +517,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月04日**: [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_Unpatched_Flaws_Disclosed_in_Filesystem_Bundled_In.md)
+**2026年07月04日**: [The missing link between your IT and HR strategy](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_The_missing_link_between_your_IT_and_HR_strategy.md)
 
-元記事: [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32q2)
+元記事: [The missing link between your IT and HR strategy](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32q8)

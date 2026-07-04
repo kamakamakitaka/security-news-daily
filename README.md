@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-04 14:14:46
+**Last Updated**: 2026-07-04 14:15:57
+
+
 
 
 
@@ -517,6 +519,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月04日**: [The missing link between your IT and HR strategy](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_The_missing_link_between_your_IT_and_HR_strategy.md)
+**2026年07月04日**: [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_New_Bad_Epoll_Linux_Kernel_Flaw_Lets_Unprivileged.md)
 
-元記事: [The missing link between your IT and HR strategy](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32q8)
+元記事: [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32qe)

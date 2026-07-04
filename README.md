@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-04 14:17:09
+**Last Updated**: 2026-07-04 14:18:16
+
+
 
 
 
@@ -521,6 +523,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月04日**: [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_New_Avalon_Malware_Framework_Packs_CrownX_Ransomwa.md)
+**2026年07月04日**: [Stop Attack Paths That Chain Code, CI/CD, and Cloud Weaknesses](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_Stop_Attack_Paths_That_Chain_Code_CICD_and_Cloud_W.md)
 
-元記事: [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32qk)
+元記事: [Stop Attack Paths That Chain Code, CI/CD, and Cloud Weaknesses](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32qq)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-03 15:05:16
+**Last Updated**: 2026-07-04 14:12:16
+
+
 
 
 
@@ -511,6 +513,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月03日**: [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/03_ToddyCat-Linked_Umbrij_Malware_Abuses_OAuth_to_Acc.md)
+**2026年07月04日**: [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_North_Korean_Hackers_Publish_108_Malicious_Package.md)
 
-元記事: [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://inl03.netline.com/ltr6/?_m=3n.009a.4020.sp0ao46r89.32po)
+元記事: [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32pw)

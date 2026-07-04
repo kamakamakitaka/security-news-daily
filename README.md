@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-04 14:19:24
+**Last Updated**: 2026-07-04 14:20:39
+
+
 
 
 
@@ -525,6 +527,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月04日**: [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_North_Korea-Linked_npm_Packages_Mimic_Rollup_Polyf.md)
+**2026年07月04日**: [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_Armored_Likho_Targets_Government_Agencies_Power_Se.md)
 
-元記事: [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32qw)
+元記事: [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32r2)

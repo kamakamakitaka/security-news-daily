@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-04 14:18:16
+**Last Updated**: 2026-07-04 14:19:24
+
+
 
 
 
@@ -523,6 +525,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月04日**: [Stop Attack Paths That Chain Code, CI/CD, and Cloud Weaknesses](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_Stop_Attack_Paths_That_Chain_Code_CICD_and_Cloud_W.md)
+**2026年07月04日**: [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_North_Korea-Linked_npm_Packages_Mimic_Rollup_Polyf.md)
 
-元記事: [Stop Attack Paths That Chain Code, CI/CD, and Cloud Weaknesses](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32qq)
+元記事: [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32qw)

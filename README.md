@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-04 14:20:39
+**Last Updated**: 2026-07-06 16:04:23
+
+
 
 
 
@@ -527,6 +529,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月04日**: [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/04_Armored_Likho_Targets_Government_Agencies_Power_Se.md)
+**2026年07月06日**: [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_How_to_Evaluate_an_AI_SOC_Platform_in_2026_6_Capab.md)
 
-元記事: [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://inl03.netline.com/ltr6/?_m=3n.009a.4021.sp0ao46r89.32r2)
+元記事: [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32ra)

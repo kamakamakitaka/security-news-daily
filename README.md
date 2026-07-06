@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-06 16:06:36
+**Last Updated**: 2026-07-06 16:07:49
+
+
 
 
 
@@ -533,6 +535,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月06日**: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_5_Steps_to_Secure_Against_Software_Vulnerabilities.md)
+**2026年07月06日**: [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_New_Java-Based_QuimaRAT_MaaS_Built_to_Run_on_Windo.md)
 
-元記事: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32rm)
+元記事: [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32rs)

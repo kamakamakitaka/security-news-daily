@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-06 16:09:10
+**Last Updated**: 2026-07-06 16:10:17
+
+
 
 
 
@@ -537,6 +539,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月06日**: [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_Opera_GX_Flaw_Let_Malicious_Sites_Auto-Install_Mod.md)
+**2026年07月06日**: [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_SkillCloak_Lets_Malicious_AI_Agent_Skills_Evade_St.md)
 
-元記事: [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32ry)
+元記事: [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32s4)

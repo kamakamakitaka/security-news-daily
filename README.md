@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-06 16:11:27
+**Last Updated**: 2026-07-06 16:12:47
+
+
 
 
 
@@ -541,6 +543,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月06日**: [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_US_Government_Entity_Paid_Kairos_1_Million_in_Data.md)
+**2026年07月06日**: [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_New_Bad_Epoll_Linux_Kernel_Flaw_Lets_Unprivileged.md)
 
-元記事: [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32sa)
+元記事: [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32sg)

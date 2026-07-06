@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-06 16:05:36
+**Last Updated**: 2026-07-06 16:06:36
+
+
 
 
 
@@ -531,6 +533,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月06日**: [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_New_TrojPix_Attack_Leaks_Data_From_Air-Gapped_Syst.md)
+**2026年07月06日**: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_5_Steps_to_Secure_Against_Software_Vulnerabilities.md)
 
-元記事: [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32rg)
+元記事: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32rm)

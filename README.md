@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-06 16:07:49
+**Last Updated**: 2026-07-06 16:09:10
+
+
 
 
 
@@ -535,6 +537,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月06日**: [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_New_Java-Based_QuimaRAT_MaaS_Built_to_Run_on_Windo.md)
+**2026年07月06日**: [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_Opera_GX_Flaw_Let_Malicious_Sites_Auto-Install_Mod.md)
 
-元記事: [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32rs)
+元記事: [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32ry)

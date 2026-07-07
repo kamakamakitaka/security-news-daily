@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-07 15:35:08
+**Last Updated**: 2026-07-07 15:36:29
+
+
 
 
 
@@ -551,6 +553,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月07日**: [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_BeyondTrust_Patches_Critical_Auth_Bypass_Flaws_in.md)
+**2026年07月07日**: [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_Iran-Linked_Hackers_Use_New_Cavern_C2_Framework_to.md)
 
-元記事: [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32t6)
+元記事: [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32tc)

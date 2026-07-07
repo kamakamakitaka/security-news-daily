@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-07 15:38:45
+**Last Updated**: 2026-07-07 15:40:13
+
+
 
 
 
@@ -557,6 +559,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月07日**: [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_16-Year-Old_Linux_KVM_Flaw_Lets_Guest_VMs_Escape_t.md)
+**2026年07月07日**: [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_Weekly_Recap_Proxy_Botnets_Browser_Ransomware_AI.md)
 
-元記事: [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32to)
+元記事: [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32tu)

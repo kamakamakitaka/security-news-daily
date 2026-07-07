@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-07 15:32:35
+**Last Updated**: 2026-07-07 15:33:55
+
+
 
 
 
@@ -547,6 +549,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月07日**: [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_CERTCC_Warns_of_Hidden_Admin_Backdoor_in_Tenda_Rou.md)
+**2026年07月07日**: [Gartner Report: How to Implement Continuous Offensive Security Testing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_Gartner_Report_How_to_Implement_Continuous_Offensi.md)
 
-元記事: [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32su)
+元記事: [Gartner Report: How to Implement Continuous Offensive Security Testing](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32t0)

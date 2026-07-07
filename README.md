@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-06 16:12:47
+**Last Updated**: 2026-07-07 15:31:25
+
+
 
 
 
@@ -543,6 +545,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月06日**: [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/06_New_Bad_Epoll_Linux_Kernel_Flaw_Lets_Unprivileged.md)
+**2026年07月07日**: [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/07_What_Changes_When_Your_Software_Supply_Chain_Inclu.md)
 
-元記事: [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://inl03.netline.com/ltr6/?_m=3n.009a.4022.sp0ao46r89.32sg)
+元記事: [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://inl03.netline.com/ltr6/?_m=3n.009a.4023.sp0ao46r89.32so)

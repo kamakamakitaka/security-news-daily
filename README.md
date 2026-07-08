@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 15:06:23
+**Last Updated**: 2026-07-08 15:07:29
+
+
 
 
 
@@ -573,6 +575,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_RedWing_MaaS_Packages_Android_Bank_Fraud_as_a_Tele.md)
+**2026年07月08日**: [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_Rogue_Agent_Flaw_Could_Have_Let_Attackers_Hijack_G.md)
 
-元記事: [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32v2)
+元記事: [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32v8)

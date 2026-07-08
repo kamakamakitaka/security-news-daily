@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 15:01:27
+**Last Updated**: 2026-07-08 15:02:25
+
+
 
 
 
@@ -565,6 +567,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [MCP Prompt Playbook for SOC Teams](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_MCP_Prompt_Playbook_for_SOC_Teams.md)
+**2026年07月08日**: [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_GitHub_Copilot_Refuses_Harmful_Requests_in_Chat_Th.md)
 
-元記事: [MCP Prompt Playbook for SOC Teams](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32ue)
+元記事: [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32uk)

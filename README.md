@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 15:02:25
+**Last Updated**: 2026-07-08 15:03:40
+
+
 
 
 
@@ -567,6 +569,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_GitHub_Copilot_Refuses_Harmful_Requests_in_Chat_Th.md)
+**2026年07月08日**: [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_China-Linked_UAT-7810_Expands_ORB_Network_With_New.md)
 
-元記事: [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32uk)
+元記事: [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32uq)

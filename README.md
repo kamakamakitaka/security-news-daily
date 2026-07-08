@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 15:00:18
+**Last Updated**: 2026-07-08 15:01:27
+
+
 
 
 
@@ -563,6 +565,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [The Verification Step Is the New ATO Battleground in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_The_Verification_Step_Is_the_New_ATO_Battleground.md)
+**2026年07月08日**: [MCP Prompt Playbook for SOC Teams](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_MCP_Prompt_Playbook_for_SOC_Teams.md)
 
-元記事: [The Verification Step Is the New ATO Battleground in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32u8)
+元記事: [MCP Prompt Playbook for SOC Teams](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32ue)

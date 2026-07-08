@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 15:03:40
+**Last Updated**: 2026-07-08 15:05:02
+
+
 
 
 
@@ -569,6 +571,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_China-Linked_UAT-7810_Expands_ORB_Network_With_New.md)
+**2026年07月08日**: [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_15-Year-Old_GhostLock_Flaw_Enables_Root_and_Contai.md)
 
-元記事: [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32uq)
+元記事: [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32uw)

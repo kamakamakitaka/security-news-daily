@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 15:05:02
+**Last Updated**: 2026-07-08 15:06:23
+
+
 
 
 
@@ -571,6 +573,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_15-Year-Old_GhostLock_Flaw_Enables_Root_and_Contai.md)
+**2026年07月08日**: [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_RedWing_MaaS_Packages_Android_Bank_Fraud_as_a_Tele.md)
 
-元記事: [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32uw)
+元記事: [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32v2)

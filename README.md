@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-08 14:59:06
+**Last Updated**: 2026-07-08 15:00:18
+
+
 
 
 
@@ -561,6 +563,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月08日**: [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_GitHub_Verified_Commits_Can_Be_Rewritten_Into_New.md)
+**2026年07月08日**: [The Verification Step Is the New ATO Battleground in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/08_The_Verification_Step_Is_the_New_ATO_Battleground.md)
 
-元記事: [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32u2)
+元記事: [The Verification Step Is the New ATO Battleground in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4024.sp0ao46r89.32u8)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-09 15:49:09
+**Last Updated**: 2026-07-09 15:50:23
+
+
 
 
 
@@ -583,6 +585,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月09日**: [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_TopAI_Agents_Built_to_Catch_Malicious_Code_Can_Be.md)
+**2026年07月09日**: [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_GhostApproval_Symlink_Flaws_Could_Let_Malicious_Re.md)
 
-元記事: [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32vy)
+元記事: [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32w4)

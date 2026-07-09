@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-09 15:52:31
+**Last Updated**: 2026-07-09 15:53:51
+
+
 
 
 
@@ -589,6 +591,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月09日**: [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_AI_Coding_Agents_Found_Triggering_Endpoint_Securit.md)
+**2026年07月09日**: [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_New_HalluSquatting_Attack_Could_Trick_AI_Coding_As.md)
 
-元記事: [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32wg)
+元記事: [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32wm)

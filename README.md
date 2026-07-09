@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-09 15:50:23
+**Last Updated**: 2026-07-09 15:51:21
+
+
 
 
 
@@ -585,6 +587,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月09日**: [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_GhostApproval_Symlink_Flaws_Could_Let_Malicious_Re.md)
+**2026年07月09日**: [Breach Transparency Remains Cybersecurity's Toughest Governance Problem](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_Breach_Transparency_Remains_Cybersecuritys_Toughes.md)
 
-元記事: [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32w4)
+元記事: [Breach Transparency Remains Cybersecurity's Toughest Governance Problem](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32wa)

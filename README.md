@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-09 15:47:38
+**Last Updated**: 2026-07-09 15:49:09
+
+
 
 
 
@@ -581,6 +583,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月09日**: [SANS SEC598: Put Agentic AI to Work Across Red and Blue Teams](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_SANS_SEC598_Put_Agentic_AI_to_Work_Across_Red_and.md)
+**2026年07月09日**: [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/09_TopAI_Agents_Built_to_Catch_Malicious_Code_Can_Be.md)
 
-元記事: [SANS SEC598: Put Agentic AI to Work Across Red and Blue Teams](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32vs)
+元記事: [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://inl03.netline.com/ltr6/?_m=3n.009a.4025.sp0ao46r89.32vy)

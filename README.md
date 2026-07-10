@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-10 15:25:14
+**Last Updated**: 2026-07-10 15:26:23
+
+
 
 
 
@@ -605,6 +607,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月10日**: [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Ransomware_Negotiator_Gets_70_Months_in_Prison_for.md)
+**2026年07月10日**: [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Dormant_GitHub_Accounts_Help_Attackers_Blend_In_Wh.md)
 
-元記事: [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32xu)
+元記事: [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32y0)

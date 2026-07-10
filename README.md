@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-10 15:17:30
+**Last Updated**: 2026-07-10 15:18:47
+
+
 
 
 
@@ -593,6 +595,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月10日**: [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Unpatched_XRING_Flaw_in_XQUIC_Lets_Remote_Clients.md)
+**2026年07月10日**: [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_From_17000_to_11_Million_Assets_How_Lumen_Technolo.md)
 
-元記事: [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32wu)
+元記事: [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32x0)

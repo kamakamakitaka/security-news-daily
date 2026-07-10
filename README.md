@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-10 15:24:00
+**Last Updated**: 2026-07-10 15:25:14
+
+
 
 
 
@@ -603,6 +605,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月10日**: [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Attackers_Exploit_Ill_Bloom_Vulnerability_to_Drain.md)
+**2026年07月10日**: [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Ransomware_Negotiator_Gets_70_Months_in_Prison_for.md)
 
-元記事: [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32xo)
+元記事: [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32xu)

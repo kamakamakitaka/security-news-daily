@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-10 15:22:51
+**Last Updated**: 2026-07-10 15:24:00
+
+
 
 
 
@@ -601,6 +603,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月10日**: [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Study_of_281_Free_Android_VPN_Apps_Finds_Traffic_L.md)
+**2026年07月10日**: [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Attackers_Exploit_Ill_Bloom_Vulnerability_to_Drain.md)
 
-元記事: [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32xi)
+元記事: [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32xo)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-11 14:05:59
+**Last Updated**: 2026-07-11 14:07:16
+
+
 
 
 
@@ -611,6 +613,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月11日**: [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_URGENT_-_Progress_Tells_ShareFile_Customers_to_Shu.md)
+**2026年07月11日**: [Social engineering = manipulating emotions. Here's how hackers exploit:](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Social_engineering__manipulating_emotions_Heres_ho.md)
 
-元記事: [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32ye)
+元記事: [Social engineering = manipulating emotions. Here's how hackers exploit:](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32yk)

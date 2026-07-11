@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-11 14:08:34
+**Last Updated**: 2026-07-11 14:10:08
+
+
 
 
 
@@ -615,6 +617,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月11日**: [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Injective_Labs_GitHub_Compromise_Pushes_Wallet-Key.md)
+**2026年07月11日**: [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Six_New_U-Boot_Flaws_Could_Let_Malicious_Images_Cr.md)
 
-元記事: [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32yq)
+元記事: [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32yw)

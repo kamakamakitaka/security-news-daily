@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-11 14:07:16
+**Last Updated**: 2026-07-11 14:08:34
+
+
 
 
 
@@ -613,6 +615,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月11日**: [Social engineering = manipulating emotions. Here's how hackers exploit:](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Social_engineering__manipulating_emotions_Heres_ho.md)
+**2026年07月11日**: [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Injective_Labs_GitHub_Compromise_Pushes_Wallet-Key.md)
 
-元記事: [Social engineering = manipulating emotions. Here's how hackers exploit:](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32yk)
+元記事: [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32yq)

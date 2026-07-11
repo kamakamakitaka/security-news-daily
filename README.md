@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-11 14:10:08
+**Last Updated**: 2026-07-11 14:11:25
+
+
 
 
 
@@ -617,6 +619,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月11日**: [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Six_New_U-Boot_Flaws_Could_Let_Malicious_Images_Cr.md)
+**2026年07月11日**: [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Laser_Attack_Resets_Tangem_Wallet_Passwords_on_Car.md)
 
-元記事: [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32yw)
+元記事: [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32z2)

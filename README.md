@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-10 15:26:23
+**Last Updated**: 2026-07-11 14:04:39
+
+
 
 
 
@@ -607,6 +609,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月10日**: [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/10_Dormant_GitHub_Accounts_Help_Attackers_Blend_In_Wh.md)
+**2026年07月11日**: [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Critical_Zimbra_Flaw_Could_Let_Crafted_Emails_Run.md)
 
-元記事: [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://inl03.netline.com/ltr6/?_m=3n.009a.4026.sp0ao46r89.32y0)
+元記事: [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32y8)

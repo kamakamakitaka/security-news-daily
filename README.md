@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-11 14:11:25
+**Last Updated**: 2026-07-11 14:12:38
+
+
 
 
 
@@ -619,6 +621,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月11日**: [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Laser_Attack_Resets_Tangem_Wallet_Passwords_on_Car.md)
+**2026年07月11日**: [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_Researcher_Details_WhatsApp-to-Host_Attack_Chain_U.md)
 
-元記事: [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32z2)
+元記事: [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32z8)

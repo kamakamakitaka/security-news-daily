@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-13 15:27:50
+**Last Updated**: 2026-07-13 15:29:02
+
+
 
 
 
@@ -625,6 +627,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月13日**: [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Meta_Files_Patent_for_AI_That_Can_Listen_All_Day_a.md)
+**2026年07月13日**: [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Thinking_Fast_and_Slow_in_the_SOC_The_Case_for_Com.md)
 
-元記事: [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.32zm)
+元記事: [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.32zs)

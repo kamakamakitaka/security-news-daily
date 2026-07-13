@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-13 15:35:48
+**Last Updated**: 2026-07-13 15:37:01
+
+
 
 
 
@@ -637,6 +639,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月13日**: [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Critical_Zimbra_Flaw_Could_Let_Crafted_Emails_Run.md)
+**2026年07月13日**: [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_URGENT_-_Progress_Tells_ShareFile_Customers_to_Shu.md)
 
-元記事: [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.330m)
+元記事: [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.330s)

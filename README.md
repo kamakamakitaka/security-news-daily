@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-13 15:31:34
+**Last Updated**: 2026-07-13 15:33:01
+
+
 
 
 
@@ -631,6 +633,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月13日**: [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Attacker_Uses_Suspected_AI-Generated_PowerShell_Sc.md)
+**2026年07月13日**: [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Misconfigured_Server_Reveals_Three_Evilginx_Phishi.md)
 
-元記事: [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.3304)
+元記事: [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.330a)

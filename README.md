@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-11 14:13:51
+**Last Updated**: 2026-07-13 15:27:50
+
+
 
 
 
@@ -623,6 +625,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月11日**: [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/11_New_MODBEACON_RAT_Uses_gRPC_Streaming_for_Encrypte.md)
+**2026年07月13日**: [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Meta_Files_Patent_for_AI_That_Can_Listen_All_Day_a.md)
 
-元記事: [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://inl03.netline.com/ltr6/?_m=3n.009a.4027.sp0ao46r89.32ze)
+元記事: [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.32zm)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-13 15:33:01
+**Last Updated**: 2026-07-13 15:34:36
+
+
 
 
 
@@ -633,6 +635,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月13日**: [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Misconfigured_Server_Reveals_Three_Evilginx_Phishi.md)
+**2026年07月13日**: [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Compromised_jscrambler_8140_npm_Release_Drops_Rust.md)
 
-元記事: [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.330a)
+元記事: [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.330g)

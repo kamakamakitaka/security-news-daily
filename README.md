@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-13 15:30:27
+**Last Updated**: 2026-07-13 15:31:34
+
+
 
 
 
@@ -629,6 +631,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月13日**: [Why SaaS license waste is a cost and security problem](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Why_SaaS_license_waste_is_a_cost_and_security_prob.md)
+**2026年07月13日**: [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_Attacker_Uses_Suspected_AI-Generated_PowerShell_Sc.md)
 
-元記事: [Why SaaS license waste is a cost and security problem](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.32zy)
+元記事: [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.3304)

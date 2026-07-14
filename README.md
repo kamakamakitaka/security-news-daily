@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:33:23
+**Last Updated**: 2026-07-14 14:34:37
+
+
 
 
 
@@ -651,6 +653,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [AuthNContext and AMR, We Remember What MFA You Provided Last Summer!](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_AuthNContext_and_AMR_We_Remember_What_MFA_You_Prov.md)
+**2026年07月14日**: [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_US_Sanctions_First_VPN_Service_and_Malware_Cryptor.md)
 
-元記事: [AuthNContext and AMR, We Remember What MFA You Provided Last Summer!](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331u)
+元記事: [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3320)

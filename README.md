@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:30:41
+**Last Updated**: 2026-07-14 14:32:09
+
+
 
 
 
@@ -647,6 +649,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_OAuth_Client_ID_Spoofing_Lets_Attackers_Validate_S.md)
+**2026年07月14日**: [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Grok_Build_Uploaded_Entire_Git_Repositories_to_xAI.md)
 
-元記事: [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331i)
+元記事: [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331o)

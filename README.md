@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:29:23
+**Last Updated**: 2026-07-14 14:30:41
+
+
 
 
 
@@ -645,6 +647,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [Where AI Security Is Actually Hiring in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Where_AI_Security_Is_Actually_Hiring_in_2026.md)
+**2026年07月14日**: [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_OAuth_Client_ID_Spoofing_Lets_Attackers_Validate_S.md)
 
-元記事: [Where AI Security Is Actually Hiring in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331c)
+元記事: [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331i)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-13 15:37:01
+**Last Updated**: 2026-07-14 14:27:21
+
+
 
 
 
@@ -639,6 +641,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月13日**: [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/13_URGENT_-_Progress_Tells_ShareFile_Customers_to_Shu.md)
+**2026年07月14日**: [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Study_of_85_Crypto_Wallet_Extensions_Finds_Address.md)
 
-元記事: [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://inl03.netline.com/ltr6/?_m=3n.009a.4028.sp0ao46r89.330s)
+元記事: [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3310)

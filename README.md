@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:27:21
+**Last Updated**: 2026-07-14 14:28:28
+
+
 
 
 
@@ -641,6 +643,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Study_of_85_Crypto_Wallet_Extensions_Finds_Address.md)
+**2026年07月14日**: [How Pentera Turns AI Security Workflows into Validation Engines](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_How_Pentera_Turns_AI_Security_Workflows_into_Valid.md)
 
-元記事: [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3310)
+元記事: [How Pentera Turns AI Security Workflows into Validation Engines](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3316)

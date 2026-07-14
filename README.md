@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:32:09
+**Last Updated**: 2026-07-14 14:33:23
+
+
 
 
 
@@ -649,6 +651,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Grok_Build_Uploaded_Entire_Git_Repositories_to_xAI.md)
+**2026年07月14日**: [AuthNContext and AMR, We Remember What MFA You Provided Last Summer!](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_AuthNContext_and_AMR_We_Remember_What_MFA_You_Prov.md)
 
-元記事: [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331o)
+元記事: [AuthNContext and AMR, We Remember What MFA You Provided Last Summer!](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331u)

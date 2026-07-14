@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:28:28
+**Last Updated**: 2026-07-14 14:29:23
+
+
 
 
 
@@ -643,6 +645,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [How Pentera Turns AI Security Workflows into Validation Engines](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_How_Pentera_Turns_AI_Security_Workflows_into_Valid.md)
+**2026年07月14日**: [Where AI Security Is Actually Hiring in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Where_AI_Security_Is_Actually_Hiring_in_2026.md)
 
-元記事: [How Pentera Turns AI Security Workflows into Validation Engines](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3316)
+元記事: [Where AI Security Is Actually Hiring in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.331c)

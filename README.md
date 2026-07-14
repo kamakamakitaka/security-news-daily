@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:34:37
+**Last Updated**: 2026-07-14 14:36:03
+
+
 
 
 
@@ -653,6 +655,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_US_Sanctions_First_VPN_Service_and_Malware_Cryptor.md)
+**2026年07月14日**: [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Microsoft_Maps_Three_Salesforce_Attack_Paths_Tied.md)
 
-元記事: [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3320)
+元記事: [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3326)

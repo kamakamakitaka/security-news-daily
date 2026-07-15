@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:26:04
+**Last Updated**: 2026-07-15 14:27:15
+
+
 
 
 
@@ -659,6 +661,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Researcher_Drops_New_Windows_Zero-Day_PoC_Hours_Af.md)
+**2026年07月15日**: [Stop Patching by CVSS Score. Validate What Attackers Can Actually Exploit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Stop_Patching_by_CVSS_Score_Validate_What_Attacker.md)
 
-元記事: [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332k)
+元記事: [Stop Patching by CVSS Score. Validate What Attackers Can Actually Exploit](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332q)

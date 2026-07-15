@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:27:15
+**Last Updated**: 2026-07-15 14:28:24
+
+
 
 
 
@@ -661,6 +663,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [Stop Patching by CVSS Score. Validate What Attackers Can Actually Exploit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Stop_Patching_by_CVSS_Score_Validate_What_Attacker.md)
+**2026年07月15日**: [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_New_Webinar_Closing_the_Approval_Gap_in_AI-Era_Ad.md)
 
-元記事: [Stop Patching by CVSS Score. Validate What Attackers Can Actually Exploit](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332q)
+元記事: [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332w)

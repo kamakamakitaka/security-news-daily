@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:24:46
+**Last Updated**: 2026-07-15 14:26:04
+
+
 
 
 
@@ -657,6 +659,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_SASE_Has_An_AI_Blind_Spot_Inspecting_Packets_Is_No.md)
+**2026年07月15日**: [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Researcher_Drops_New_Windows_Zero-Day_PoC_Hours_Af.md)
 
-元記事: [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332e)
+元記事: [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332k)

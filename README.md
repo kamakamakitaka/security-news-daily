@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:30:44
+**Last Updated**: 2026-07-15 14:31:56
+
+
 
 
 
@@ -667,6 +669,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Two_SonicWall_SMA_1000_Zero-Days_Exploited_One_Cou.md)
+**2026年07月15日**: [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Microsoft_Patches_Record_622_Flaws_Including_Two_Z.md)
 
-元記事: [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.3338)
+元記事: [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.333e)

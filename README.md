@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:31:56
+**Last Updated**: 2026-07-15 14:33:05
+
+
 
 
 
@@ -669,6 +671,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Microsoft_Patches_Record_622_Flaws_Including_Two_Z.md)
+**2026年07月15日**: [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Researchers_Say_Claude_for_Chrome_Flaw_Lets_Rogue.md)
 
-元記事: [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.333e)
+元記事: [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.333k)

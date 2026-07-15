@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:29:36
+**Last Updated**: 2026-07-15 14:30:44
+
+
 
 
 
@@ -665,6 +667,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Cursor_Flaw_Lets_Malicious_Cloned_Repositories_Tri.md)
+**2026年07月15日**: [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Two_SonicWall_SMA_1000_Zero-Days_Exploited_One_Cou.md)
 
-元記事: [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.3332)
+元記事: [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.3338)

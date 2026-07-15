@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-14 14:36:03
+**Last Updated**: 2026-07-15 14:24:46
+
+
 
 
 
@@ -655,6 +657,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月14日**: [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/14_Microsoft_Maps_Three_Salesforce_Attack_Paths_Tied.md)
+**2026年07月15日**: [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_SASE_Has_An_AI_Blind_Spot_Inspecting_Packets_Is_No.md)
 
-元記事: [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://inl03.netline.com/ltr6/?_m=3n.009a.4029.sp0ao46r89.3326)
+元記事: [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.332e)

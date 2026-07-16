@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-16 14:44:04
+**Last Updated**: 2026-07-16 14:45:20
+
+
 
 
 
@@ -685,6 +687,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月16日**: [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_TuxBot_v3_Evolution_Shows_Signs_of_LLM-Assisted_Io.md)
+**2026年07月16日**: [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_Firefox_Chrome_Adobe_and_VMware_Updates_Fix_Multip.md)
 
-元記事: [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334s)
+元記事: [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334y)

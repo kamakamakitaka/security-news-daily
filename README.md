@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-16 14:40:22
+**Last Updated**: 2026-07-16 14:41:42
+
+
 
 
 
@@ -679,6 +681,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月16日**: [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_AI_Can_Find_Bugs_But_Human_Knowledge_Still_Proves.md)
+**2026年07月16日**: [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_Unpatched_Shark_Vacuum_Flaw_Could_Let_Attackers_Co.md)
 
-元記事: [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334a)
+元記事: [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334g)

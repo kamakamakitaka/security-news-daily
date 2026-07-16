@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-15 14:33:05
+**Last Updated**: 2026-07-16 14:36:43
+
+
 
 
 
@@ -671,6 +673,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月15日**: [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/15_Researchers_Say_Claude_for_Chrome_Flaw_Lets_Rogue.md)
+**2026年07月16日**: [20+ Hijacked Government Websites Became an Attack Channel](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_20_Hijacked_Government_Websites_Becamean_Attack_Ch.md)
 
-元記事: [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://inl03.netline.com/ltr6/?_m=3n.009a.4030.sp0ao46r89.333k)
+元記事: [20+ Hijacked Government Websites Became an Attack Channel](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.333s)

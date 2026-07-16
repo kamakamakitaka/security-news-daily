@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-16 14:42:54
+**Last Updated**: 2026-07-16 14:44:04
+
+
 
 
 
@@ -683,6 +685,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月16日**: [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_OpenAIs_GPT-Red_Automates_Prompt_Injection_Testing.md)
+**2026年07月16日**: [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_TuxBot_v3_Evolution_Shows_Signs_of_LLM-Assisted_Io.md)
 
-元記事: [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334m)
+元記事: [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334s)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-16 14:38:10
+**Last Updated**: 2026-07-16 14:39:15
+
+
 
 
 
@@ -675,6 +677,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月16日**: [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_New_Agent_Data_Injection_Attack_Can_Make_AI_Agents.md)
+**2026年07月16日**: [Exploit Time Just Dropped From 30 Days to 30 Minutes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_Exploit_Time_Just_Dropped_From_30_Days_to_30_Minut.md)
 
-元記事: [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.333y)
+元記事: [Exploit Time Just Dropped From 30 Days to 30 Minutes](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.3344)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-16 14:39:15
+**Last Updated**: 2026-07-16 14:40:22
+
+
 
 
 
@@ -677,6 +679,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月16日**: [Exploit Time Just Dropped From 30 Days to 30 Minutes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_Exploit_Time_Just_Dropped_From_30_Days_to_30_Minut.md)
+**2026年07月16日**: [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_AI_Can_Find_Bugs_But_Human_Knowledge_Still_Proves.md)
 
-元記事: [Exploit Time Just Dropped From 30 Days to 30 Minutes](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.3344)
+元記事: [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334a)

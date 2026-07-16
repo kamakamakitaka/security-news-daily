@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-16 14:41:42
+**Last Updated**: 2026-07-16 14:42:54
+
+
 
 
 
@@ -681,6 +683,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月16日**: [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_Unpatched_Shark_Vacuum_Flaw_Could_Let_Attackers_Co.md)
+**2026年07月16日**: [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/16_OpenAIs_GPT-Red_Automates_Prompt_Injection_Testing.md)
 
-元記事: [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334g)
+元記事: [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://inl03.netline.com/ltr6/?_m=3n.009a.4031.sp0ao46r89.334m)

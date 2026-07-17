@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-17 14:20:10
+**Last Updated**: 2026-07-17 14:21:24
+
+
 
 
 
@@ -697,6 +699,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月17日**: [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_CISA_Adds_Exploited_SharePoint_RCE_Zero-Day_CVE-20.md)
+**2026年07月17日**: [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_Two_Scattered_Spider_Hackers_Get_55_Years_Each_for.md)
 
-元記事: [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.335u)
+元記事: [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.3360)

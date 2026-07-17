@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-17 14:15:24
+**Last Updated**: 2026-07-17 14:16:38
+
+
 
 
 
@@ -689,6 +691,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月17日**: [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_EU_Orders_Google_to_Open_Android_Mic_Camera_and_Sc.md)
+**2026年07月17日**: [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_The_Race_to_Field_Military_Autonomy_Is_On_Can_Trus.md)
 
-元記事: [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.3356)
+元記事: [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.335c)

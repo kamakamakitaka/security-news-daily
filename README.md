@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-17 14:16:38
+**Last Updated**: 2026-07-17 14:17:33
+
+
 
 
 
@@ -691,6 +693,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月17日**: [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_The_Race_to_Field_Military_Autonomy_Is_On_Can_Trus.md)
+**2026年07月17日**: [HIPAA Compliance Starts with the Right Security Configuration Tools](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_HIPAA_Compliance_Starts_with_the_Right_Security_Co.md)
 
-元記事: [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.335c)
+元記事: [HIPAA Compliance Starts with the Right Security Configuration Tools](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.335i)

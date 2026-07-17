@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-17 14:17:33
+**Last Updated**: 2026-07-17 14:18:58
+
+
 
 
 
@@ -693,6 +695,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月17日**: [HIPAA Compliance Starts with the Right Security Configuration Tools](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_HIPAA_Compliance_Starts_with_the_Right_Security_Co.md)
+**2026年07月17日**: [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_Armenia_Detains_Russian_Tourist_on_US_Warrant_for.md)
 
-元記事: [HIPAA Compliance Starts with the Right Security Configuration Tools](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.335i)
+元記事: [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.335o)

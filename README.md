@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-18 14:02:07
+**Last Updated**: 2026-07-18 14:03:25
+
+
 
 
 
@@ -705,6 +707,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月18日**: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_New_wp2shell_WordPress_Core_Flaw_Lets_Unauthentica.md)
+**2026年07月18日**: [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_OpenSSL_HollowByte_Flaw_Could_Freeze_Server_Memory.md)
 
-元記事: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.336k)
+元記事: [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.336q)

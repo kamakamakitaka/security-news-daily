@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-17 14:23:56
+**Last Updated**: 2026-07-18 14:02:07
+
+
 
 
 
@@ -703,6 +705,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月17日**: [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/17_n8n_Token_Exchange_Flaw_Could_Let_Attackers_Log_In.md)
+**2026年07月18日**: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_New_wp2shell_WordPress_Core_Flaw_Lets_Unauthentica.md)
 
-元記事: [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://inl03.netline.com/ltr6/?_m=3n.009a.4032.sp0ao46r89.336c)
+元記事: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.336k)

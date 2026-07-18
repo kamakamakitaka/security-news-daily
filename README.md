@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-18 14:09:33
+**Last Updated**: 2026-07-18 14:10:56
+
+
 
 
 
@@ -717,6 +719,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月18日**: [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_Fake_Coding_Tests_Deliver_OtterCookie-Aligned_Malw.md)
+**2026年07月18日**: [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_EU_Orders_Google_to_Open_Android_Mic_Camera_and_Sc.md)
 
-元記事: [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.337k)
+元記事: [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.337q)

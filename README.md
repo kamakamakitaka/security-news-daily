@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-18 14:05:48
+**Last Updated**: 2026-07-18 14:07:09
+
+
 
 
 
@@ -711,6 +713,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月18日**: [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_Seven_Malicious_Vite_npm_Packages_Use_Blockchain_C.md)
+**2026年07月18日**: [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_New_NadMesh_Botnet_Hunts_Exposed_AI_Services_for_C.md)
 
-元記事: [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.3372)
+元記事: [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.3378)

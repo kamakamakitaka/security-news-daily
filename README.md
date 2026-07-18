@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-18 14:07:09
+**Last Updated**: 2026-07-18 14:08:17
+
+
 
 
 
@@ -713,6 +715,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月18日**: [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_New_NadMesh_Botnet_Hunts_Exposed_AI_Services_for_C.md)
+**2026年07月18日**: [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_GoldenEyeDog_Subgroup_Linked_to_DigiCert_Breach_an.md)
 
-元記事: [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.3378)
+元記事: [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.337e)

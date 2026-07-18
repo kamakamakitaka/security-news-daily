@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-18 14:03:25
+**Last Updated**: 2026-07-18 14:04:28
+
+
 
 
 
@@ -707,6 +709,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月18日**: [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_OpenSSL_HollowByte_Flaw_Could_Freeze_Server_Memory.md)
+**2026年07月18日**: [One platform. Every IT workflow. AI built into all of it.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_One_platform_Every_IT_workflow_AI_built_into_all_o.md)
 
-元記事: [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.336q)
+元記事: [One platform. Every IT workflow. AI built into all of it.](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.336w)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 14:57:32
+**Last Updated**: 2026-07-20 14:58:57
+
+
 
 
 
@@ -729,6 +731,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Critical_NGINX_Vulnerability_Can_Crash_Workers_and.md)
+**2026年07月20日**: [The Most Monitored Device in the Company is Still Hiding Dangerous Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_The_Most_Monitored_Device_in_the_Company_is_Still.md)
 
-元記事: [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338m)
+元記事: [The Most Monitored Device in the Company is Still Hiding Dangerous Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338s)

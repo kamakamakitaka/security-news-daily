@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 14:52:15
+**Last Updated**: 2026-07-20 14:53:24
+
+
 
 
 
@@ -721,6 +723,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Mythos_Didnt_Break_Your_Security_Program_Your_Expo.md)
+**2026年07月20日**: [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_New_7-Zip_Vulnerability_Could_Let_Crafted_XZ_Archi.md)
 
-元記事: [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.337y)
+元記事: [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.3384)

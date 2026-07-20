@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 14:56:13
+**Last Updated**: 2026-07-20 14:57:32
+
+
 
 
 
@@ -727,6 +729,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Worlds_Largest_AI_Model_Repository_Hugging_Face_Br.md)
+**2026年07月20日**: [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Critical_NGINX_Vulnerability_Can_Crash_Workers_and.md)
 
-元記事: [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338g)
+元記事: [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338m)

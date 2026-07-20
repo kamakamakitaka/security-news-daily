@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-18 14:10:56
+**Last Updated**: 2026-07-20 14:52:15
+
+
 
 
 
@@ -719,6 +721,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月18日**: [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/18_EU_Orders_Google_to_Open_Android_Mic_Camera_and_Sc.md)
+**2026年07月20日**: [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Mythos_Didnt_Break_Your_Security_Program_Your_Expo.md)
 
-元記事: [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://inl03.netline.com/ltr6/?_m=3n.009a.4033.sp0ao46r89.337q)
+元記事: [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.337y)

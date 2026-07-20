@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 15:00:12
+**Last Updated**: 2026-07-20 15:01:50
+
+
 
 
 
@@ -733,6 +735,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_SonicWall_SMA_Zero-Days_Exploited_Before_Disclosur.md)
+**2026年07月20日**: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_New_wp2shell_WordPress_Core_Flaw_Lets_Unauthentica.md)
 
-元記事: [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338y)
+元記事: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.3394)

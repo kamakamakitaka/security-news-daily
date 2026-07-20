@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 14:54:53
+**Last Updated**: 2026-07-20 14:56:13
+
+
 
 
 
@@ -725,6 +727,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [Why Modern Phishing Emails Are Harder to Spot Than Ever](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Why_Modern_Phishing_Emails_Are_Harder_to_Spot_Than.md)
+**2026年07月20日**: [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Worlds_Largest_AI_Model_Repository_Hugging_Face_Br.md)
 
-元記事: [Why Modern Phishing Emails Are Harder to Spot Than Ever](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338a)
+元記事: [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338g)

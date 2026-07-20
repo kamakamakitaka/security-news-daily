@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 14:53:24
+**Last Updated**: 2026-07-20 14:54:53
+
+
 
 
 
@@ -723,6 +725,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_New_7-Zip_Vulnerability_Could_Let_Crafted_XZ_Archi.md)
+**2026年07月20日**: [Why Modern Phishing Emails Are Harder to Spot Than Ever](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_Why_Modern_Phishing_Emails_Are_Harder_to_Spot_Than.md)
 
-元記事: [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.3384)
+元記事: [Why Modern Phishing Emails Are Harder to Spot Than Ever](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.338a)

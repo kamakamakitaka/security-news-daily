@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-20 15:01:50
+**Last Updated**: 2026-07-21 14:37:59
+
+
 
 
 
@@ -735,6 +737,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月20日**: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/20_New_wp2shell_WordPress_Core_Flaw_Lets_Unauthentica.md)
+**2026年07月21日**: [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_Open-Source_Android_AI_Agents_Could_Let_Invisible.md)
 
-元記事: [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4034.sp0ao46r89.3394)
+元記事: [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339c)

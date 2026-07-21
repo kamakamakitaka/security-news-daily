@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-21 14:40:20
+**Last Updated**: 2026-07-21 14:41:48
+
+
 
 
 
@@ -741,6 +743,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月21日**: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_Guardant_Healths_Practical_Case_for_SIEM__MDR_Cons.md)
+**2026年07月21日**: [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_New_Bit2Watt_Attack_Could_Let_Cloud_Tenants_Disrup.md)
 
-元記事: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339o)
+元記事: [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339u)

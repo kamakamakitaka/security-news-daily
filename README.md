@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-21 14:39:16
+**Last Updated**: 2026-07-21 14:40:20
+
+
 
 
 
@@ -739,6 +741,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月21日**: [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_N-day_is_Becoming_N-Hour_Patching_Faster_Wont_Save.md)
+**2026年07月21日**: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_Guardant_Healths_Practical_Case_for_SIEM__MDR_Cons.md)
 
-元記事: [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339i)
+元記事: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339o)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-21 14:45:29
+**Last Updated**: 2026-07-21 14:46:45
+
+
 
 
 
@@ -749,6 +751,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月21日**: [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_Critical_ServiceNow_AI_Platform_Flaw_Exploited_for.md)
+**2026年07月21日**: [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_UAC-0145_Uses_ClickFix_CAPTCHAs_to_Infect_Ukrainia.md)
 
-元記事: [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.33ac)
+元記事: [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.33ai)

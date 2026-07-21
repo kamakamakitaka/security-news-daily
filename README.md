@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-21 14:43:11
+**Last Updated**: 2026-07-21 14:44:25
+
+
 
 
 
@@ -745,6 +747,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月21日**: [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_WordPress_wp2shell_Exploitation_Grows_as_Public_Ex.md)
+**2026年07月21日**: [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_New_ENCFORGE_Ransomware_Targets_AI_Model_Files_in.md)
 
-元記事: [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.33a0)
+元記事: [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.33a6)

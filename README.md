@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-21 14:44:25
+**Last Updated**: 2026-07-21 14:45:29
+
+
 
 
 
@@ -747,6 +749,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月21日**: [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_New_ENCFORGE_Ransomware_Targets_AI_Model_Files_in.md)
+**2026年07月21日**: [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_Critical_ServiceNow_AI_Platform_Flaw_Exploited_for.md)
 
-元記事: [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.33a6)
+元記事: [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.33ac)

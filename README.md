@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-21 14:37:59
+**Last Updated**: 2026-07-21 14:39:16
+
+
 
 
 
@@ -737,6 +739,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月21日**: [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_Open-Source_Android_AI_Agents_Could_Let_Invisible.md)
+**2026年07月21日**: [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/21_N-day_is_Becoming_N-Hour_Patching_Faster_Wont_Save.md)
 
-元記事: [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339c)
+元記事: [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://inl03.netline.com/ltr6/?_m=3n.009a.4035.sp0ao46r89.339i)

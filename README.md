@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:40:00
+**Last Updated**: 2026-07-22 14:41:13
+
+
 
 
 
@@ -757,6 +759,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [20 Years at the NSA Shaped SANS SEC541's Cloud Detection Labs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_20_Years_at_the_NSA_Shaped_SANS_SEC541s_Cloud_Dete.md)
+**2026年07月22日**: [Why Modern SOCs Need Multi-Layered Detections](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Why_Modern_SOCs_Need_Multi-Layered_Detections.md)
 
-元記事: [20 Years at the NSA Shaped SANS SEC541's Cloud Detection Labs](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33b2)
+元記事: [Why Modern SOCs Need Multi-Layered Detections](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33b8)

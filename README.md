@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:42:35
+**Last Updated**: 2026-07-22 14:43:45
+
+
 
 
 
@@ -761,6 +763,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Police_Dismantle_Kratos_Phishing_Kit_Built_to_Stea.md)
+**2026年07月22日**: [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Microsoft_Azure_DevOps_MCP_Flaw_Lets_Hidden_PR_Com.md)
 
-元記事: [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33be)
+元記事: [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33bk)

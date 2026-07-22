@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:37:47
+**Last Updated**: 2026-07-22 14:39:05
+
+
 
 
 
@@ -753,6 +755,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [The Fastest Path to AI Adoption Runs Through Security](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_The_Fastest_Path_to_AI_Adoption_Runs_Through_Secur.md)
+**2026年07月22日**: [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_OpenAI_Says_Its_AI_Models_Escaped_Sandbox_Targeted.md)
 
-元記事: [The Fastest Path to AI Adoption Runs Through Security](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33aq)
+元記事: [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33aw)

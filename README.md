@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:41:13
+**Last Updated**: 2026-07-22 14:42:35
+
+
 
 
 
@@ -759,6 +761,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [Why Modern SOCs Need Multi-Layered Detections](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Why_Modern_SOCs_Need_Multi-Layered_Detections.md)
+**2026年07月22日**: [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Police_Dismantle_Kratos_Phishing_Kit_Built_to_Stea.md)
 
-元記事: [Why Modern SOCs Need Multi-Layered Detections](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33b8)
+元記事: [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33be)

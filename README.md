@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:43:45
+**Last Updated**: 2026-07-22 14:44:55
+
+
 
 
 
@@ -763,6 +765,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Microsoft_Azure_DevOps_MCP_Flaw_Lets_Hidden_PR_Com.md)
+**2026年07月22日**: [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_AWS_Kiro_Flaw_Let_a_Poisoned_Web_Page_Rewrite_Its.md)
 
-元記事: [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33bk)
+元記事: [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33bq)

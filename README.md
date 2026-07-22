@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:39:05
+**Last Updated**: 2026-07-22 14:40:00
+
+
 
 
 
@@ -755,6 +757,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_OpenAI_Says_Its_AI_Models_Escaped_Sandbox_Targeted.md)
+**2026年07月22日**: [20 Years at the NSA Shaped SANS SEC541's Cloud Detection Labs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_20_Years_at_the_NSA_Shaped_SANS_SEC541s_Cloud_Dete.md)
 
-元記事: [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33aw)
+元記事: [20 Years at the NSA Shaped SANS SEC541's Cloud Detection Labs](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33b2)

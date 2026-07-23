@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 14:56:37
+**Last Updated**: 2026-07-23 14:57:54
+
+
 
 
 
@@ -775,6 +777,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Google_Adds_Selfie_Video_Recovery_for_Users_Locked.md)
+**2026年07月23日**: [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Nine-Year-Old_RefluXFS_Linux_Flaw_Gives_Local_User.md)
 
-元記事: [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33cm)
+元記事: [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33cs)

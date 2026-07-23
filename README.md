@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 14:59:09
+**Last Updated**: 2026-07-23 15:00:25
+
+
 
 
 
@@ -779,6 +781,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [The New Insider Has No Pulse: Securing Privilege When the Actor Is an AI Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_The_New_Insider_Has_No_Pulse_Securing_Privilege_Wh.md)
+**2026年07月23日**: [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Check_Point_Patches_Exploited_SmartConsole_Flaw_Al.md)
 
-元記事: [The New Insider Has No Pulse: Securing Privilege When the Actor Is an AI Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33cy)
+元記事: [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33d4)

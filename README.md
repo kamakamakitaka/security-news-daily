@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 14:52:57
+**Last Updated**: 2026-07-23 14:54:26
+
+
 
 
 
@@ -769,6 +771,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [How Synthetic Identity Fraud is Coming for Machine Identities](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_How_Synthetic_Identity_Fraud_is_Coming_for_Machine.md)
+**2026年07月23日**: [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Attackers_Weaponize_GitHub_Actions_Runners_to_Targ.md)
 
-元記事: [How Synthetic Identity Fraud is Coming for Machine Identities](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33c4)
+元記事: [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33ca)

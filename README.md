@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 14:54:26
+**Last Updated**: 2026-07-23 14:55:35
+
+
 
 
 
@@ -771,6 +773,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Attackers_Weaponize_GitHub_Actions_Runners_to_Targ.md)
+**2026年07月23日**: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_5_Steps_to_Secure_Against_Software_Vulnerabilities.md)
 
-元記事: [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33ca)
+元記事: [5 Steps to Secure Against Software Vulnerabilities Discovered by AI Models](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33cg)

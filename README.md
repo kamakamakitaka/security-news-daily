@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-22 14:46:01
+**Last Updated**: 2026-07-23 14:52:57
+
+
 
 
 
@@ -767,6 +769,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月22日**: [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/22_Critical_SharePoint_RCE_CVE-2026-50522_Under_Activ.md)
+**2026年07月23日**: [How Synthetic Identity Fraud is Coming for Machine Identities](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_How_Synthetic_Identity_Fraud_is_Coming_for_Machine.md)
 
-元記事: [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://inl03.netline.com/ltr6/?_m=3n.009a.4036.sp0ao46r89.33bw)
+元記事: [How Synthetic Identity Fraud is Coming for Machine Identities](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33c4)

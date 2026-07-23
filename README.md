@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 15:00:25
+**Last Updated**: 2026-07-23 15:01:34
+
+
 
 
 
@@ -781,6 +783,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Check_Point_Patches_Exploited_SmartConsole_Flaw_Al.md)
+**2026年07月23日**: [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_GitHub_Cuts_Public_Bug_Bounty_Payouts_Moves_Top_Re.md)
 
-元記事: [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33d4)
+元記事: [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33da)

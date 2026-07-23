@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 14:57:54
+**Last Updated**: 2026-07-23 14:59:09
+
+
 
 
 
@@ -777,6 +779,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_Nine-Year-Old_RefluXFS_Linux_Flaw_Gives_Local_User.md)
+**2026年07月23日**: [The New Insider Has No Pulse: Securing Privilege When the Actor Is an AI Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_The_New_Insider_Has_No_Pulse_Securing_Privilege_Wh.md)
 
-元記事: [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33cs)
+元記事: [The New Insider Has No Pulse: Securing Privilege When the Actor Is an AI Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33cy)

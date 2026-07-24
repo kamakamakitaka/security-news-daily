@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:25:50
+**Last Updated**: 2026-07-24 14:27:05
+
+
 
 
 
@@ -789,6 +791,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [Mythos Compressed Exploit Timelines. Your Prioritization Didn't](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Mythos_Compressed_Exploit_Timelines_Your_Prioritiz.md)
+**2026年07月24日**: [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Seeing_AI_Agents_Is_Not_Enough_Security_Teams_Must.md)
 
-元記事: [Mythos Compressed Exploit Timelines. Your Prioritization Didn't](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33du)
+元記事: [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33e0)

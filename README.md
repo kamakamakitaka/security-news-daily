@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:31:00
+**Last Updated**: 2026-07-24 14:32:15
+
+
 
 
 
@@ -797,6 +799,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Kimi_K3_Agents_Found_Redis_Zero-Days_and_Built_RCE.md)
+**2026年07月24日**: [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Fake_Notepad_Plugin_Delivers_MATCHBOILV2_in_UAC-00.md)
 
-元記事: [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33ei)
+元記事: [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33eo)

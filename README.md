@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:29:38
+**Last Updated**: 2026-07-24 14:31:00
+
+
 
 
 
@@ -795,6 +797,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_NodeBB_Patches_Eight_AI-Found_Flaws_Exposing_Admin.md)
+**2026年07月24日**: [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Kimi_K3_Agents_Found_Redis_Zero-Days_and_Built_RCE.md)
 
-元記事: [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33ec)
+元記事: [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33ei)

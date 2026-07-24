@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:27:05
+**Last Updated**: 2026-07-24 14:28:25
+
+
 
 
 
@@ -791,6 +793,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Seeing_AI_Agents_Is_Not_Enough_Security_Teams_Must.md)
+**2026年07月24日**: [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Hacker_Runs_Hermes_AI_Agent_Unattended_for_Post-Ex.md)
 
-元記事: [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33e0)
+元記事: [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33e6)

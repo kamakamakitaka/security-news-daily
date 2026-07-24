@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-23 15:01:34
+**Last Updated**: 2026-07-24 14:23:23
+
+
 
 
 
@@ -783,6 +785,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月23日**: [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/23_GitHub_Cuts_Public_Bug_Bounty_Payouts_Moves_Top_Re.md)
+**2026年07月24日**: [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_ChatGPT_AgentForger_Flaw_Could_Deploy_Rogue_Worksp.md)
 
-元記事: [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://inl03.netline.com/ltr6/?_m=3n.009a.4037.sp0ao46r89.33da)
+元記事: [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33di)

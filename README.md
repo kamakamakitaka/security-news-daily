@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:23:23
+**Last Updated**: 2026-07-24 14:24:48
+
+
 
 
 
@@ -785,6 +787,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_ChatGPT_AgentForger_Flaw_Could_Deploy_Rogue_Worksp.md)
+**2026年07月24日**: [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Bing_Images_Flaws_Let_Crafted_SVGs_Run_Commands_as.md)
 
-元記事: [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33di)
+元記事: [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33do)

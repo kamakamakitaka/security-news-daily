@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:24:48
+**Last Updated**: 2026-07-24 14:25:50
+
+
 
 
 
@@ -787,6 +789,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Bing_Images_Flaws_Let_Crafted_SVGs_Run_Commands_as.md)
+**2026年07月24日**: [Mythos Compressed Exploit Timelines. Your Prioritization Didn't](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Mythos_Compressed_Exploit_Timelines_Your_Prioritiz.md)
 
-元記事: [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33do)
+元記事: [Mythos Compressed Exploit Timelines. Your Prioritization Didn't](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33du)

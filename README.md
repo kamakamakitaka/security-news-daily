@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:28:25
+**Last Updated**: 2026-07-24 14:29:38
+
+
 
 
 
@@ -793,6 +795,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Hacker_Runs_Hermes_AI_Agent_Unattended_for_Post-Ex.md)
+**2026年07月24日**: [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_NodeBB_Patches_Eight_AI-Found_Flaws_Exposing_Admin.md)
 
-元記事: [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33e6)
+元記事: [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33ec)

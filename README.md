@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-25 14:14:01
+**Last Updated**: 2026-07-25 14:15:17
+
+
 
 
 
@@ -801,6 +803,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月25日**: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_Researcher_Publishes_GitLab_RCE_PoC_Letting_Authen.md)
+**2026年07月25日**: [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_CTM360_Research_Reveals_How_Insurance_Phishing_Has.md)
 
-元記事: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33ew)
+元記事: [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33f2)

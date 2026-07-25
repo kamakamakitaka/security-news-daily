@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-25 14:15:17
+**Last Updated**: 2026-07-25 14:16:15
+
+
 
 
 
@@ -803,6 +805,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月25日**: [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_CTM360_Research_Reveals_How_Insurance_Phishing_Has.md)
+**2026年07月25日**: [One platform for human risk management? Yes, it exists!](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_One_platform_for_human_risk_management_Yes_it_exis.md)
 
-元記事: [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33f2)
+元記事: [One platform for human risk management? Yes, it exists!](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33f8)

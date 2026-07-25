@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-24 14:32:15
+**Last Updated**: 2026-07-25 14:14:01
+
+
 
 
 
@@ -799,6 +801,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月24日**: [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/24_Fake_Notepad_Plugin_Delivers_MATCHBOILV2_in_UAC-00.md)
+**2026年07月25日**: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_Researcher_Publishes_GitLab_RCE_PoC_Letting_Authen.md)
 
-元記事: [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4038.sp0ao46r89.33eo)
+元記事: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33ew)

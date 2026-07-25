@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-25 14:19:54
+**Last Updated**: 2026-07-25 14:21:15
+
+
 
 
 
@@ -811,6 +813,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月25日**: [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_BlueNoroff_Zoom_Phishing_Kit_Profiles_Crypto_Walle.md)
+**2026年07月25日**: [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_Certighost_Exploit_Lets_Low-Privileged_Active_Dire.md)
 
-元記事: [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33fq)
+元記事: [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33fw)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-25 14:17:27
+**Last Updated**: 2026-07-25 14:18:32
+
+
 
 
 
@@ -807,6 +809,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月25日**: [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_Cl0p_Affiliates_Target_Internet-Exposed_PTC_Windch.md)
+**2026年07月25日**: [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_DevMan_RaaS_Portal_Centralizes_Payload_Builds_Vict.md)
 
-元記事: [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33fe)
+元記事: [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33fk)

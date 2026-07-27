@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-27 15:30:37
+**Last Updated**: 2026-07-27 15:31:49
+
+
 
 
 
@@ -823,6 +825,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月27日**: [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_Malvertising_Sends_Malware_in_Pieces_Then_Makes_th.md)
+**2026年07月27日**: [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_Fastjson_1x_RCE_Vulnerability_Targeted_in_Attacks.md)
 
-元記事: [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33gs)
+元記事: [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33gy)

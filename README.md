@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-27 15:33:14
+**Last Updated**: 2026-07-27 15:34:31
+
+
 
 
 
@@ -827,6 +829,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月27日**: [Claude Runs Across Six Surfaces in Your Company. Your Security Team Sees One.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_Claude_Runs_Across_Six_Surfaces_in_Your_Company_Yo.md)
+**2026年07月27日**: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_Researcher_Publishes_GitLab_RCE_PoC_Letting_Authen.md)
 
-元記事: [Claude Runs Across Six Surfaces in Your Company. Your Security Team Sees One.](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33h4)
+元記事: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33ha)

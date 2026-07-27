@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-27 15:27:06
+**Last Updated**: 2026-07-27 15:28:14
+
+
 
 
 
@@ -817,6 +819,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月27日**: [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_TELESHIM_Abuses_Telegram_for_C2_in_Attacks_Against.md)
+**2026年07月27日**: [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_GitHub_Adds_3-Day_Dependabot_Cooldown_to_Limit_Poi.md)
 
-元記事: [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33ga)
+元記事: [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33gg)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-27 15:34:31
+**Last Updated**: 2026-07-27 15:35:48
+
+
 
 
 
@@ -829,6 +831,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月27日**: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_Researcher_Publishes_GitLab_RCE_PoC_Letting_Authen.md)
+**2026年07月27日**: [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_Certighost_Exploit_Lets_Low-Privileged_Active_Dire.md)
 
-元記事: [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33ha)
+元記事: [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33hg)

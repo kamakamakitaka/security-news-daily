@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-25 14:22:39
+**Last Updated**: 2026-07-27 15:27:06
+
+
 
 
 
@@ -815,6 +817,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月25日**: [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/25_ChatGPT_AgentForger_Flaw_Could_Deploy_Rogue_Worksp.md)
+**2026年07月27日**: [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/27_TELESHIM_Abuses_Telegram_for_C2_in_Attacks_Against.md)
 
-元記事: [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://inl03.netline.com/ltr6/?_m=3n.009a.4039.sp0ao46r89.33g2)
+元記事: [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://inl03.netline.com/ltr6/?_m=3n.009a.4040.sp0ao46r89.33ga)

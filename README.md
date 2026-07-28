@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:04:57
+**Last Updated**: 2026-07-28 15:06:06
+
+
 
 
 
@@ -835,6 +837,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Critical_TeamCity_Flaw_Could_Let_Attackers_Run_OS.md)
+**2026年07月28日**: [Pentest the Plant Without Shutting It Down. SANS ICS613.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Pentest_the_Plant_Without_Shutting_It_Down_SANS_IC.md)
 
-元記事: [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33hu)
+元記事: [Pentest the Plant Without Shutting It Down. SANS ICS613.](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33i0)

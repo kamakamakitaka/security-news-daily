@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:09:53
+**Last Updated**: 2026-07-28 15:10:57
+
+
 
 
 
@@ -843,6 +845,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [A Look Inside Lasso's AI Security Platform](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_A_Look_Inside_Lassos_AI_Security_Platform.md)
+**2026年07月28日**: [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Attackers_Exploit_Arista_VeloCloud_Orchestrator_Co.md)
 
-元記事: [A Look Inside Lasso's AI Security Platform](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33ii)
+元記事: [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33io)

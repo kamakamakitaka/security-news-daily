@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:06:06
+**Last Updated**: 2026-07-28 15:07:25
+
+
 
 
 
@@ -837,6 +839,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [Pentest the Plant Without Shutting It Down. SANS ICS613.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Pentest_the_Plant_Without_Shutting_It_Down_SANS_IC.md)
+**2026年07月28日**: [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Researcher_Says_AI_Helped_Develop_Linux_Traffic-Co.md)
 
-元記事: [Pentest the Plant Without Shutting It Down. SANS ICS613.](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33i0)
+元記事: [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33i6)

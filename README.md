@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:10:57
+**Last Updated**: 2026-07-28 15:12:05
+
+
 
 
 
@@ -845,6 +847,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Attackers_Exploit_Arista_VeloCloud_Orchestrator_Co.md)
+**2026年07月28日**: [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Public_Exploit_Released_for_Patched_vBulletin_Pre-.md)
 
-元記事: [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33io)
+元記事: [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33iu)

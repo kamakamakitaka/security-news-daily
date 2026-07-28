@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:03:45
+**Last Updated**: 2026-07-28 15:04:57
+
+
 
 
 
@@ -833,6 +835,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Nimbus_Manticore_Deploys_NightLedger_and_Turns_Vic.md)
+**2026年07月28日**: [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Critical_TeamCity_Flaw_Could_Let_Attackers_Run_OS.md)
 
-元記事: [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33ho)
+元記事: [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33hu)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:07:25
+**Last Updated**: 2026-07-28 15:08:48
+
+
 
 
 
@@ -839,6 +841,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Researcher_Says_AI_Helped_Develop_Linux_Traffic-Co.md)
+**2026年07月28日**: [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Microsoft_Says_New_Cybersecurity_AI_Model_Helps_MD.md)
 
-元記事: [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33i6)
+元記事: [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33ic)

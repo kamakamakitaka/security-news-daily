@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 15:03:27
+**Last Updated**: 2026-07-29 15:04:37
+
+
 
 
 
@@ -861,6 +863,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_New_Gitea_RCE_Lets_Repository_Writers_Plant_a_Git.md)
+**2026年07月29日**: [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Claude_AI_Just_Cracked_a_Post-Quantum_Test_Scheme.md)
 
-元記事: [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33k2)
+元記事: [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33k8)

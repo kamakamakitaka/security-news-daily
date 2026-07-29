@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 14:58:25
+**Last Updated**: 2026-07-29 14:59:39
+
+
 
 
 
@@ -853,6 +855,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [“Even the fastest team is only as secure as its weakest point of access.”](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Even_the_fastest_team_is_only_as_secure_as_its_wea.md)
+**2026年07月29日**: [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Russia_Charges_Telegram_Founder_Pavel_Durov_With_A.md)
 
-元記事: [“Even the fastest team is only as secure as its weakest point of access.”](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33je)
+元記事: [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33jk)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 14:55:58
+**Last Updated**: 2026-07-29 14:57:15
+
+
 
 
 
@@ -849,6 +851,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Researchers_Show_a_Single_Malicious_Webpage_Visit.md)
+**2026年07月29日**: [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_73_of_Organizations_Say_They_Are_Not_Fully_Ready_f.md)
 
-元記事: [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33j2)
+元記事: [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33j8)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 14:59:39
+**Last Updated**: 2026-07-29 15:00:47
+
+
 
 
 
@@ -855,6 +857,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Russia_Charges_Telegram_Founder_Pavel_Durov_With_A.md)
+**2026年07月29日**: [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Public_PoC_Released_for_Exploited_Check_Point_Smar.md)
 
-元記事: [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33jk)
+元記事: [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33jq)

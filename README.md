@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 15:02:08
+**Last Updated**: 2026-07-29 15:03:27
+
+
 
 
 
@@ -859,6 +861,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_OpenAI_Agent_Used_Exposed_Credentials_Across_Four.md)
+**2026年07月29日**: [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_New_Gitea_RCE_Lets_Repository_Writers_Plant_a_Git.md)
 
-元記事: [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33jw)
+元記事: [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33k2)

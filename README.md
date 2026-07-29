@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-28 15:12:05
+**Last Updated**: 2026-07-29 14:55:58
+
+
 
 
 
@@ -847,6 +849,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月28日**: [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/28_Public_Exploit_Released_for_Patched_vBulletin_Pre-.md)
+**2026年07月29日**: [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Researchers_Show_a_Single_Malicious_Webpage_Visit.md)
 
-元記事: [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4041.sp0ao46r89.33iu)
+元記事: [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33j2)

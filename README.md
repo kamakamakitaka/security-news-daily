@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 14:57:15
+**Last Updated**: 2026-07-29 14:58:25
+
+
 
 
 
@@ -851,6 +853,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_73_of_Organizations_Say_They_Are_Not_Fully_Ready_f.md)
+**2026年07月29日**: [“Even the fastest team is only as secure as its weakest point of access.”](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Even_the_fastest_team_is_only_as_secure_as_its_wea.md)
 
-元記事: [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33j8)
+元記事: [“Even the fastest team is only as secure as its weakest point of access.”](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33je)

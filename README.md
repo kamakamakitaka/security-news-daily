@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-30 14:57:37
+**Last Updated**: 2026-07-30 14:58:51
+
+
 
 
 
@@ -871,6 +873,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月30日**: [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Hackers_Exploit_AnySign4PC_via_Hacked_Korean_Sites.md)
+**2026年07月30日**: [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Russian_Hackers_Exploit_Microsoft_OWA_Flaw_to_Keep.md)
 
-元記事: [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33ky)
+元記事: [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33l4)

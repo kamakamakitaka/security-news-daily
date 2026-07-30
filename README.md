@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-29 15:04:37
+**Last Updated**: 2026-07-30 14:54:05
+
+
 
 
 
@@ -863,6 +865,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月29日**: [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/29_Claude_AI_Just_Cracked_a_Post-Quantum_Test_Scheme.md)
+**2026年07月30日**: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Microsoft_Copilot_for_Word_Can_Copy_Hidden_Prompts.md)
 
-元記事: [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4042.sp0ao46r89.33k8)
+元記事: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33kg)

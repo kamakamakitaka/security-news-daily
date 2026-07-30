@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-30 14:58:51
+**Last Updated**: 2026-07-30 15:00:00
+
+
 
 
 
@@ -873,6 +875,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月30日**: [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Russian_Hackers_Exploit_Microsoft_OWA_Flaw_to_Keep.md)
+**2026年07月30日**: [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Critical_Rails_Flaw_Could_Let_Unauthenticated_Atta.md)
 
-元記事: [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33l4)
+元記事: [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33la)

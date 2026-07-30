@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-30 14:54:05
+**Last Updated**: 2026-07-30 14:55:08
+
+
 
 
 
@@ -865,6 +867,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月30日**: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Microsoft_Copilot_for_Word_Can_Copy_Hidden_Prompts.md)
+**2026年07月30日**: [The Network Has Become the Control Plane for AI Security](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_The_Network_Has_Become_the_Control_Plane_for_AI_Se.md)
 
-元記事: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33kg)
+元記事: [The Network Has Become the Control Plane for AI Security](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33km)

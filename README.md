@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-30 14:56:10
+**Last Updated**: 2026-07-30 14:57:37
+
+
 
 
 
@@ -869,6 +871,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月30日**: [Autonomous Exposure Validation, running live at Black Hat 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Autonomous_Exposure_Validation_running_live_at_Bla.md)
+**2026年07月30日**: [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Hackers_Exploit_AnySign4PC_via_Hacked_Korean_Sites.md)
 
-元記事: [Autonomous Exposure Validation, running live at Black Hat 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33ks)
+元記事: [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33ky)

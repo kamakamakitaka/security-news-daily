@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-30 15:01:10
+**Last Updated**: 2026-07-30 15:02:27
+
+
 
 
 
@@ -877,6 +879,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月30日**: [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Ruflo_MCP_Flaw_Lets_Unauthenticated_Attackers_Run.md)
+**2026年07月30日**: [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/30_Three_Critical_VMware_Flaws_Allow_Auth_Bypass_Code.md)
 
-元記事: [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33lg)
+元記事: [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://inl03.netline.com/ltr6/?_m=3n.009a.4043.sp0ao46r89.33lm)

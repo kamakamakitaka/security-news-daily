@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-31 15:05:57
+**Last Updated**: 2026-07-31 15:07:11
+
+
 
 
 
@@ -883,6 +885,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月31日**: [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_6_Reasons_Why_Device_Code_Phishing_is_the_Fastest-.md)
+**2026年07月31日**: [The Rise of Fraud-as-a-Service: Deconstructing the Underground Stack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_The_Rise_of_Fraud-as-a-Service_Deconstructing_the.md)
 
-元記事: [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33m0)
+元記事: [The Rise of Fraud-as-a-Service: Deconstructing the Underground Stack](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33m6)

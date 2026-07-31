@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-31 15:09:33
+**Last Updated**: 2026-07-31 15:11:09
+
+
 
 
 
@@ -889,6 +891,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月31日**: [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_Anthropic_Says_Claude_Mistook_the_Open_Internet_fo.md)
+**2026年07月31日**: [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_ThreatsDay_AI-Powered_Hacking_370_Chrome_Flaws_Son.md)
 
-元記事: [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33mi)
+元記事: [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33mo)

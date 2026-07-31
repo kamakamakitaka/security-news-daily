@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-31 15:07:11
+**Last Updated**: 2026-07-31 15:08:23
+
+
 
 
 
@@ -885,6 +887,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月31日**: [The Rise of Fraud-as-a-Service: Deconstructing the Underground Stack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_The_Rise_of_Fraud-as-a-Service_Deconstructing_the.md)
+**2026年07月31日**: [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_Chinese_Hacker_Commands_DeepSeek_via_Telegram_to_L.md)
 
-元記事: [The Rise of Fraud-as-a-Service: Deconstructing the Underground Stack](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33m6)
+元記事: [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33mc)

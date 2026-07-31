@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-31 15:04:40
+**Last Updated**: 2026-07-31 15:05:57
+
+
 
 
 
@@ -881,6 +883,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月31日**: [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_Researchers_Report_84_Flaws_in_4G_and_5G_Cores_Inc.md)
+**2026年07月31日**: [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_6_Reasons_Why_Device_Code_Phishing_is_the_Fastest-.md)
 
-元記事: [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33lu)
+元記事: [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33m0)

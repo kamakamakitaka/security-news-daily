@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-31 15:12:27
+**Last Updated**: 2026-07-31 15:13:37
+
+
 
 
 
@@ -893,6 +895,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月31日**: [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_Azure_Cosmos_DB_Flaw_Exposed_Platform-Wide_Key_Tha.md)
+**2026年07月31日**: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_Microsoft_Copilot_for_Word_Can_Copy_Hidden_Prompts.md)
 
-元記事: [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33mu)
+元記事: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33n0)

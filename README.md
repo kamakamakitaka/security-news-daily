@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:14:47
+**Last Updated**: 2026-08-01 14:15:56
+
+
 
 
 
@@ -905,6 +907,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Cheap_Android_TV_Boxes_Pose_as_Phones_and_Turn_Own.md)
+**2026年08月01日**: [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Three_Recent_Chrome_Releases_Fix_1442_Flaws_More_T.md)
 
-元記事: [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33nw)
+元記事: [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33o2)

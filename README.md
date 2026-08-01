@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-07-31 15:13:37
+**Last Updated**: 2026-08-01 14:09:46
+
+
 
 
 
@@ -895,6 +897,6 @@
 
 ## 📌 最新の解説
 
-**2026年07月31日**: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/07/31_Microsoft_Copilot_for_Word_Can_Copy_Hidden_Prompts.md)
+**2026年08月01日**: [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Hackers_Poison_Adform_Script_to_Swap_Crypto_Wallet.md)
 
-元記事: [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://inl03.netline.com/ltr6/?_m=3n.009a.4044.sp0ao46r89.33n0)
+元記事: [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33n8)

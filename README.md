@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:09:46
+**Last Updated**: 2026-08-01 14:10:53
+
+
 
 
 
@@ -897,6 +899,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Hackers_Poison_Adform_Script_to_Swap_Crypto_Wallet.md)
+**2026年08月01日**: [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Adobe_Campaign_Classic_CVSS_100_Flaw_Could_Run_Cod.md)
 
-元記事: [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33n8)
+元記事: [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33ne)

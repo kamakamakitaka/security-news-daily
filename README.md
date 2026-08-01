@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:15:56
+**Last Updated**: 2026-08-01 14:17:17
+
+
 
 
 
@@ -907,6 +909,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Three_Recent_Chrome_Releases_Fix_1442_Flaws_More_T.md)
+**2026年08月01日**: [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Researchers_Report_84_Flaws_in_4G_and_5G_Cores_Inc.md)
 
-元記事: [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33o2)
+元記事: [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33o8)

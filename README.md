@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:10:53
+**Last Updated**: 2026-08-01 14:12:13
+
+
 
 
 
@@ -899,6 +901,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Adobe_Campaign_Classic_CVSS_100_Flaw_Could_Run_Cod.md)
+**2026年08月01日**: [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Hijacked_Hotel_Wi-Fi_Pushes_Fake_Updates_to_Delive.md)
 
-元記事: [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33ne)
+元記事: [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33nk)

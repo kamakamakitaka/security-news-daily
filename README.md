@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:12:13
+**Last Updated**: 2026-08-01 14:13:25
+
+
 
 
 
@@ -901,6 +903,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Hijacked_Hotel_Wi-Fi_Pushes_Fake_Updates_to_Delive.md)
+**2026年08月01日**: [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Suspected_Chinese-Speaking_Hackers_Target_Central.md)
 
-元記事: [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33nk)
+元記事: [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33nq)

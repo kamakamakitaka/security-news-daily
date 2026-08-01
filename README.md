@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:13:25
+**Last Updated**: 2026-08-01 14:14:47
+
+
 
 
 
@@ -903,6 +905,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Suspected_Chinese-Speaking_Hackers_Target_Central.md)
+**2026年08月01日**: [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Cheap_Android_TV_Boxes_Pose_as_Phones_and_Turn_Own.md)
 
-元記事: [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33nq)
+元記事: [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33nw)

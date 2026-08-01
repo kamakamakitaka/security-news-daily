@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:17:17
+**Last Updated**: 2026-08-01 14:18:41
+
+
 
 
 
@@ -909,6 +911,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Researchers_Report_84_Flaws_in_4G_and_5G_Cores_Inc.md)
+**2026年08月01日**: [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Chinese_Hacker_Commands_DeepSeek_via_Telegram_to_L.md)
 
-元記事: [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33o8)
+元記事: [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33oe)

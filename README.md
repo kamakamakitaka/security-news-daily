@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:34:09
+**Last Updated**: 2026-08-03 15:35:27
+
+
 
 
 
@@ -923,6 +925,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_N-able_Says_Attackers_Take_Over_N-central_Servers.md)
+**2026年08月03日**: [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Hugging_Face_Diffusers_Flaws_Could_Let_Model_Repos.md)
 
-元記事: [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33pg)
+元記事: [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33pm)

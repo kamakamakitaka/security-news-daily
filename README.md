@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:29:27
+**Last Updated**: 2026-08-03 15:30:27
+
+
 
 
 
@@ -915,6 +917,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Chinese_Threat_Actor_Uses_Leaked_DarkSword_Kit_to.md)
+**2026年08月03日**: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Guardant_Healths_Practical_Case_for_SIEM__MDR_Cons.md)
 
-元記事: [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33os)
+元記事: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33oy)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:28:08
+**Last Updated**: 2026-08-03 15:29:27
+
+
 
 
 
@@ -913,6 +915,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_FOMO_in_the_SOC_Where_AI_Platforms_like_Claude_Act.md)
+**2026年08月03日**: [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Chinese_Threat_Actor_Uses_Leaked_DarkSword_Kit_to.md)
 
-元記事: [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33om)
+元記事: [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33os)

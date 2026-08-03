@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:32:54
+**Last Updated**: 2026-08-03 15:34:09
+
+
 
 
 
@@ -921,6 +923,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Thermo_Fisher_Patches_Flaw_That_Could_Make_DNA_Fil.md)
+**2026年08月03日**: [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_N-able_Says_Attackers_Take_Over_N-central_Servers.md)
 
-元記事: [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33pa)
+元記事: [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33pg)

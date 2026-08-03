@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:31:43
+**Last Updated**: 2026-08-03 15:32:54
+
+
 
 
 
@@ -919,6 +921,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_PNLD_Breach_Exposes_UK_Police_and_Government_Conta.md)
+**2026年08月03日**: [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Thermo_Fisher_Patches_Flaw_That_Could_Make_DNA_Fil.md)
 
-元記事: [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33p4)
+元記事: [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33pa)

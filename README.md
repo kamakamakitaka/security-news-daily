@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:35:27
+**Last Updated**: 2026-08-03 15:36:45
+
+
 
 
 
@@ -925,6 +927,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Hugging_Face_Diffusers_Flaws_Could_Let_Model_Repos.md)
+**2026年08月03日**: [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Coldcard_Hardware_Wallet_Flaw_Linked_to_70_Million.md)
 
-元記事: [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33pm)
+元記事: [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33ps)

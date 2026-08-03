@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-01 14:18:41
+**Last Updated**: 2026-08-03 15:28:08
+
+
 
 
 
@@ -911,6 +913,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月01日**: [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/01_Chinese_Hacker_Commands_DeepSeek_via_Telegram_to_L.md)
+**2026年08月03日**: [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_FOMO_in_the_SOC_Where_AI_Platforms_like_Claude_Act.md)
 
-元記事: [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4045.sp0ao46r89.33oe)
+元記事: [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33om)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:30:27
+**Last Updated**: 2026-08-03 15:31:43
+
+
 
 
 
@@ -917,6 +919,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Guardant_Healths_Practical_Case_for_SIEM__MDR_Cons.md)
+**2026年08月03日**: [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_PNLD_Breach_Exposes_UK_Police_and_Government_Conta.md)
 
-元記事: [Guardant Health’s Practical Case for SIEM + MDR Consolidation With Exaforce](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33oy)
+元記事: [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33p4)

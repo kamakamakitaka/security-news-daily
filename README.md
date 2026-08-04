@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:07:34
+**Last Updated**: 2026-08-04 15:08:39
+
+
 
 
 
@@ -931,6 +933,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_Google_Deletes_3_ADK_AI_Workflows_After_Malicious.md)
+**2026年08月04日**: [Stop Building Your Security Program From Scratch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_Stop_Building_Your_Security_Program_From_Scratch.md)
 
-元記事: [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33q6)
+元記事: [Stop Building Your Security Program From Scratch](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qc)

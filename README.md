@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:12:26
+**Last Updated**: 2026-08-04 15:13:37
+
+
 
 
 
@@ -939,6 +941,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_CISA_Adds_Exploited_N-able_N-central_Flaw_to_KEV_A.md)
+**2026年08月04日**: [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_Google_Password_Manager_Attacks_Could_Let_Malware.md)
 
-元記事: [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qu)
+元記事: [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33r0)

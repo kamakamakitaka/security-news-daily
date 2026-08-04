@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:11:14
+**Last Updated**: 2026-08-04 15:12:26
+
+
 
 
 
@@ -937,6 +939,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_DOUBLECUP_Uses_ClickFix_and_Cached_PNGs_to_Deliver.md)
+**2026年08月04日**: [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_CISA_Adds_Exploited_N-able_N-central_Flaw_to_KEV_A.md)
 
-元記事: [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qo)
+元記事: [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qu)

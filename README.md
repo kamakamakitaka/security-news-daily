@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-03 15:36:45
+**Last Updated**: 2026-08-04 15:06:13
+
+
 
 
 
@@ -927,6 +929,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月03日**: [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/03_Coldcard_Hardware_Wallet_Flaw_Linked_to_70_Million.md)
+**2026年08月04日**: [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_When_Vibe_Hacking_Turns_AI_into_the_Junior_Hacker.md)
 
-元記事: [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://inl03.netline.com/ltr6/?_m=3n.009a.4046.sp0ao46r89.33ps)
+元記事: [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33q0)

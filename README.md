@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:09:54
+**Last Updated**: 2026-08-04 15:11:14
+
+
 
 
 
@@ -935,6 +937,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_New_cPanel_Critical_Flaw_Could_Let_Hosting_Custome.md)
+**2026年08月04日**: [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_DOUBLECUP_Uses_ClickFix_and_Cached_PNGs_to_Deliver.md)
 
-元記事: [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qi)
+元記事: [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qo)

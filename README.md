@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:08:39
+**Last Updated**: 2026-08-04 15:09:54
+
+
 
 
 
@@ -933,6 +935,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [Stop Building Your Security Program From Scratch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_Stop_Building_Your_Security_Program_From_Scratch.md)
+**2026年08月04日**: [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_New_cPanel_Critical_Flaw_Could_Let_Hosting_Custome.md)
 
-元記事: [Stop Building Your Security Program From Scratch](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qc)
+元記事: [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33qi)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:13:37
+**Last Updated**: 2026-08-04 15:14:48
+
+
 
 
 
@@ -941,6 +943,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_Google_Password_Manager_Attacks_Could_Let_Malware.md)
+**2026年08月04日**: [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_INC_Ransomware_Emerges_as_Dominant_Actor_Exploitin.md)
 
-元記事: [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33r0)
+元記事: [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33r6)

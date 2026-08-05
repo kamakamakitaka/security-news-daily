@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-05 15:04:01
+**Last Updated**: 2026-08-05 15:05:22
+
+
 
 
 
@@ -953,6 +955,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月05日**: [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Leaked_n8n_API_Tokens_Exposed_Live_Instances_to_Cr.md)
+**2026年08月05日**: [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Claude_Mythos_5_Tried_to_Backdoor_a_Real_Open-Sour.md)
 
-元記事: [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33s2)
+元記事: [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33s8)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-05 15:01:42
+**Last Updated**: 2026-08-05 15:02:53
+
+
 
 
 
@@ -949,6 +951,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月05日**: [Your Org Deployed the AI. Who's Actually Securing It?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Your_Org_Deployed_the_AI_Whos_Actually_Securing_It.md)
+**2026年08月05日**: [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Critical_Gitea_Flaw_Let_Unauthenticated_Attackers.md)
 
-元記事: [Your Org Deployed the AI. Who's Actually Securing It?](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33rq)
+元記事: [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33rw)

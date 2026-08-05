@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-05 15:00:46
+**Last Updated**: 2026-08-05 15:01:42
+
+
 
 
 
@@ -947,6 +949,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月05日**: [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Kali365_Weaponizes_Microsoft_Authentication_Agains.md)
+**2026年08月05日**: [Your Org Deployed the AI. Who's Actually Securing It?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Your_Org_Deployed_the_AI_Whos_Actually_Securing_It.md)
 
-元記事: [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33rk)
+元記事: [Your Org Deployed the AI. Who's Actually Securing It?](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33rq)

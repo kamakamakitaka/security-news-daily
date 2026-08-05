@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-04 15:14:48
+**Last Updated**: 2026-08-05 14:59:35
+
+
 
 
 
@@ -943,6 +945,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月04日**: [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/04_INC_Ransomware_Emerges_as_Dominant_Actor_Exploitin.md)
+**2026年08月05日**: [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_New_OVSwrap_Linux_Kernel_Flaw_Lets_Local_Users_Gai.md)
 
-元記事: [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://inl03.netline.com/ltr6/?_m=3n.009a.4047.sp0ao46r89.33r6)
+元記事: [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33re)

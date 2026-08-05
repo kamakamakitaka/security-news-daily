@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-05 15:02:53
+**Last Updated**: 2026-08-05 15:04:01
+
+
 
 
 
@@ -951,6 +953,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月05日**: [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Critical_Gitea_Flaw_Let_Unauthenticated_Attackers.md)
+**2026年08月05日**: [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Leaked_n8n_API_Tokens_Exposed_Live_Instances_to_Cr.md)
 
-元記事: [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33rw)
+元記事: [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33s2)

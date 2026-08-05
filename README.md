@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-05 15:06:38
+**Last Updated**: 2026-08-05 15:07:58
+
+
 
 
 
@@ -957,6 +959,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月05日**: [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_CISA_Flags_Langflow_RCE_Tomcat_and_N-central_Flaws.md)
+**2026年08月05日**: [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Keyv-Linked_npm_Worm_Poisons_Hundreds_of_Packages.md)
 
-元記事: [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33se)
+元記事: [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33sk)

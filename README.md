@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-05 14:59:35
+**Last Updated**: 2026-08-05 15:00:46
+
+
 
 
 
@@ -945,6 +947,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月05日**: [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_New_OVSwrap_Linux_Kernel_Flaw_Lets_Local_Users_Gai.md)
+**2026年08月05日**: [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/05_Kali365_Weaponizes_Microsoft_Authentication_Agains.md)
 
-元記事: [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33re)
+元記事: [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4048.sp0ao46r89.33rk)

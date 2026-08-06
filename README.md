@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-06 15:01:52
+**Last Updated**: 2026-08-06 15:03:09
+
+
 
 
 
@@ -967,6 +969,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月06日**: [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_AI_Recommendation_Poisoning_How_Ask_AI_Buttons_Sil.md)
+**2026年08月06日**: [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_Attackers_Compile_khunt_Inside_Oracle_to_Turn_SQL.md)
 
-元記事: [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33ta)
+元記事: [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33tg)

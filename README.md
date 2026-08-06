@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-06 14:58:26
+**Last Updated**: 2026-08-06 14:59:33
+
+
 
 
 
@@ -961,6 +963,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月06日**: [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_CryptoJS_Weak_RNG_Behind_57_Million_in_Drains_Affe.md)
+**2026年08月06日**: [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_Apple_iCloud_Private_Relay_Can_Expose_Real_IPs_Thr.md)
 
-元記事: [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33ss)
+元記事: [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33sy)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-06 15:04:24
+**Last Updated**: 2026-08-06 15:05:48
+
+
 
 
 
@@ -971,6 +973,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月06日**: [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_AWS_Google_and_Vercel_Agent_Flaws_Let_Attackers_Tr.md)
+**2026年08月06日**: [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_Chinese-Made_Zbtlink_Routers_Ship_With_Backdoor_Th.md)
 
-元記事: [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33tm)
+元記事: [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33ts)

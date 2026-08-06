@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-06 15:00:32
+**Last Updated**: 2026-08-06 15:01:52
+
+
 
 
 
@@ -965,6 +967,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月06日**: [Pivotal Moment: Capitalize on Mythos Hype to Fix Your Exposure and Vulnerability Management](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_Pivotal_Moment_Capitalize_on_Mythos_Hype_to_Fix_Yo.md)
+**2026年08月06日**: [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_AI_Recommendation_Poisoning_How_Ask_AI_Buttons_Sil.md)
 
-元記事: [Pivotal Moment: Capitalize on Mythos Hype to Fix Your Exposure and Vulnerability Management](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33t4)
+元記事: [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33ta)

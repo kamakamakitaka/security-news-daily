@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-07 13:56:30
+**Last Updated**: 2026-08-07 13:57:50
+
+
 
 
 
@@ -981,6 +983,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月07日**: [AI Moves Fast. Security Hasn't Caught Up](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_AI_Moves_Fast_Security_Hasnt_Caught_Up.md)
+**2026年08月07日**: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_New_NatJack_Attacks_Hijack_TCP_Sessions_and_Spoof.md)
 
-元記事: [AI Moves Fast. Security Hasn't Caught Up](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33ui)
+元記事: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33uo)

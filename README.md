@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-07 13:57:50
+**Last Updated**: 2026-08-07 13:59:13
+
+
 
 
 
@@ -983,6 +985,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月07日**: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_New_NatJack_Attacks_Hijack_TCP_Sessions_and_Spoof.md)
+**2026年08月07日**: [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_AI-Assisted_HTTP_Terminator_Finds_Novel_HTTP_Desyn.md)
 
-元記事: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33uo)
+元記事: [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33uu)

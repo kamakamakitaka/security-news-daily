@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-07 14:00:27
+**Last Updated**: 2026-08-07 14:01:46
+
+
 
 
 
@@ -987,6 +989,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月07日**: [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_Malware_Can_Abuse_Windows_Hello_for_Business_Keys.md)
+**2026年08月07日**: [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_Claude_Code_and_Gemini_CLI_Flaws_Let_a_GitHub_Issu.md)
 
-元記事: [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33v0)
+元記事: [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33v6)

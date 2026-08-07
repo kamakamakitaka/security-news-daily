@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-07 13:54:14
+**Last Updated**: 2026-08-07 13:55:24
+
+
 
 
 
@@ -977,6 +979,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月07日**: [Growing Up The Hard Way](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_Growing_Up_The_Hard_Way.md)
+**2026年08月07日**: [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_18-Year-Old_Linux_SCTP_Flaw_Could_Let_Local_Users.md)
 
-元記事: [Growing Up The Hard Way](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33u6)
+元記事: [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33uc)

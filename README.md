@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-06 15:06:56
+**Last Updated**: 2026-08-07 13:54:14
+
+
 
 
 
@@ -975,6 +977,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月06日**: [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/06_Poison_Claude_Sells_Discounted_Claude_Access_While.md)
+**2026年08月07日**: [Growing Up The Hard Way](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/07_Growing_Up_The_Hard_Way.md)
 
-元記事: [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://inl03.netline.com/ltr6/?_m=3n.009a.4049.sp0ao46r89.33ty)
+元記事: [Growing Up The Hard Way](https://inl03.netline.com/ltr6/?_m=3n.009a.4050.sp0ao46r89.33u6)

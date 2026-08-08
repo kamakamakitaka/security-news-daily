@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:37:24
+**Last Updated**: 2026-08-08 13:38:42
+
+
 
 
 
@@ -1005,6 +1007,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_18-Year-Old_Linux_SCTP_Flaw_Could_Let_Local_Users.md)
+**2026年08月08日**: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_New_NatJack_Attacks_Hijack_TCP_Sessions_and_Spoof.md)
 
-元記事: [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33wk)
+元記事: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33wq)

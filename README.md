@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:33:59
+**Last Updated**: 2026-08-08 13:35:02
+
+
 
 
 
@@ -999,6 +1001,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_N-able_Issues_N-central_Hotfix_2_as_Attackers_Reac.md)
+**2026年08月08日**: [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_Progress_Kemp_LoadMaster_Flaw_Hits_CISA_KEV_After.md)
 
-元記事: [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33w2)
+元記事: [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33w8)

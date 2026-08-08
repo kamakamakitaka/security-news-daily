@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:35:02
+**Last Updated**: 2026-08-08 13:36:06
+
+
 
 
 
@@ -1001,6 +1003,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_Progress_Kemp_LoadMaster_Flaw_Hits_CISA_KEV_After.md)
+**2026年08月08日**: [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_New_WordPress_Pre-Auth_XSS_Could_Lead_to_PHP_Code.md)
 
-元記事: [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33w8)
+元記事: [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33we)

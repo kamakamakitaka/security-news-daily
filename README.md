@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:36:06
+**Last Updated**: 2026-08-08 13:37:24
+
+
 
 
 
@@ -1003,6 +1005,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_New_WordPress_Pre-Auth_XSS_Could_Lead_to_PHP_Code.md)
+**2026年08月08日**: [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_18-Year-Old_Linux_SCTP_Flaw_Could_Let_Local_Users.md)
 
-元記事: [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33we)
+元記事: [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33wk)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:32:40
+**Last Updated**: 2026-08-08 13:33:59
+
+
 
 
 
@@ -997,6 +999,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_Metabase_Zero-Day_Exploited_in_Wild_Allows_Admin_A.md)
+**2026年08月08日**: [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_N-able_Issues_N-central_Hotfix_2_as_Attackers_Reac.md)
 
-元記事: [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33vw)
+元記事: [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33w2)

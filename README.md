@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:31:35
+**Last Updated**: 2026-08-08 13:32:40
+
+
 
 
 
@@ -995,6 +997,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_New_CSS_Attacks_Can_Break_Webmail_Defenses_to_Stea.md)
+**2026年08月08日**: [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_Metabase_Zero-Day_Exploited_in_Wild_Allows_Admin_A.md)
 
-元記事: [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33vq)
+元記事: [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33vw)

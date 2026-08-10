@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-10 14:00:39
+**Last Updated**: 2026-08-10 14:02:07
+
+
 
 
 
@@ -1009,6 +1011,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月10日**: [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/10_Shipping_1050_More_Code_Watch_This_Webinar_on_Secu.md)
+**2026年08月10日**: [TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/10_TrueConf_Server_Flaws_Exploited_to_Replace_Client.md)
 
-元記事: [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://inl03.netline.com/ltr6/?_m=3n.009a.4052.sp0ao46r89.33wy)
+元記事: [TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore](https://inl03.netline.com/ltr6/?_m=3n.009a.4052.sp0ao46r89.33x4)

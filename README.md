@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-10 14:04:09
+**Last Updated**: 2026-08-10 14:05:23
+
+
 
 
 
@@ -1015,6 +1017,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月10日**: [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/10_OpenAIs_Next_AI_Model_Astra_Shows_Cyber_Performanc.md)
+**2026年08月10日**: [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/10_Atlassian_Rovo_Can_Be_Tricked_Into_Sending_Jira_an.md)
 
-元記事: [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://inl03.netline.com/ltr6/?_m=3n.009a.4052.sp0ao46r89.33xg)
+元記事: [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://inl03.netline.com/ltr6/?_m=3n.009a.4052.sp0ao46r89.33xm)

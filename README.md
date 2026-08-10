@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-08 13:38:42
+**Last Updated**: 2026-08-10 14:00:39
+
+
 
 
 
@@ -1007,6 +1009,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月08日**: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/08_New_NatJack_Attacks_Hijack_TCP_Sessions_and_Spoof.md)
+**2026年08月10日**: [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/10_Shipping_1050_More_Code_Watch_This_Webinar_on_Secu.md)
 
-元記事: [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://inl03.netline.com/ltr6/?_m=3n.009a.4051.sp0ao46r89.33wq)
+元記事: [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://inl03.netline.com/ltr6/?_m=3n.009a.4052.sp0ao46r89.33wy)

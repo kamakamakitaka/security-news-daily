@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-10 14:08:52
+**Last Updated**: 2026-08-11 14:02:03
+
+
 
 
 
@@ -1023,6 +1025,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月10日**: [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/10_Metabase_Zero-Day_Exploited_in_Wild_Allows_Admin_A.md)
+**2026年08月11日**: [A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_A_Malicious_SIM_Card_Can_Run_Attacker_Code_Inside.md)
 
-元記事: [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://inl03.netline.com/ltr6/?_m=3n.009a.4052.sp0ao46r89.33y4)
+元記事: [A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33yc)

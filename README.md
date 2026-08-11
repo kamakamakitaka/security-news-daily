@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-11 14:06:00
+**Last Updated**: 2026-08-11 14:07:13
+
+
 
 
 
@@ -1031,6 +1033,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月11日**: [Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Researchers_Turn_USB_Auto-Install_Into_a_Full_SYST.md)
+**2026年08月11日**: [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Malicious_MCP_Servers_Can_Split_Instructions_to_Ma.md)
 
-元記事: [Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33yu)
+元記事: [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33z0)

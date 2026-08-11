@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-11 14:03:28
+**Last Updated**: 2026-08-11 14:04:54
+
+
 
 
 
@@ -1027,6 +1029,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月11日**: [Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Researchers_Built_a_Fake_Crypto_Startup_and_Hired.md)
+**2026年08月11日**: [Cloud Identity Sprawl Is the New Perimeter. Design for It.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Cloud_Identity_Sprawl_Is_the_New_Perimeter_Design.md)
 
-元記事: [Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33yi)
+元記事: [Cloud Identity Sprawl Is the New Perimeter. Design for It.](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33yo)

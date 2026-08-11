@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-11 14:09:48
+**Last Updated**: 2026-08-11 14:11:15
+
+
 
 
 
@@ -1037,6 +1039,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月11日**: [Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Gunra_Ransomware_Exploits_Fortinet_and_Schneider_E.md)
+**2026年08月11日**: [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Hackers_Breach_Polish_Power_Plant_Controls_via_Pri.md)
 
-元記事: [Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33zc)
+元記事: [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33zi)

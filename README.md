@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-11 14:07:13
+**Last Updated**: 2026-08-11 14:08:31
+
+
 
 
 
@@ -1033,6 +1035,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月11日**: [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Malicious_MCP_Servers_Can_Split_Instructions_to_Ma.md)
+**2026年08月11日**: [Agents Work Everywhere Now. Governance Has to See Everywhere Too.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Agents_Work_Everywhere_Now_Governance_Has_to_See_E.md)
 
-元記事: [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33z0)
+元記事: [Agents Work Everywhere Now. Governance Has to See Everywhere Too.](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33z6)

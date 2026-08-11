@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-11 14:08:31
+**Last Updated**: 2026-08-11 14:09:48
+
+
 
 
 
@@ -1035,6 +1037,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月11日**: [Agents Work Everywhere Now. Governance Has to See Everywhere Too.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Agents_Work_Everywhere_Now_Governance_Has_to_See_E.md)
+**2026年08月11日**: [Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Gunra_Ransomware_Exploits_Fortinet_and_Schneider_E.md)
 
-元記事: [Agents Work Everywhere Now. Governance Has to See Everywhere Too.](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33z6)
+元記事: [Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33zc)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-11 14:11:15
+**Last Updated**: 2026-08-12 14:02:31
+
+
 
 
 
@@ -1039,6 +1041,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月11日**: [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/11_Hackers_Breach_Polish_Power_Plant_Controls_via_Pri.md)
+**2026年08月12日**: [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_OpenAI_Anthropic_Google_API_Flaw_Let_Weaker_AI_Mod.md)
 
-元記事: [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://inl03.netline.com/ltr6/?_m=3n.009a.4053.sp0ao46r89.33zi)
+元記事: [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.33zq)

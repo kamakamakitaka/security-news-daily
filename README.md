@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-12 14:10:30
+**Last Updated**: 2026-08-12 14:11:46
+
+
 
 
 
@@ -1053,6 +1055,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月12日**: [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Kimwolf_v7_Android_Botnet_Makes_HTTP2_DDoS_Traffic.md)
+**2026年08月12日**: [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Zoom_Annotation_Flaws_Could_Let_a_Meeting_Particip.md)
 
-元記事: [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.340q)
+元記事: [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.340w)

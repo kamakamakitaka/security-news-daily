@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-12 14:07:42
+**Last Updated**: 2026-08-12 14:09:10
+
+
 
 
 
@@ -1049,6 +1051,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月12日**: [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_ShieldBreak_Zero-Day_PoC_Claims_Microsoft_Defender.md)
+**2026年08月12日**: [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Microsoft_Patches_398_Flaws_Including_a_Windows_Dr.md)
 
-元記事: [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.340e)
+元記事: [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.340k)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-12 14:03:59
+**Last Updated**: 2026-08-12 14:05:10
+
+
 
 
 
@@ -1043,6 +1045,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月12日**: [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Enterprise_Defenses_Recovered_at_the_Edge_and_Coll.md)
+**2026年08月12日**: [Claude Runs Five Ways Inside Your Company. Who's Watching the Other Four?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Claude_Runs_Five_Ways_Inside_Your_Company_Whos_Wat.md)
 
-元記事: [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.33zw)
+元記事: [Claude Runs Five Ways Inside Your Company. Who's Watching the Other Four?](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.3402)

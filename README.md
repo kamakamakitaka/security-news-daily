@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-12 14:06:34
+**Last Updated**: 2026-08-12 14:07:42
+
+
 
 
 
@@ -1047,6 +1049,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月12日**: [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Malicious_LiteLLM_Releases_Tied_to_Trivy_Hack_May.md)
+**2026年08月12日**: [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_ShieldBreak_Zero-Day_PoC_Claims_Microsoft_Defender.md)
 
-元記事: [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.3408)
+元記事: [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.340e)

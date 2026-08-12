@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-12 14:05:10
+**Last Updated**: 2026-08-12 14:06:34
+
+
 
 
 
@@ -1045,6 +1047,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月12日**: [Claude Runs Five Ways Inside Your Company. Who's Watching the Other Four?](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Claude_Runs_Five_Ways_Inside_Your_Company_Whos_Wat.md)
+**2026年08月12日**: [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Malicious_LiteLLM_Releases_Tied_to_Trivy_Hack_May.md)
 
-元記事: [Claude Runs Five Ways Inside Your Company. Who's Watching the Other Four?](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.3402)
+元記事: [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.3408)

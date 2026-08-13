@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-13 14:04:52
+**Last Updated**: 2026-08-13 14:06:10
+
+
 
 
 
@@ -1059,6 +1061,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月13日**: [North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_North_Korean_Remote_Workers_Are_Infiltrating_Gover.md)
+**2026年08月13日**: [338 Million Attack Simulations Reveal Where Enterprise Defenses Fail in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_338_Million_Attack_Simulations_Reveal_Where_Enterp.md)
 
-元記事: [North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341a)
+元記事: [338 Million Attack Simulations Reveal Where Enterprise Defenses Fail in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341g)

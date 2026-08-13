@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-12 14:11:46
+**Last Updated**: 2026-08-13 14:03:32
+
+
 
 
 
@@ -1055,6 +1057,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月12日**: [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/12_Zoom_Annotation_Flaws_Could_Let_a_Meeting_Particip.md)
+**2026年08月13日**: [WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_WindRelay_Android_Malware_Turns_Victims_Phones_Int.md)
 
-元記事: [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://inl03.netline.com/ltr6/?_m=3n.009a.4054.sp0ao46r89.340w)
+元記事: [WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.3414)

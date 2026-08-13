@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-13 14:11:12
+**Last Updated**: 2026-08-13 14:12:22
+
+
 
 
 
@@ -1069,6 +1071,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月13日**: [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_737_Chrome_VPN_Extensions_Caught_Routing_Traffic_T.md)
+**2026年08月13日**: [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_OpenAI_Anthropic_Google_API_Flaw_Let_Weaker_AI_Mod.md)
 
-元記事: [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.3424)
+元記事: [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.342a)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-13 14:07:14
+**Last Updated**: 2026-08-13 14:08:40
+
+
 
 
 
@@ -1063,6 +1065,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月13日**: [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_Attackers_Exploit_SharePoint_Authentication_Bypass.md)
+**2026年08月13日**: [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_Lazarus_Exploits_Windows_Zero-Day_to_Gain_SYSTEM_A.md)
 
-元記事: [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341m)
+元記事: [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341s)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-13 14:09:59
+**Last Updated**: 2026-08-13 14:11:12
+
+
 
 
 
@@ -1067,6 +1069,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月13日**: [The Blind Spot in Modern Email Security](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_The_Blind_Spot_in_Modern_Email_Security.md)
+**2026年08月13日**: [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_737_Chrome_VPN_Extensions_Caught_Routing_Traffic_T.md)
 
-元記事: [The Blind Spot in Modern Email Security](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341y)
+元記事: [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.3424)

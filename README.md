@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-13 14:06:10
+**Last Updated**: 2026-08-13 14:07:14
+
+
 
 
 
@@ -1061,6 +1063,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月13日**: [338 Million Attack Simulations Reveal Where Enterprise Defenses Fail in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_338_Million_Attack_Simulations_Reveal_Where_Enterp.md)
+**2026年08月13日**: [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_Attackers_Exploit_SharePoint_Authentication_Bypass.md)
 
-元記事: [338 Million Attack Simulations Reveal Where Enterprise Defenses Fail in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341g)
+元記事: [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.341m)

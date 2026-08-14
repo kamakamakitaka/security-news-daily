@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 13:59:42
+**Last Updated**: 2026-08-14 14:00:43
+
+
 
 
 
@@ -1075,6 +1077,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_CTM360_Uncovers_Over_3000_Recruitment_Phishing_URL.md)
+**2026年08月14日**: [SANS Course: 40 Live-Fire Cloud Labs Across AWS and Azure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_SANS_Course_40_Live-Fire_Cloud_Labs_Across_AWS_and.md)
 
-元記事: [CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.342o)
+元記事: [SANS Course: 40 Live-Fire Cloud Labs Across AWS and Azure](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.342u)

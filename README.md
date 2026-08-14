@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 14:04:40
+**Last Updated**: 2026-08-14 14:05:58
+
+
 
 
 
@@ -1083,6 +1085,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [The Blind Spot in Modern Email Security](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_The_Blind_Spot_in_Modern_Email_Security.md)
+**2026年08月14日**: [China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_China-Linked_Jewelbug_Uses_XG-Web_for_Government_E.md)
 
-元記事: [The Blind Spot in Modern Email Security](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.343c)
+元記事: [China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.343i)

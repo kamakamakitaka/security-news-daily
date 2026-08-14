@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-13 14:12:22
+**Last Updated**: 2026-08-14 13:58:13
+
+
 
 
 
@@ -1071,6 +1073,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月13日**: [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/13_OpenAI_Anthropic_Google_API_Flaw_Let_Weaker_AI_Mod.md)
+**2026年08月14日**: [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Chrome_DevTools_Technique_Enables_Authenticated_Se.md)
 
-元記事: [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://inl03.netline.com/ltr6/?_m=3n.009a.4055.sp0ao46r89.342a)
+元記事: [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.342i)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 14:00:43
+**Last Updated**: 2026-08-14 14:01:57
+
+
 
 
 
@@ -1077,6 +1079,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [SANS Course: 40 Live-Fire Cloud Labs Across AWS and Azure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_SANS_Course_40_Live-Fire_Cloud_Labs_Across_AWS_and.md)
+**2026年08月14日**: [Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Apple_Warns_Users_in_110_Countries_They_May_Be_Tar.md)
 
-元記事: [SANS Course: 40 Live-Fire Cloud Labs Across AWS and Azure](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.342u)
+元記事: [Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.3430)

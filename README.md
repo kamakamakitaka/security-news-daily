@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 14:03:09
+**Last Updated**: 2026-08-14 14:04:40
+
+
 
 
 
@@ -1081,6 +1083,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Trump_Memo_Paves_Way_for_US_Firms_to_Hack_and_Disr.md)
+**2026年08月14日**: [The Blind Spot in Modern Email Security](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_The_Blind_Spot_in_Modern_Email_Security.md)
 
-元記事: [Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.3436)
+元記事: [The Blind Spot in Modern Email Security](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.343c)

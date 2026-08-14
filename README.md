@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 14:05:58
+**Last Updated**: 2026-08-14 14:07:05
+
+
 
 
 
@@ -1085,6 +1087,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_China-Linked_Jewelbug_Uses_XG-Web_for_Government_E.md)
+**2026年08月14日**: [Unpatched GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Unpatched_GeoServer_Zero-Day_Targeted_in_Active_Ex.md)
 
-元記事: [China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.343i)
+元記事: [Unpatched GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.343o)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 14:01:57
+**Last Updated**: 2026-08-14 14:03:09
+
+
 
 
 
@@ -1079,6 +1081,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Apple_Warns_Users_in_110_Countries_They_May_Be_Tar.md)
+**2026年08月14日**: [Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Trump_Memo_Paves_Way_for_US_Firms_to_Hack_and_Disr.md)
 
-元記事: [Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.3430)
+元記事: [Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.3436)

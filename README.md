@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:18:50
+**Last Updated**: 2026-08-15 13:20:16
+
+
 
 
 
@@ -1101,6 +1103,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Chrome_DevTools_Technique_Enables_Authenticated_Se.md)
+**2026年08月15日**: [CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_CTM360_Uncovers_Over_3000_Recruitment_Phishing_URL.md)
 
-元記事: [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344w)
+元記事: [CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.3452)

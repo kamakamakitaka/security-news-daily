@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:16:21
+**Last Updated**: 2026-08-15 13:17:38
+
+
 
 
 
@@ -1097,6 +1099,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [IAM Compliance Requirements and Best Practices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_IAM_Compliance_Requirements_and_Best_Practices.md)
+**2026年08月15日**: [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Mustang_Panda_Adds_Signed_Windows_Rootkit_to_CoolC.md)
 
-元記事: [IAM Compliance Requirements and Best Practices](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344k)
+元記事: [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344q)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-14 14:07:05
+**Last Updated**: 2026-08-15 13:11:10
+
+
 
 
 
@@ -1087,6 +1089,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月14日**: [Unpatched GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/14_Unpatched_GeoServer_Zero-Day_Targeted_in_Active_Ex.md)
+**2026年08月15日**: [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_SAP_Commerce_Cloud_CVE-2026-58231_Targeted_in_Expl.md)
 
-元記事: [Unpatched GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.4056.sp0ao46r89.343o)
+元記事: [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.343w)

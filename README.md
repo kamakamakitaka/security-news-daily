@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:11:10
+**Last Updated**: 2026-08-15 13:12:33
+
+
 
 
 
@@ -1089,6 +1091,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_SAP_Commerce_Cloud_CVE-2026-58231_Targeted_in_Expl.md)
+**2026年08月15日**: [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Apple_macOS_Screen_Sharing_Flaw_Exploited_on_Inter.md)
 
-元記事: [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.343w)
+元記事: [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.3442)

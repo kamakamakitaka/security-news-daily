@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:13:44
+**Last Updated**: 2026-08-15 13:15:01
+
+
 
 
 
@@ -1093,6 +1095,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [Shipping 10–50× More Code? Learn How to Keep Security in Control](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Shipping_1050_More_Code_Learn_How_to_Keep_Security.md)
+**2026年08月15日**: [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Hackers_Spend_Nearly_7_Million_on_Expired_Domains.md)
 
-元記事: [Shipping 10–50× More Code? Learn How to Keep Security in Control](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.3448)
+元記事: [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344e)

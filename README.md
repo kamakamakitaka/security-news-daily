@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:17:38
+**Last Updated**: 2026-08-15 13:18:50
+
+
 
 
 
@@ -1099,6 +1101,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Mustang_Panda_Adds_Signed_Windows_Rootkit_to_CoolC.md)
+**2026年08月15日**: [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Chrome_DevTools_Technique_Enables_Authenticated_Se.md)
 
-元記事: [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344q)
+元記事: [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344w)

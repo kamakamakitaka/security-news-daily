@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:15:01
+**Last Updated**: 2026-08-15 13:16:21
+
+
 
 
 
@@ -1095,6 +1097,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_Hackers_Spend_Nearly_7_Million_on_Expired_Domains.md)
+**2026年08月15日**: [IAM Compliance Requirements and Best Practices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_IAM_Compliance_Requirements_and_Best_Practices.md)
 
-元記事: [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344e)
+元記事: [IAM Compliance Requirements and Best Practices](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.344k)

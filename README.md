@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-17 13:27:01
+**Last Updated**: 2026-08-17 13:28:24
+
+
 
 
 
@@ -1109,6 +1111,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月17日**: [Your Team Shouldn't Spend Hundreds of Hours Hardening Systems](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Your_Team_Shouldnt_Spend_Hundreds_of_Hours_Hardeni.md)
+**2026年08月17日**: [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Evooo1Bot_Linux_Botnet_Exploits_Known_Flaws_to_Tur.md)
 
-元記事: [Your Team Shouldn't Spend Hundreds of Hours Hardening Systems](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345m)
+元記事: [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345s)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-17 13:24:24
+**Last Updated**: 2026-08-17 13:25:43
+
+
 
 
 
@@ -1105,6 +1107,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月17日**: [How MCP Servers Can Expose Enterprise Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_How_MCP_Servers_Can_Expose_Enterprise_Secrets.md)
+**2026年08月17日**: [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Unisoc_VoLTE_Video_Call_Exploit_Chain_Can_Give_Att.md)
 
-元記事: [How MCP Servers Can Expose Enterprise Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345a)
+元記事: [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345g)

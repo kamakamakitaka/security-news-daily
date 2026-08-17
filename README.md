@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-17 13:31:30
+**Last Updated**: 2026-08-17 13:32:49
+
+
 
 
 
@@ -1115,6 +1117,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月17日**: [Why Your AI Developer Tools Might Be Your Biggest Security Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Why_Your_AI_Developer_Tools_Might_Be_Your_Biggest.md)
+**2026年08月17日**: [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_SAP_Commerce_Cloud_CVE-2026-58231_Targeted_in_Expl.md)
 
-元記事: [Why Your AI Developer Tools Might Be Your Biggest Security Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.3464)
+元記事: [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.346a)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-17 13:28:24
+**Last Updated**: 2026-08-17 13:30:01
+
+
 
 
 
@@ -1111,6 +1113,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月17日**: [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Evooo1Bot_Linux_Botnet_Exploits_Known_Flaws_to_Tur.md)
+**2026年08月17日**: [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Suspected_China-Nexus_Actor_Exploits_VMware_vCente.md)
 
-元記事: [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345s)
+元記事: [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345y)

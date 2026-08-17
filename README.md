@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-15 13:20:16
+**Last Updated**: 2026-08-17 13:24:24
+
+
 
 
 
@@ -1103,6 +1105,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月15日**: [CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/15_CTM360_Uncovers_Over_3000_Recruitment_Phishing_URL.md)
+**2026年08月17日**: [How MCP Servers Can Expose Enterprise Secrets](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_How_MCP_Servers_Can_Expose_Enterprise_Secrets.md)
 
-元記事: [CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps](https://inl03.netline.com/ltr6/?_m=3n.009a.4057.sp0ao46r89.3452)
+元記事: [How MCP Servers Can Expose Enterprise Secrets](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.345a)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-18 13:31:31
+**Last Updated**: 2026-08-18 13:32:38
+
+
 
 
 
@@ -1129,6 +1131,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月18日**: [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_CISA_Flags_Actively_Exploited_Ray_Flaw_That_Can_Tr.md)
+**2026年08月18日**: [The Long Road From Pentest Finding to Verified Fix](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_The_Long_Road_From_Pentest_Finding_to_Verified_Fix.md)
 
-元記事: [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.347c)
+元記事: [The Long Road From Pentest Finding to Verified Fix](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.347i)

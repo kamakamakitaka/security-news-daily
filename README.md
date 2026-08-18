@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-17 13:34:07
+**Last Updated**: 2026-08-18 13:26:42
+
+
 
 
 
@@ -1119,6 +1121,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月17日**: [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/17_Apple_macOS_Screen_Sharing_Flaw_Exploited_on_Inter.md)
+**2026年08月18日**: [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_AI_Mind_Viruses_Can_Spread_Between_Agents_Through.md)
 
-元記事: [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://inl03.netline.com/ltr6/?_m=3n.009a.4058.sp0ao46r89.346g)
+元記事: [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.346o)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-18 13:28:06
+**Last Updated**: 2026-08-18 13:29:15
+
+
 
 
 
@@ -1123,6 +1125,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月18日**: [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_One_Attacker_Has_Scraped_Both_Salesforce_and_Servi.md)
+**2026年08月18日**: [Exaforce launches “ExaGo”: Industry's first Voice Powered Mobile AI SOC](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_Exaforce_launches_ExaGo_Industrys_first_Voice_Powe.md)
 
-元記事: [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.346u)
+元記事: [Exaforce launches “ExaGo”: Industry's first Voice Powered Mobile AI SOC](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.3470)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-18 13:33:45
+**Last Updated**: 2026-08-18 13:35:15
+
+
 
 
 
@@ -1133,6 +1135,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月18日**: [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_Critical_GitLab_GraphQL_Flaw_Could_Let_Unauthentic.md)
+**2026年08月18日**: [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_Snowflake_GitHub_Actions_Flaw_Lets_Crafted_Issues.md)
 
-元記事: [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.347o)
+元記事: [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.347u)

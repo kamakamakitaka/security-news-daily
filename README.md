@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-19 13:35:58
+**Last Updated**: 2026-08-19 13:37:13
+
+
 
 
 
@@ -1149,6 +1151,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月19日**: [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Clop-Linked_Windchill_Web_Shell_Decrypts_Credentia.md)
+**2026年08月19日**: [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Microsoft_Copilot_Personal_Flaws_Could_Let_One_Cli.md)
 
-元記事: [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3492)
+元記事: [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3498)

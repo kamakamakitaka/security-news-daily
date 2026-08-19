@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-19 13:28:21
+**Last Updated**: 2026-08-19 13:29:32
+
+
 
 
 
@@ -1137,6 +1139,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月19日**: [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Hackers_Compromised_14500_Dahua_Devices_Using_Cred.md)
+**2026年08月19日**: [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Phishing_30_The_Fight_Moves_to_Agent_Versus_Agent.md)
 
-元記事: [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3482)
+元記事: [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3488)

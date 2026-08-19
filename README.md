@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-19 13:32:11
+**Last Updated**: 2026-08-19 13:33:36
+
+
 
 
 
@@ -1143,6 +1145,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月19日**: [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_StopAndProtect_Uses_Nearly_2000_Hacked_WordPress_S.md)
+**2026年08月19日**: [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Critical_macOS_SharePoint_vCenter_and_Microsoft_IK.md)
 
-元記事: [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.348k)
+元記事: [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.348q)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-19 13:34:45
+**Last Updated**: 2026-08-19 13:35:58
+
+
 
 
 
@@ -1147,6 +1149,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月19日**: [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Microsoft_Links_30_Rotating_Domains_to_MacSync_Ste.md)
+**2026年08月19日**: [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Clop-Linked_Windchill_Web_Shell_Decrypts_Credentia.md)
 
-元記事: [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.348w)
+元記事: [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3492)

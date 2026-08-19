@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-18 13:35:15
+**Last Updated**: 2026-08-19 13:28:21
+
+
 
 
 
@@ -1135,6 +1137,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月18日**: [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/18_Snowflake_GitHub_Actions_Flaw_Lets_Crafted_Issues.md)
+**2026年08月19日**: [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Hackers_Compromised_14500_Dahua_Devices_Using_Cred.md)
 
-元記事: [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://inl03.netline.com/ltr6/?_m=3n.009a.4059.sp0ao46r89.347u)
+元記事: [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3482)

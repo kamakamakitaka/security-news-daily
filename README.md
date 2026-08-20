@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-19 13:37:13
+**Last Updated**: 2026-08-20 13:29:59
+
+
 
 
 
@@ -1151,6 +1153,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月19日**: [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/19_Microsoft_Copilot_Personal_Flaws_Could_Let_One_Cli.md)
+**2026年08月20日**: [Why "Shady AI" is Security's Next Big Governance Problem](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Why_Shady_AI_is_Securitys_Next_Big_Governance_Prob.md)
 
-元記事: [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://inl03.netline.com/ltr6/?_m=3n.009a.4060.sp0ao46r89.3498)
+元記事: [Why "Shady AI" is Security's Next Big Governance Problem](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349g)

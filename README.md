@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-20 13:37:48
+**Last Updated**: 2026-08-20 13:39:08
+
+
 
 
 
@@ -1165,6 +1167,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月20日**: [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Elementor_Pro_Flaw_Could_Let_Unauthenticated_Attac.md)
+**2026年08月20日**: [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Cloudflare_Workers_Spectre_Attack_Leaks_JWT_From_C.md)
 
-元記事: [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.34ag)
+元記事: [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.34am)

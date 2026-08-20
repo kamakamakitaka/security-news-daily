@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-20 13:32:27
+**Last Updated**: 2026-08-20 13:33:46
+
+
 
 
 
@@ -1157,6 +1159,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月20日**: [AI Threat Readiness 101](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_AI_Threat_Readiness_101.md)
+**2026年08月20日**: [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Manic_Android_Malware_Exfiltrates_Data_From_Offlin.md)
 
-元記事: [AI Threat Readiness 101](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349s)
+元記事: [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349y)

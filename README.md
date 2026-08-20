@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-20 13:33:46
+**Last Updated**: 2026-08-20 13:35:06
+
+
 
 
 
@@ -1159,6 +1161,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月20日**: [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Manic_Android_Malware_Exfiltrates_Data_From_Offlin.md)
+**2026年08月20日**: [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_NASA_AIT-GUI_Flaws_Could_Let_Unauthenticated_Attac.md)
 
-元記事: [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349y)
+元記事: [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.34a4)

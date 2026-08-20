@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-20 13:29:59
+**Last Updated**: 2026-08-20 13:31:19
+
+
 
 
 
@@ -1153,6 +1155,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月20日**: [Why "Shady AI" is Security's Next Big Governance Problem](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Why_Shady_AI_is_Securitys_Next_Big_Governance_Prob.md)
+**2026年08月20日**: [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_CDN_Tsunami_Attack_Abuses_HTTP3_Translation_for_Up.md)
 
-元記事: [Why "Shady AI" is Security's Next Big Governance Problem](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349g)
+元記事: [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349m)

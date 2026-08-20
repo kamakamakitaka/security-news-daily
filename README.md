@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-20 13:31:19
+**Last Updated**: 2026-08-20 13:32:27
+
+
 
 
 
@@ -1155,6 +1157,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月20日**: [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_CDN_Tsunami_Attack_Abuses_HTTP3_Translation_for_Up.md)
+**2026年08月20日**: [AI Threat Readiness 101](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_AI_Threat_Readiness_101.md)
 
-元記事: [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349m)
+元記事: [AI Threat Readiness 101](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.349s)

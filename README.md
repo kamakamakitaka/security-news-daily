@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-20 13:39:08
+**Last Updated**: 2026-08-21 13:29:19
+
+
 
 
 
@@ -1167,6 +1169,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月20日**: [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/20_Cloudflare_Workers_Spectre_Attack_Leaks_JWT_From_C.md)
+**2026年08月21日**: [Wazuh and AI For Enhanced SOC Workflows](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Wazuh_and_AI_For_Enhanced_SOC_Workflows.md)
 
-元記事: [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://inl03.netline.com/ltr6/?_m=3n.009a.4061.sp0ao46r89.34am)
+元記事: [Wazuh and AI For Enhanced SOC Workflows](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34au)

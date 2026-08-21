@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-21 13:31:32
+**Last Updated**: 2026-08-21 13:32:38
+
+
 
 
 
@@ -1173,6 +1175,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月21日**: [$1.5B in 9 Months: The Real Cost of Deepfake Fraud](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_15B_in_9_Months_The_Real_Cost_of_Deepfake_Fraud.md)
+**2026年08月21日**: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_GitLab_CVE-2026-19478_Comes_Under_Active_Exploitat.md)
 
-元記事: [$1.5B in 9 Months: The Real Cost of Deepfake Fraud](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34b6)
+元記事: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34bc)

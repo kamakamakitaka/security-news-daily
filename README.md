@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-21 13:32:38
+**Last Updated**: 2026-08-21 13:33:39
+
+
 
 
 
@@ -1175,6 +1177,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月21日**: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_GitLab_CVE-2026-19478_Comes_Under_Active_Exploitat.md)
+**2026年08月21日**: [Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Microsoft_Entra_ID_Flaw_CVSS_100_Exploited_in_Wild.md)
 
-元記事: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34bc)
+元記事: [Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34bi)

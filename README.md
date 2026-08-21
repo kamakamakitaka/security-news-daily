@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-21 13:36:19
+**Last Updated**: 2026-08-21 13:37:30
+
+
 
 
 
@@ -1181,6 +1183,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月21日**: [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Rust_Supply_Chain_Attack_Puts_Build-Time_Malware_i.md)
+**2026年08月21日**: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Zombie_Card_Attack_Can_Revive_Expired_Visa_Cards_f.md)
 
-元記事: [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34bu)
+元記事: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34c0)

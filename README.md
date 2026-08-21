@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-21 13:29:19
+**Last Updated**: 2026-08-21 13:30:30
+
+
 
 
 
@@ -1169,6 +1171,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月21日**: [Wazuh and AI For Enhanced SOC Workflows](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Wazuh_and_AI_For_Enhanced_SOC_Workflows.md)
+**2026年08月21日**: [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Cisco_Patches_Nine_Crosswork_and_Secure_Workload_F.md)
 
-元記事: [Wazuh and AI For Enhanced SOC Workflows](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34au)
+元記事: [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34b0)

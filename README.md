@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-21 13:37:30
+**Last Updated**: 2026-08-22 13:12:42
+
+
 
 
 
@@ -1183,6 +1185,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月21日**: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/21_Zombie_Card_Attack_Can_Revive_Expired_Visa_Cards_f.md)
+**2026年08月22日**: [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/22_14_Trojanized_npm_Packages_Drop_RedC2_40_Linux_Bac.md)
 
-元記事: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://inl03.netline.com/ltr6/?_m=3n.009a.4062.sp0ao46r89.34c0)
+元記事: [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://inl03.netline.com/ltr6/?_m=3n.009a.4063.sp0ao46r89.34c8)

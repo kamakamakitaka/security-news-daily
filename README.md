@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-22 13:18:53
+**Last Updated**: 2026-08-22 13:20:11
+
+
 
 
 
@@ -1195,6 +1197,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月22日**: [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/22_Cisco_Patches_Nine_Crosswork_and_Secure_Workload_F.md)
+**2026年08月22日**: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/22_Zombie_Card_Attack_Can_Revive_Expired_Visa_Cards_f.md)
 
-元記事: [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://inl03.netline.com/ltr6/?_m=3n.009a.4063.sp0ao46r89.34d2)
+元記事: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://inl03.netline.com/ltr6/?_m=3n.009a.4063.sp0ao46r89.34d8)

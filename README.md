@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-22 13:20:11
+**Last Updated**: 2026-08-22 13:21:17
+
+
 
 
 
@@ -1197,6 +1199,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月22日**: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/22_Zombie_Card_Attack_Can_Revive_Expired_Visa_Cards_f.md)
+**2026年08月22日**: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/22_GitLab_CVE-2026-19478_Comes_Under_Active_Exploitat.md)
 
-元記事: [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://inl03.netline.com/ltr6/?_m=3n.009a.4063.sp0ao46r89.34d8)
+元記事: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://inl03.netline.com/ltr6/?_m=3n.009a.4063.sp0ao46r89.34de)

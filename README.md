@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:38:39
+**Last Updated**: 2026-08-24 13:40:12
+
+
 
 
 
@@ -1209,6 +1211,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_The_Outsized_Shadow_Why_5_of_AI_Users_Are_Your_Big.md)
+**2026年08月24日**: [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_UAT-10147_Uses_AI_to_Scale_Server_Attacks_Deploys.md)
 
-元記事: [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34ea)
+元記事: [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34eg)

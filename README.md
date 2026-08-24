@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:35:44
+**Last Updated**: 2026-08-24 13:37:14
+
+
 
 
 
@@ -1205,6 +1207,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [Save 15% on CIS SecureSuite® Membership This Summer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_Save_15_on_CIS_SecureSuite_Membership_This_Summer.md)
+**2026年08月24日**: [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_Operation_QUICSILVER_Targets_Myanmar_Government_an.md)
 
-元記事: [Save 15% on CIS SecureSuite® Membership This Summer](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34dy)
+元記事: [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34e4)

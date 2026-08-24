@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:40:12
+**Last Updated**: 2026-08-24 13:41:08
+
+
 
 
 
@@ -1211,6 +1213,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_UAT-10147_Uses_AI_to_Scale_Server_Attacks_Deploys.md)
+**2026年08月24日**: [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_TikTok_Agrees_to_400_Million_Settlement_in_US_Chil.md)
 
-元記事: [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34eg)
+元記事: [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34em)

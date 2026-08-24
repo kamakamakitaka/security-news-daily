@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:41:08
+**Last Updated**: 2026-08-24 13:42:23
+
+
 
 
 
@@ -1213,6 +1215,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_TikTok_Agrees_to_400_Million_Settlement_in_US_Chil.md)
+**2026年08月24日**: [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_14_Trojanized_npm_Packages_Drop_RedC2_40_Linux_Bac.md)
 
-元記事: [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34em)
+元記事: [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34es)

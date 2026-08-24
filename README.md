@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:34:52
+**Last Updated**: 2026-08-24 13:35:44
+
+
 
 
 
@@ -1203,6 +1205,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_Critical_Keycloak_Password_Reset_Flaw_Could_Let_Un.md)
+**2026年08月24日**: [Save 15% on CIS SecureSuite® Membership This Summer](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_Save_15_on_CIS_SecureSuite_Membership_This_Summer.md)
 
-元記事: [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34ds)
+元記事: [Save 15% on CIS SecureSuite® Membership This Summer](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34dy)

@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:37:14
+**Last Updated**: 2026-08-24 13:38:39
+
+
 
 
 
@@ -1207,6 +1209,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_Operation_QUICSILVER_Targets_Myanmar_Government_an.md)
+**2026年08月24日**: [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_The_Outsized_Shadow_Why_5_of_AI_Users_Are_Your_Big.md)
 
-元記事: [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34e4)
+元記事: [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34ea)

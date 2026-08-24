@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-22 13:21:17
+**Last Updated**: 2026-08-24 13:33:33
+
+
 
 
 
@@ -1199,6 +1201,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月22日**: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/22_GitLab_CVE-2026-19478_Comes_Under_Active_Exploitat.md)
+**2026年08月24日**: [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_Shipping_More_AI_Code_Than_You_Can_Secure_Watch_Ho.md)
 
-元記事: [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://inl03.netline.com/ltr6/?_m=3n.009a.4063.sp0ao46r89.34de)
+元記事: [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34dm)

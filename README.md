@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-24 13:42:23
+**Last Updated**: 2026-08-25 13:31:37
+
+
 
 
 
@@ -1215,6 +1217,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月24日**: [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/24_14_Trojanized_npm_Packages_Drop_RedC2_40_Linux_Bac.md)
+**2026年08月25日**: [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Mirage2FA_Surge_Hits_4500_US_and_EU_Companies_Abus.md)
 
-元記事: [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://inl03.netline.com/ltr6/?_m=3n.009a.4064.sp0ao46r89.34es)
+元記事: [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34f0)

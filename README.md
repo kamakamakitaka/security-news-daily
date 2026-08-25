@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:33:56
+**Last Updated**: 2026-08-25 13:35:12
+
+
 
 
 
@@ -1221,6 +1223,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [Enterprises Log 58% of Attacks but Alert on Only 14%, New Research Finds](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Enterprises_Log_58_of_Attacks_but_Alert_on_Only_14.md)
+**2026年08月25日**: [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_E4del_and_PINHOLE_RATs_Turn_FTP_Banners_Into_Dead.md)
 
-元記事: [Enterprises Log 58% of Attacks but Alert on Only 14%, New Research Finds](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fc)
+元記事: [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fi)

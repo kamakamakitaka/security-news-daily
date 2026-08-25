@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:32:54
+**Last Updated**: 2026-08-25 13:33:56
+
+
 
 
 
@@ -1219,6 +1221,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_24_npm_Packages_Abuse_unpkg_Mirrors_to_Host_Fake_C.md)
+**2026年08月25日**: [Enterprises Log 58% of Attacks but Alert on Only 14%, New Research Finds](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Enterprises_Log_58_of_Attacks_but_Alert_on_Only_14.md)
 
-元記事: [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34f6)
+元記事: [Enterprises Log 58% of Attacks but Alert on Only 14%, New Research Finds](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fc)

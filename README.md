@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:37:26
+**Last Updated**: 2026-08-25 13:38:36
+
+
 
 
 
@@ -1227,6 +1229,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [Why AI Teams Need Verifiable Search Data Instead of Black-Box Signals](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Why_AI_Teams_Need_Verifiable_Search_Data_Instead_o.md)
+**2026年08月25日**: [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Attackers_Target_miniOrange_SAML_Flaws_That_Can_Gr.md)
 
-元記事: [Why AI Teams Need Verifiable Search Data Instead of Black-Box Signals](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fu)
+元記事: [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34g0)

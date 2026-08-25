@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:38:36
+**Last Updated**: 2026-08-25 13:39:41
+
+
 
 
 
@@ -1229,6 +1231,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Attackers_Target_miniOrange_SAML_Flaws_That_Can_Gr.md)
+**2026年08月25日**: [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Actively_Exploited_Oracle_WebLogic_Flaw_Lets_Unaut.md)
 
-元記事: [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34g0)
+元記事: [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34g6)

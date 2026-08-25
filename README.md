@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:36:21
+**Last Updated**: 2026-08-25 13:37:26
+
+
 
 
 
@@ -1225,6 +1227,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [Frontier AI: Vulnerability Management's Systemic Revolution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Frontier_AI_Vulnerability_Managements_Systemic_Rev.md)
+**2026年08月25日**: [Why AI Teams Need Verifiable Search Data Instead of Black-Box Signals](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Why_AI_Teams_Need_Verifiable_Search_Data_Instead_o.md)
 
-元記事: [Frontier AI: Vulnerability Management's Systemic Revolution](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fo)
+元記事: [Why AI Teams Need Verifiable Search Data Instead of Black-Box Signals](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fu)

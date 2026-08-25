@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:35:12
+**Last Updated**: 2026-08-25 13:36:21
+
+
 
 
 
@@ -1223,6 +1225,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_E4del_and_PINHOLE_RATs_Turn_FTP_Banners_Into_Dead.md)
+**2026年08月25日**: [Frontier AI: Vulnerability Management's Systemic Revolution](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Frontier_AI_Vulnerability_Managements_Systemic_Rev.md)
 
-元記事: [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fi)
+元記事: [Frontier AI: Vulnerability Management's Systemic Revolution](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34fo)

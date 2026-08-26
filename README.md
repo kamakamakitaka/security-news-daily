@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-26 13:38:40
+**Last Updated**: 2026-08-26 13:39:41
+
+
 
 
 
@@ -1235,6 +1237,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月26日**: [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Imagine_the_SOC_Without_a_Queue_From_Alert_Backlog.md)
+**2026年08月26日**: [Classifiers, Anomaly Detection, Neural Nets: Hands-On Course](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Classifiers_Anomaly_Detection_Neural_Nets_Hands-On.md)
 
-元記事: [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34gk)
+元記事: [Classifiers, Anomaly Detection, Neural Nets: Hands-On Course](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34gq)

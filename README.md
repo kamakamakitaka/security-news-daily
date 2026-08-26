@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-26 13:43:37
+**Last Updated**: 2026-08-26 13:44:53
+
+
 
 
 
@@ -1243,6 +1245,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月26日**: [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Critical_Gitea_RCE_Actively_Exploited_as_Reported.md)
+**2026年08月26日**: [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_INTERPOL_Operation_Jackal_IV_Arrests_58_Identifies.md)
 
-元記事: [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34hb)
+元記事: [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34hh)

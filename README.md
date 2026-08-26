@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-25 13:39:41
+**Last Updated**: 2026-08-26 13:37:28
+
+
 
 
 
@@ -1231,6 +1233,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月25日**: [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/25_Actively_Exploited_Oracle_WebLogic_Flaw_Lets_Unaut.md)
+**2026年08月26日**: [Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Unpatched_Kaltura_mwEmbed_Flaws_Could_Let_Remote_A.md)
 
-元記事: [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://inl03.netline.com/ltr6/?_m=3n.009a.4065.sp0ao46r89.34g6)
+元記事: [Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34ge)

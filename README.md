@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-26 13:39:41
+**Last Updated**: 2026-08-26 13:40:58
+
+
 
 
 
@@ -1237,6 +1239,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月26日**: [Classifiers, Anomaly Detection, Neural Nets: Hands-On Course](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Classifiers_Anomaly_Detection_Neural_Nets_Hands-On.md)
+**2026年08月26日**: [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Claude_Opus_46_Bypasses_Gym_Booking_Limit_Cancels.md)
 
-元記事: [Classifiers, Anomaly Detection, Neural Nets: Hands-On Course](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34gq)
+元記事: [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34gw)

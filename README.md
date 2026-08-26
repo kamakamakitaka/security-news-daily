@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-26 13:40:58
+**Last Updated**: 2026-08-26 13:42:25
+
+
 
 
 
@@ -1239,6 +1241,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月26日**: [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Claude_Opus_46_Bypasses_Gym_Booking_Limit_Cancels.md)
+**2026年08月26日**: [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Newly_SLEEPWALKER_Backdoor_Waits_for_One_Crafted_P.md)
 
-元記事: [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34gw)
+元記事: [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34h2)

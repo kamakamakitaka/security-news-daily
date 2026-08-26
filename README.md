@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-26 13:42:25
+**Last Updated**: 2026-08-26 13:43:37
+
+
 
 
 
@@ -1241,6 +1243,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月26日**: [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Newly_SLEEPWALKER_Backdoor_Waits_for_One_Crafted_P.md)
+**2026年08月26日**: [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/26_Critical_Gitea_RCE_Actively_Exploited_as_Reported.md)
 
-元記事: [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34h2)
+元記事: [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://inl03.netline.com/ltr6/?_m=3n.009a.4066.sp0ao46r89.34hb)

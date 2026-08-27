@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-27 22:40:16
+**Last Updated**: 2026-08-27 22:41:46
+
+
 
 
 
@@ -1255,6 +1257,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月27日**: [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_GoCaracal_Malware_Uses_Ethereum_Smart_Contract_to.md)
+**2026年08月27日**: [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_New_GPUThor_Rowhammer_Defeats_ECC_on_NVIDIA_RTX_A6.md)
 
-元記事: [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34id)
+元記事: [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34ij)

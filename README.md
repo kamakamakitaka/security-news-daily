@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-27 22:36:15
+**Last Updated**: 2026-08-27 22:37:45
+
+
 
 
 
@@ -1249,6 +1251,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月27日**: [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_Alleged_TeamPCP_Hackers_Charged_in_Australia_Over.md)
+**2026年08月27日**: [Credential Sprawl Was a Problem Before AI. Now It’s a Crisis.](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_Credential_Sprawl_Was_a_Problem_Before_AI_Now_Its.md)
 
-元記事: [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34hv)
+元記事: [Credential Sprawl Was a Problem Before AI. Now It’s a Crisis.](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34i1)

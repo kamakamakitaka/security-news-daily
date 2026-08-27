@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-27 22:34:58
+**Last Updated**: 2026-08-27 22:36:15
+
+
 
 
 
@@ -1247,6 +1249,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月27日**: [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_Learn_How_to_Build_Security_Operations_Ready_for_A.md)
+**2026年08月27日**: [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_Alleged_TeamPCP_Hackers_Charged_in_Australia_Over.md)
 
-元記事: [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34hp)
+元記事: [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34hv)

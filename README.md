@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-27 22:41:46
+**Last Updated**: 2026-08-27 22:43:13
+
+
 
 
 
@@ -1257,6 +1259,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月27日**: [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_New_GPUThor_Rowhammer_Defeats_ECC_on_NVIDIA_RTX_A6.md)
+**2026年08月27日**: [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_Spark_RAT_Targets_Cambodia_Abuses_Vulnerable_OPSWA.md)
 
-元記事: [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34ij)
+元記事: [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34ip)

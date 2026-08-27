@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-27 22:43:13
+**Last Updated**: 2026-08-27 22:44:35
+
+
 
 
 
@@ -1259,6 +1261,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月27日**: [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_Spark_RAT_Targets_Cambodia_Abuses_Vulnerable_OPSWA.md)
+**2026年08月27日**: [CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_CISA_Adds_Six_Exploited_Flaws_to_KEV_Including_Net.md)
 
-元記事: [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34ip)
+元記事: [CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34iv)

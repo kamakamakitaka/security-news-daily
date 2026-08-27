@@ -34,7 +34,9 @@
 
 ---
 
-**Last Updated**: 2026-08-27 22:38:59
+**Last Updated**: 2026-08-27 22:40:16
+
+
 
 
 
@@ -1253,6 +1255,6 @@
 
 ## 📌 最新の解説
 
-**2026年08月27日**: [What the Data Says About AI in Security Operations in 2026](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_What_the_Data_Says_About_AI_in_Security_Operations.md)
+**2026年08月27日**: [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://github.com/kamakamakitaka/security-news-daily/blob/main/daily/2026/08/27_GoCaracal_Malware_Uses_Ethereum_Smart_Contract_to.md)
 
-元記事: [What the Data Says About AI in Security Operations in 2026](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34i7)
+元記事: [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://inl03.netline.com/ltr6/?_m=3n.009a.4067.sp0ao46r89.34id)
